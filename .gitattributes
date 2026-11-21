@@ -1,0 +1,3 @@
+# Committed inputs are checked byte for byte against inputs/SHA256SUMS, so git must never
+# convert their line endings (the DfT CSVs are CRLF as published).
+inputs/** -text

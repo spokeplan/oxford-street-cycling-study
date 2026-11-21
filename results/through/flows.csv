@@ -1,0 +1,65 @@
+group,predictor,parameter,predicted,oneway,ways,q1,median,q3
+validation set,on a fastest path,,through,yes,9,3166,4155,5941
+validation set,on a fastest path,,through,no,13,3096,6714,7825
+validation set,on a fastest path,,not through,yes,33,927,2140,3109
+validation set,on a fastest path,,not through,no,31,632,2828,4239
+validation set,on fastest paths of >= k trips,1,through,yes,9,3166,4155,5941
+validation set,on fastest paths of >= k trips,1,through,no,13,3096,6714,7825
+validation set,on fastest paths of >= k trips,1,not through,yes,33,927,2140,3109
+validation set,on fastest paths of >= k trips,1,not through,no,31,632,2828,4239
+validation set,within 1.1 of a fastest path,,through,yes,38,1115,2254,3482
+validation set,within 1.1 of a fastest path,,through,no,44,957,3405,4924
+validation set,within 1.1 of a fastest path,,not through,yes,4,2923,9919,20314
+validation set,within 1.1 of a fastest path,,not through,no,0,,,
+validation set,within 1.2 of a fastest path,,through,yes,39,1063,2234,3453
+validation set,within 1.2 of a fastest path,,through,no,44,957,3405,4924
+validation set,within 1.2 of a fastest path,,not through,yes,3,9919,16225,24404
+validation set,within 1.2 of a fastest path,,not through,no,0,,,
+validation set,within 1.3 of a fastest path,,through,yes,39,1063,2234,3453
+validation set,within 1.3 of a fastest path,,through,no,44,957,3405,4924
+validation set,within 1.3 of a fastest path,,not through,yes,3,9919,16225,24404
+validation set,within 1.3 of a fastest path,,not through,no,0,,,
+validation set,detour ratio <= r,1.035,through,yes,33,1207,2409,3511
+validation set,detour ratio <= r,1.035,through,no,41,1622,3849,5463
+validation set,detour ratio <= r,1.035,not through,yes,9,623,2234,4579
+validation set,detour ratio <= r,1.035,not through,no,3,394,413,414
+validation set,within tolerance of a fastest path for >= k trips,1.1:100,through,yes,37,1186,2274,3511
+validation set,within tolerance of a fastest path for >= k trips,1.1:100,through,no,41,1622,3849,5463
+validation set,within tolerance of a fastest path for >= k trips,1.1:100,not through,yes,5,927,3612,16225
+validation set,within tolerance of a fastest path for >= k trips,1.1:100,not through,no,3,434,454,772
+validation set,structural,,through,yes,39,1063,2234,3453
+validation set,structural,,through,no,42,1222,3683,5283
+validation set,structural,,not through,yes,3,9919,16225,24404
+validation set,structural,,not through,no,2,170,265,359
+all counted ways,on a fastest path,,through,yes,59,6217,12831,26968
+all counted ways,on a fastest path,,through,no,91,8098,10186,14741
+all counted ways,on a fastest path,,not through,yes,45,1035,2230,4334
+all counted ways,on a fastest path,,not through,no,33,655,2969,4339
+all counted ways,on fastest paths of >= k trips,1,through,yes,59,6217,12831,26968
+all counted ways,on fastest paths of >= k trips,1,through,no,91,8098,10186,14741
+all counted ways,on fastest paths of >= k trips,1,not through,yes,45,1035,2230,4334
+all counted ways,on fastest paths of >= k trips,1,not through,no,33,655,2969,4339
+all counted ways,within 1.1 of a fastest path,,through,yes,97,2274,5919,17071
+all counted ways,within 1.1 of a fastest path,,through,no,122,4320,8862,12220
+all counted ways,within 1.1 of a fastest path,,not through,yes,7,2352,9914,17593
+all counted ways,within 1.1 of a fastest path,,not through,no,2,7631,8710,9788
+all counted ways,within 1.2 of a fastest path,,through,yes,98,2244,5871,16775
+all counted ways,within 1.2 of a fastest path,,through,no,122,4320,8862,12220
+all counted ways,within 1.2 of a fastest path,,not through,yes,6,5188,13070,18276
+all counted ways,within 1.2 of a fastest path,,not through,no,2,7631,8710,9788
+all counted ways,within 1.3 of a fastest path,,through,yes,98,2244,5871,16775
+all counted ways,within 1.3 of a fastest path,,through,no,122,4320,8862,12220
+all counted ways,within 1.3 of a fastest path,,not through,yes,6,5188,13070,18276
+all counted ways,within 1.3 of a fastest path,,not through,no,2,7631,8710,9788
+all counted ways,detour ratio <= r,1.035,through,yes,92,2623,6217,17405
+all counted ways,detour ratio <= r,1.035,through,no,119,4514,8916,12529
+all counted ways,detour ratio <= r,1.035,not through,yes,12,797,2923,11492
+all counted ways,detour ratio <= r,1.035,not through,no,5,413,415,6552
+all counted ways,within tolerance of a fastest path for >= k trips,1.1:100,through,yes,91,2254,5567,14994
+all counted ways,within tolerance of a fastest path for >= k trips,1.1:100,through,no,119,4514,8916,12529
+all counted ways,within tolerance of a fastest path for >= k trips,1.1:100,not through,yes,13,3612,16225,18960
+all counted ways,within tolerance of a fastest path for >= k trips,1.1:100,not through,no,5,454,1089,6552
+all counted ways,structural,,through,yes,99,2254,5919,17182
+all counted ways,structural,,through,no,121,4488,8885,12248
+all counted ways,structural,,not through,yes,5,3612,9914,16225
+all counted ways,structural,,not through,no,3,265,454,5661

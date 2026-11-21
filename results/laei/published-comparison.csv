@@ -1,0 +1,58 @@
+way_id,name,ref,highway,class_group,oneway,way_m,count_id,hours,year,estimation_method,count_adt,laei_adt,ratio
+31039,Tottenham Court Road,,primary,major,no,53,camden-wep-1-4,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",8185,10318,1.261
+31959,Cleveland Street,,residential,minor,yes,41,tfl-ML1564,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",927,46,0.050
+3241842,Tavistock Square,,tertiary,minor,yes,17,camden-tor-tavistock-sq-south,12,2018,"manual classified count, 07:00-19:00, one weekday",3395,4102,1.208
+3754158,Lloyd Baker Street,,unclassified,minor,yes,219,tfl-ML0169,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",1776,3730,2.100
+4253462,Wardour Street,,tertiary,minor,yes,183,tfl-ML0141,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",5822,12393,2.129
+4253846,Crawford Street,,unclassified,minor,no,91,tfl-ML1467,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",4100,9471,2.310
+4370938,New Bond Street,B406,secondary,major,yes,185,tfl-ML0112,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",5079,9770,1.924
+4376573,Dean Street,,residential,minor,yes,44,wcc-soho-12,24,2024,"number-plate cameras (ANPR), 24 h, one weekday",1487,2381,1.601
+4376581,New Oxford Street,A40,primary,major,no,64,camden-wep-13-1,24,2017,"automatic traffic counter, average of the weekdays in a 14-day survey",9987,5920,0.593
+8032448,Brunswick Square,B504,unclassified,minor,no,60,tfl-ML1563,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",75,4167,55.560
+10064542,Guilford Street,B502,secondary,major,no,94,tfl-ML1485,16,2019,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",7274,4167,0.573
+17926243,Regent Square,,tertiary,minor,no,84,tfl-ML0121,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday (mean of 2 days)",3096,9140,2.952
+18771038,Devonshire Street,,unclassified,minor,no,108,tfl-ML0199,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",4313,12464,2.890
+30279886,Berners Street,,unclassified,minor,yes,207,tfl-ML0197,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",3101,2445,0.788
+41660591,Goodge Street,A5204,primary,major,no,42,camden-wep-16-1,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",8138,5835,0.717
+49797427,Bow Street,,unclassified,minor,no,121,tfl-ML1562,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",5533,7097,1.283
+49932193,Judd Street,B504,tertiary,minor,no,109,tfl-ML1486,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",2606,3291,1.263
+49934825,Gordon Square,,tertiary,minor,yes,16,tfl-ML1482,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",5567,3848,0.691
+66789463,Sussex Gardens,A4209,primary,major,no,28,tfl-ML0269,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",14781,7907,0.535
+68543461,Wardour Street,,tertiary,minor,yes,89,wcc-soho-10,24,2024,"number-plate cameras (ANPR), 24 h, one weekday",2846,9705,3.410
+147248799,Bloomsbury Street,A400,primary,major,no,10,tfl-ML0058,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",11919,4687,0.393
+148519536,Endell Street,B401,secondary,major,yes,70,tfl-ML1483,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",6657,7058,1.060
+150700763,Great Cumberland Place,,unclassified,minor,no,237,tfl-ML0193,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",7825,10202,1.304
+156159278,Calthorpe Street,B502,secondary,major,no,73,tfl-ML0111,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",2859,15695,5.490
+199513265,Theobalds Road,A401,primary,major,no,82,tfl-ML0052,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",16839,13489,0.801
+200598186,Waterloo Bridge,A301,primary,major,yes,277,tfl-ML0017,16,2019,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",30914,25044,0.810
+224187822,Hampstead Road,A400,trunk,major,no,36,tfl-ML0266,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",21128,4685,0.222
+235991125,New Cavendish Street,,tertiary,minor,yes,95,tfl-ML0138,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",9098,15624,1.717
+236141635,Byng Place,,tertiary,minor,yes,44,camden-tor-byng-place,12,2018,"manual classified count, 07:00-19:00, one weekday",4155,5070,1.220
+236943604,Old Marylebone Road,A501,trunk,major,no,86,tfl-ML1460,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",13056,9571,0.733
+303559648,Tottenham Court Road,,primary,major,no,88,tfl-ML0059,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",10452,10314,0.987
+303982842,Bloomsbury Way,A40,primary,major,no,39,tfl-ML0056,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",14470,1169,0.081
+306452416,Bedford Way,,residential,minor,no,226,camden-tor-bedford-way,12,2018,"manual classified count, 07:00-19:00, one weekday",5463,7373,1.350
+306452424,Tavistock Square,A4200,primary,major,no,96,camden-tor-tavistock-sq-east,12,2018,"manual classified count, 07:00-19:00, one weekday",11755,16654,1.417
+438319268,Hunter Street,B504,secondary,major,no,79,tfl-ML0109,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",2508,6704,2.673
+491003673,St Giles High Street,A40,primary,major,yes,74,camden-wep-12-1,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",845,707,0.837
+502228876,Berkeley Street,,tertiary,minor,yes,65,tfl-ML0142,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",5941,5632,0.948
+502230296,Harley Street,,tertiary,minor,yes,289,tfl-ML1472,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",4334,3207,0.740
+667569297,Howland Street,,tertiary,minor,yes,9,camden-wep-20-1,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",3109,1564,0.503
+685020269,Tottenham Court Road,,primary,major,no,57,camden-wep-1-1,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",5038,8169,1.621
+694562117,Gower Street,A400,primary,major,no,155,camden-wep-2-2,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",11621,13934,1.199
+694563842,Gower Street,A400,primary,major,no,102,camden-wep-2-3,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",12005,15490,1.290
+694567127,Bloomsbury Street,A400,primary,major,no,61,camden-wep-2-4,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",11186,7538,0.674
+741348618,High Holborn,A40,primary,major,no,65,camden-wep-12-2,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",8916,10504,1.178
+780679293,Gloucester Place,A4380,primary,major,no,41,tfl-ML0075,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",12809,9623,0.751
+884555174,Gower Street,A400,primary,major,no,34,camden-wep-2-1,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",9822,11197,1.140
+981181267,Harley Street,,tertiary,minor,yes,31,tfl-ML1471,16,2017,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",5295,1626,0.307
+996664293,Tottenham Court Road,,primary,major,no,20,camden-wep-1-2,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",12050,9225,0.766
+1006641970,Tavistock Place,,tertiary,minor,yes,79,tfl-ML1490,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday (mean of 2 days)",3166,6076,1.919
+1040319608,Shaftesbury Avenue,A401,primary,major,no,58,camden-wep-14-1,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",14700,10880,0.740
+1067635356,Tottenham Court Road,,primary,major,no,35,camden-wep-1-3,24,2022,"automatic traffic counter, average of the weekdays in a 21-day survey",6073,10184,1.677
+1173181601,George Street,,tertiary,minor,no,135,tfl-ML1569,24,2021,"classified count of motor vehicles by type, 15-minute intervals, 24 h on a weekday",5756,5593,0.972
+1301727874,Outer Circle,,unclassified,minor,no,232,tfl-ML0822,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",8797,7874,0.895
+1302370440,Outer Circle,,unclassified,minor,no,123,tfl-ML0816,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",11013,8449,0.767
+1302738912,Outer Circle,,unclassified,minor,no,150,tfl-ML0820,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",11064,9586,0.866
+1303266783,Outer Circle,,unclassified,minor,no,200,tfl-ML0819,16,2018,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",6798,6168,0.907
+1547787307,Cleveland Street,,tertiary,minor,yes,36,tfl-ML1565,16,2023,"classified count of motor vehicles by type, 15-minute intervals, 16 h on a weekday",1207,3404,2.820

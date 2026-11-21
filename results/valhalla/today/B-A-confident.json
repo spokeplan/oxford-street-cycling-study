@@ -1,0 +1,275 @@
+{
+  "trip": {
+    "locations": [
+      {
+        "type": "break",
+        "lat": 51.51587,
+        "lon": -0.13027,
+        "original_index": 0
+      },
+      {
+        "type": "break",
+        "lat": 51.5132,
+        "lon": -0.15874,
+        "original_index": 1
+      }
+    ],
+    "legs": [
+      {
+        "maneuvers": [
+          {
+            "type": 1,
+            "instruction": "Bike south on Charing Cross Road/A400.",
+            "verbal_succinct_transition_instruction": "Bike south. Then, in 100 meters, Turn right onto Manette Street.",
+            "verbal_pre_transition_instruction": "Bike south on Charing Cross Road, A400. Then, in 100 meters, Turn right onto Manette Street.",
+            "verbal_post_transition_instruction": "Continue for 100 meters.",
+            "street_names": [
+              "Charing Cross Road",
+              "A400"
+            ],
+            "time": 16.295,
+            "length": 0.112,
+            "cost": 32.531,
+            "begin_shape_index": 0,
+            "end_shape_index": 13,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Manette Street.",
+            "verbal_transition_alert_instruction": "Turn right onto Manette Street.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Manette Street.",
+            "verbal_post_transition_instruction": "Continue for 100 meters.",
+            "street_names": [
+              "Manette Street"
+            ],
+            "time": 28.3,
+            "length": 0.099,
+            "cost": 85.858,
+            "begin_shape_index": 13,
+            "end_shape_index": 26,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Greek Street.",
+            "verbal_transition_alert_instruction": "Turn right onto Greek Street.",
+            "verbal_succinct_transition_instruction": "Turn right. Then Turn left onto Soho Square.",
+            "verbal_pre_transition_instruction": "Turn right onto Greek Street. Then Turn left onto Soho Square.",
+            "verbal_post_transition_instruction": "Continue for 50 meters.",
+            "street_names": [
+              "Greek Street"
+            ],
+            "time": 13.638,
+            "length": 0.052,
+            "cost": 58.862,
+            "begin_shape_index": 26,
+            "end_shape_index": 30,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Soho Square.",
+            "verbal_transition_alert_instruction": "Turn left onto Soho Square.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Soho Square.",
+            "verbal_post_transition_instruction": "Continue for 200 meters.",
+            "street_names": [
+              "Soho Square"
+            ],
+            "time": 33.816,
+            "length": 0.189,
+            "cost": 79.59,
+            "begin_shape_index": 30,
+            "end_shape_index": 43,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Soho Street.",
+            "verbal_transition_alert_instruction": "Turn left onto Soho Street.",
+            "verbal_succinct_transition_instruction": "Turn left. Then Turn left onto Oxford Street.",
+            "verbal_pre_transition_instruction": "Turn left onto Soho Street. Then Turn left onto Oxford Street.",
+            "verbal_post_transition_instruction": "Continue for 70 meters.",
+            "street_names": [
+              "Soho Street"
+            ],
+            "time": 16.218,
+            "length": 0.072,
+            "cost": 42.499,
+            "begin_shape_index": 43,
+            "end_shape_index": 49,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Oxford Street/A40.",
+            "verbal_transition_alert_instruction": "Turn left onto Oxford Street.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Oxford Street, A40.",
+            "verbal_post_transition_instruction": "Continue for 600 meters.",
+            "street_names": [
+              "Oxford Street",
+              "A40"
+            ],
+            "time": 84.431,
+            "length": 0.553,
+            "cost": 230.087,
+            "begin_shape_index": 49,
+            "end_shape_index": 84,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Great Portland Street/B506.",
+            "verbal_transition_alert_instruction": "Turn right onto Great Portland Street.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Great Portland Street, B506.",
+            "verbal_post_transition_instruction": "Continue for 200 meters.",
+            "street_names": [
+              "Great Portland Street",
+              "B506"
+            ],
+            "time": 42.942,
+            "length": 0.243,
+            "cost": 98.169,
+            "begin_shape_index": 84,
+            "end_shape_index": 105,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Mortimer Street/A5204. Continue on A5204.",
+            "verbal_transition_alert_instruction": "Turn left onto Mortimer Street.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Mortimer Street, A5204.",
+            "verbal_post_transition_instruction": "Continue on A5204 for 1.5 kilometers.",
+            "street_names": [
+              "A5204"
+            ],
+            "begin_street_names": [
+              "Mortimer Street",
+              "A5204"
+            ],
+            "time": 196.595,
+            "length": 1.284,
+            "cost": 428.681,
+            "begin_shape_index": 105,
+            "end_shape_index": 199,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Great Cumberland Place.",
+            "verbal_transition_alert_instruction": "Turn left onto Great Cumberland Place.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Great Cumberland Place.",
+            "verbal_post_transition_instruction": "Continue for 100 meters.",
+            "street_names": [
+              "Great Cumberland Place"
+            ],
+            "time": 28.697,
+            "length": 0.142,
+            "cost": 69.77,
+            "begin_shape_index": 199,
+            "end_shape_index": 213,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto A40/Marble Arch.",
+            "verbal_transition_alert_instruction": "Turn left onto A40.",
+            "verbal_succinct_transition_instruction": "Turn left. Then Turn right onto the cycleway.",
+            "verbal_pre_transition_instruction": "Turn left onto A40, Marble Arch. Then Turn right onto the cycleway.",
+            "verbal_post_transition_instruction": "Continue for 20 meters.",
+            "street_names": [
+              "A40",
+              "Marble Arch"
+            ],
+            "time": 5.268,
+            "length": 0.022,
+            "cost": 63.543,
+            "begin_shape_index": 213,
+            "end_shape_index": 218,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto the cycleway.",
+            "verbal_transition_alert_instruction": "Turn right onto the cycleway.",
+            "verbal_succinct_transition_instruction": "Turn right. Then You will arrive at your destination.",
+            "verbal_pre_transition_instruction": "Turn right onto the cycleway. Then You will arrive at your destination.",
+            "verbal_post_transition_instruction": "Continue for 30 meters.",
+            "time": 5.787,
+            "length": 0.027,
+            "cost": 21.27,
+            "begin_shape_index": 218,
+            "end_shape_index": 223,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 4,
+            "instruction": "You have arrived at your destination.",
+            "verbal_transition_alert_instruction": "You will arrive at your destination.",
+            "verbal_pre_transition_instruction": "You have arrived at your destination.",
+            "time": 0,
+            "length": 0,
+            "cost": 0,
+            "begin_shape_index": 223,
+            "end_shape_index": 223,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          }
+        ],
+        "summary": {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 51.513204,
+          "min_lon": -0.159505,
+          "max_lat": 51.517601,
+          "max_lon": -0.129887,
+          "time": 471.991,
+          "length": 2.796,
+          "cost": 1210.865
+        },
+        "shape": "{|ggaBzl}FnCe@tCg@l@OdQuEzBu@fBg@fFgBfA]`A[`Bk@rEeBvAg@\\OTlBJ~@Dd@|CdW\\hCPzADT`DzU~@tH`AnG@FNz@\\fBcVdNULq@b@cAl@lEpWrE|XD`BItB_@~Ao@|@eP~J{PpKu@Xw@Eu@i@g@iAeFiZiC|AiVxNm@|@aBfAaA\\_BrAZ`HJjC`@pKvApZh@nKXvFbAvTXxEPdDHpBbAzAXjFdCte@ZbJPxEZbHd@pJbBf^FtAFlAZ~FVlEhDnp@`B~[zAv[zCnk@v@nTbA|Rb@jOw@zDh@xJRlDApBKbAWl@_@NE@q@TaCx@gEvAuFdAiH~BiCz@sC~@sAb@iYfKs@VqBl@gDhAu@VoSnH{@ZuRtGmA`@_AZcDfA`@vEHt@J`AjHdp@VxBLrAHj@r@vHp@jHP`BnDn_@vD`a@rAtNVhCD`@\\rDNbBRtBPdBX|CjA`Mn@tGThCrD~_@PjBLnAN~APdEXhGLjAnEzd@vDp`@TvBNdBh@jEl@tFJz@^vC|Fhm@^pDRbCNnBb@~E^rET`CVnCbChWf@nF^zDZdDj@~FZlDrDd`@ZdD|@dJT|BL|ArA`Id@fEr@xH|Elg@R|BV`C^fEh@rFJjAXvCfLznAnCl^ThCd@vF^dFf@tEx@rHZjCdGxl@hDb[lB|PXrCRjCz@hH`@jEh@nFb@dE`Db\\fFhj@`@dEn@xG|AdQ~Cf^l@zGR~BX~Cl@zGpCeAt@[rAi@`IwC~Aq@`e@aRpAi@hA_@^Ot@qBb@}@f@gAr@aBr@iBIcAFeDTkEP_A`@aC`CzCLJlArAX~DPtC"
+      }
+    ],
+    "summary": {
+      "has_time_restrictions": false,
+      "has_toll": false,
+      "has_highway": false,
+      "has_ferry": false,
+      "min_lat": 51.513204,
+      "min_lon": -0.159505,
+      "max_lat": 51.517601,
+      "max_lon": -0.129887,
+      "time": 471.991,
+      "length": 2.796,
+      "cost": 1210.865
+    },
+    "status_message": "Found route between points",
+    "status": 0,
+    "units": "kilometers",
+    "language": "en-US"
+  }
+}

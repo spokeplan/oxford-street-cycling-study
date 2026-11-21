@@ -1,0 +1,9434 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1583779,
+      51.5134867
+     ],
+     [
+      -0.1583417,
+      51.5134917
+     ],
+     [
+      -0.1582683,
+      51.5135004
+     ],
+     [
+      -0.1581225,
+      51.5135141
+     ],
+     [
+      -0.1580244,
+      51.5134887
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 41517346,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1580244,
+      51.5134887
+     ],
+     [
+      -0.1577428,
+      51.5135151
+     ],
+     [
+      -0.1575604,
+      51.5135354
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 2199751,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 32.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1575604,
+      51.5135354
+     ],
+     [
+      -0.1574848,
+      51.513543
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571322073,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1574848,
+      51.513543
+     ],
+     [
+      -0.1572456,
+      51.5135671
+     ],
+     [
+      -0.1571608,
+      51.5135756
+     ],
+     [
+      -0.157082,
+      51.5135849
+     ],
+     [
+      -0.1568266,
+      51.513615
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 499705520,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 46.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1568266,
+      51.513615
+     ],
+     [
+      -0.1565455,
+      51.5136518
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571356202,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1565455,
+      51.5136518
+     ],
+     [
+      -0.1562473,
+      51.5136867
+     ],
+     [
+      -0.1561637,
+      51.5136966
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 501287734,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 42,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1540137,
+      51.5138725
+     ],
+     [
+      -0.1540942,
+      51.5138662
+     ],
+     [
+      -0.1546909,
+      51.5138185
+     ],
+     [
+      -0.1547716,
+      51.5138127
+     ],
+     [
+      -0.1548523,
+      51.5138069
+     ],
+     [
+      -0.1557052,
+      51.5137456
+     ],
+     [
+      -0.1557167,
+      51.5137445
+     ],
+     [
+      -0.1557323,
+      51.5137431
+     ],
+     [
+      -0.1557875,
+      51.5137379
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709093,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 149.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1536136,
+      51.5139074
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356378,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 13,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1536136,
+      51.5139074
+     ],
+     [
+      -0.1535747,
+      51.5139108
+     ],
+     [
+      -0.1535346,
+      51.5139164
+     ],
+     [
+      -0.1534957,
+      51.5139217
+     ],
+     [
+      -0.1532185,
+      51.5139639
+     ],
+     [
+      -0.1531714,
+      51.5139703
+     ],
+     [
+      -0.1526418,
+      51.5140299
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709094,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 68.6,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1526418,
+      51.5140299
+     ],
+     [
+      -0.1525615,
+      51.5140388
+     ],
+     [
+      -0.152477,
+      51.5140485
+     ],
+     [
+      -0.1524086,
+      51.5140561
+     ],
+     [
+      -0.1520003,
+      51.5141011
+     ],
+     [
+      -0.1519308,
+      51.5141092
+     ],
+     [
+      -0.1516028,
+      51.514147
+     ],
+     [
+      -0.1515143,
+      51.5141573
+     ],
+     [
+      -0.151438,
+      51.5141661
+     ],
+     [
+      -0.1513901,
+      51.5141716
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 232920161,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 88,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1513901,
+      51.5141716
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356379,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 3.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1512763,
+      51.5141838
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356380,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1507345,
+      51.5142254
+     ],
+     [
+      -0.1511721,
+      51.5141924
+     ],
+     [
+      -0.1512501,
+      51.5141864
+     ],
+     [
+      -0.1512763,
+      51.5141838
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895572,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 37.8,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1502156,
+      51.5142692
+     ],
+     [
+      -0.1502885,
+      51.5142638
+     ],
+     [
+      -0.1503165,
+      51.5142617
+     ],
+     [
+      -0.1503739,
+      51.5142573
+     ],
+     [
+      -0.1507345,
+      51.5142254
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726887,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 36.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1492915,
+      51.5143768
+     ],
+     [
+      -0.1493271,
+      51.514372
+     ],
+     [
+      -0.1494129,
+      51.5143612
+     ],
+     [
+      -0.1494828,
+      51.5143523
+     ],
+     [
+      -0.1497974,
+      51.5143125
+     ],
+     [
+      -0.1498831,
+      51.5143016
+     ],
+     [
+      -0.1500921,
+      51.5142786
+     ],
+     [
+      -0.1501177,
+      51.5142766
+     ],
+     [
+      -0.1502156,
+      51.5142692
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726687,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 65.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1492915,
+      51.5143768
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356381,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 12.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1490396,
+      51.5144084
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356382,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1490396,
+      51.5144084
+     ],
+     [
+      -0.1490245,
+      51.5144101
+     ],
+     [
+      -0.1489129,
+      51.5144231
+     ],
+     [
+      -0.1488756,
+      51.5144274
+     ],
+     [
+      -0.1488436,
+      51.5144311
+     ],
+     [
+      -0.148478,
+      51.5144735
+     ],
+     [
+      -0.1482433,
+      51.5145007
+     ],
+     [
+      -0.1480606,
+      51.5145219
+     ],
+     [
+      -0.1479746,
+      51.5145319
+     ],
+     [
+      -0.1478987,
+      51.5145407
+     ],
+     [
+      -0.1471184,
+      51.5146323
+     ],
+     [
+      -0.1470404,
+      51.5146411
+     ],
+     [
+      -0.1470012,
+      51.5146456
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895571,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 143.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1470012,
+      51.5146456
+     ],
+     [
+      -0.1469704,
+      51.5146491
+     ],
+     [
+      -0.1468837,
+      51.5146501
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356383,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 8.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1468837,
+      51.5146501
+     ],
+     [
+      -0.1468565,
+      51.5146067
+     ],
+     [
+      -0.1468326,
+      51.5145669
+     ],
+     [
+      -0.1468141,
+      51.5145358
+     ],
+     [
+      -0.1463829,
+      51.5141331
+     ]
+    ]
+   },
+   "properties": {
+    "street": "New Bond Street",
+    "way_id": 4370938,
+    "highway": "secondary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 67.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1463829,
+      51.5141331
+     ],
+     [
+      -0.1463043,
+      51.5140579
+     ],
+     [
+      -0.1462258,
+      51.5139828
+     ]
+    ]
+   },
+   "properties": {
+    "street": "New Bond Street",
+    "way_id": 4370938,
+    "highway": "secondary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1435465,
+      51.5143189
+     ],
+     [
+      -0.1436041,
+      51.5143246
+     ],
+     [
+      -0.1438152,
+      51.5143055
+     ],
+     [
+      -0.1439028,
+      51.5143176
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Hanover Square",
+    "way_id": 302690916,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 25,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432264,
+      51.5137822
+     ],
+     [
+      -0.1432557,
+      51.513842
+     ],
+     [
+      -0.1432872,
+      51.5138995
+     ],
+     [
+      -0.143324,
+      51.5139695
+     ],
+     [
+      -0.1434821,
+      51.5142771
+     ],
+     [
+      -0.1435136,
+      51.5143045
+     ],
+     [
+      -0.1435465,
+      51.5143189
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Hanover Square",
+    "way_id": 302690916,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 64.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432015,
+      51.5136927
+     ],
+     [
+      -0.1432063,
+      51.5137155
+     ],
+     [
+      -0.1432148,
+      51.5137454
+     ],
+     [
+      -0.1432264,
+      51.5137822
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Hanover Square",
+    "way_id": 4258928,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 10.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1429602,
+      51.5137149
+     ],
+     [
+      -0.1430184,
+      51.513704
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Hanover Street",
+    "way_id": 1064391193,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 4.2,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1415321,
+      51.5139899
+     ],
+     [
+      -0.1416089,
+      51.5139684
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Hanover Street",
+    "way_id": 4258932,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 5.8,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1412668,
+      51.5136756
+     ],
+     [
+      -0.1413351,
+      51.5137505
+     ],
+     [
+      -0.1414503,
+      51.5138876
+     ],
+     [
+      -0.1415321,
+      51.5139899
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Regent Street",
+    "way_id": 240343066,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 39.5,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1411476,
+      51.5137155
+     ],
+     [
+      -0.1412668,
+      51.5136756
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 4082605,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/unlaned/3000+/25",
+    "length_m": 9.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1411476,
+      51.5137155
+     ],
+     [
+      -0.141047,
+      51.51375
+     ],
+     [
+      -0.1409779,
+      51.5137719
+     ],
+     [
+      -0.1407526,
+      51.5138453
+     ],
+     [
+      -0.1405439,
+      51.5139127
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 232486356,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 47.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1405439,
+      51.5139127
+     ],
+     [
+      -0.1402203,
+      51.5140159
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 25.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1402203,
+      51.5140159
+     ],
+     [
+      -0.1399285,
+      51.5140984
+     ],
+     [
+      -0.1396462,
+      51.5141723
+     ],
+     [
+      -0.1395365,
+      51.5141989
+     ],
+     [
+      -0.1393883,
+      51.514238
+     ],
+     [
+      -0.1385631,
+      51.5144698
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 125.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1385631,
+      51.5144698
+     ],
+     [
+      -0.1378011,
+      51.5146708
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 57.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1378011,
+      51.5146708
+     ],
+     [
+      -0.1376989,
+      51.5146978
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 7.7,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1376989,
+      51.5146978
+     ],
+     [
+      -0.1371919,
+      51.5148315
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 38.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1371919,
+      51.5148315
+     ],
+     [
+      -0.1368188,
+      51.5149376
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 28.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1368188,
+      51.5149376
+     ],
+     [
+      -0.1362311,
+      51.5151039
+     ],
+     [
+      -0.1362135,
+      51.5151089
+     ],
+     [
+      -0.1361766,
+      51.5151201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 48.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1361168,
+      51.5150952
+     ],
+     [
+      -0.1361483,
+      51.5150854
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969657,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1360728,
+      51.5151082
+     ],
+     [
+      -0.1360957,
+      51.5151014
+     ],
+     [
+      -0.1361168,
+      51.5150952
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969658,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354841,
+      51.5152824
+     ],
+     [
+      -0.1360728,
+      51.5151082
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4395792,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 45.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354486,
+      51.5152929
+     ],
+     [
+      -0.1354656,
+      51.5152879
+     ],
+     [
+      -0.1354841,
+      51.5152824
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969660,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 2.7,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.135406,
+      51.5153055
+     ],
+     [
+      -0.1354486,
+      51.5152929
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969659,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333672,
+      51.5149774
+     ],
+     [
+      -0.1333302,
+      51.5149872
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311764,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.8,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333302,
+      51.5149872
+     ],
+     [
+      -0.1333181,
+      51.5149904
+     ],
+     [
+      -0.1332791,
+      51.5150008
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311766,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.8,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1332791,
+      51.5150008
+     ],
+     [
+      -0.1328612,
+      51.5151118
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 4395791,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 31.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1328612,
+      51.5151118
+     ],
+     [
+      -0.1328005,
+      51.5151279
+     ],
+     [
+      -0.1327958,
+      51.5151291
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311767,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 4.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327958,
+      51.5151291
+     ],
+     [
+      -0.1327267,
+      51.5151476
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311765,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 5.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327267,
+      51.5151476
+     ],
+     [
+      -0.1329281,
+      51.5154339
+     ],
+     [
+      -0.1329408,
+      51.5154614
+     ],
+     [
+      -0.1329378,
+      51.5154889
+     ],
+     [
+      -0.1329172,
+      51.5155159
+     ],
+     [
+      -0.1328797,
+      51.5155357
+     ],
+     [
+      -0.1324426,
+      51.5156506
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 66151802,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 80.6,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1324426,
+      51.5156506
+     ],
+     [
+      -0.1321033,
+      51.5157426
+     ],
+     [
+      -0.1320324,
+      51.5157455
+     ],
+     [
+      -0.13197,
+      51.5157389
+     ],
+     [
+      -0.1319117,
+      51.5157178
+     ],
+     [
+      -0.1318676,
+      51.5156834
+     ],
+     [
+      -0.1316909,
+      51.5154325
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 4082521,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 74.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1583779,
+      51.5134867
+     ],
+     [
+      -0.1583417,
+      51.5134917
+     ],
+     [
+      -0.1582683,
+      51.5135004
+     ],
+     [
+      -0.1581225,
+      51.5135141
+     ],
+     [
+      -0.1580244,
+      51.5134887
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 41517346,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1580244,
+      51.5134887
+     ],
+     [
+      -0.1577428,
+      51.5135151
+     ],
+     [
+      -0.1575604,
+      51.5135354
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 2199751,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 32.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1575604,
+      51.5135354
+     ],
+     [
+      -0.1574848,
+      51.513543
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571322073,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1574848,
+      51.513543
+     ],
+     [
+      -0.1572456,
+      51.5135671
+     ],
+     [
+      -0.1571608,
+      51.5135756
+     ],
+     [
+      -0.157082,
+      51.5135849
+     ],
+     [
+      -0.1568266,
+      51.513615
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 499705520,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 46.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1568266,
+      51.513615
+     ],
+     [
+      -0.1565455,
+      51.5136518
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571356202,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1565455,
+      51.5136518
+     ],
+     [
+      -0.1562473,
+      51.5136867
+     ],
+     [
+      -0.1561637,
+      51.5136966
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 501287734,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 42,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1540137,
+      51.5138725
+     ],
+     [
+      -0.1540942,
+      51.5138662
+     ],
+     [
+      -0.1546909,
+      51.5138185
+     ],
+     [
+      -0.1547716,
+      51.5138127
+     ],
+     [
+      -0.1548523,
+      51.5138069
+     ],
+     [
+      -0.1557052,
+      51.5137456
+     ],
+     [
+      -0.1557167,
+      51.5137445
+     ],
+     [
+      -0.1557323,
+      51.5137431
+     ],
+     [
+      -0.1557875,
+      51.5137379
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709093,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 149.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1536136,
+      51.5139074
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356378,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 13,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1536136,
+      51.5139074
+     ],
+     [
+      -0.1535747,
+      51.5139108
+     ],
+     [
+      -0.1535346,
+      51.5139164
+     ],
+     [
+      -0.1534957,
+      51.5139217
+     ],
+     [
+      -0.1532185,
+      51.5139639
+     ],
+     [
+      -0.1531714,
+      51.5139703
+     ],
+     [
+      -0.1526418,
+      51.5140299
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709094,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 68.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1526418,
+      51.5140299
+     ],
+     [
+      -0.1525615,
+      51.5140388
+     ],
+     [
+      -0.152477,
+      51.5140485
+     ],
+     [
+      -0.1524086,
+      51.5140561
+     ],
+     [
+      -0.1520003,
+      51.5141011
+     ],
+     [
+      -0.1519308,
+      51.5141092
+     ],
+     [
+      -0.1516028,
+      51.514147
+     ],
+     [
+      -0.1515143,
+      51.5141573
+     ],
+     [
+      -0.151438,
+      51.5141661
+     ],
+     [
+      -0.1513901,
+      51.5141716
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 232920161,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 88,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1513901,
+      51.5141716
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356379,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 3.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1512763,
+      51.5141838
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356380,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1507345,
+      51.5142254
+     ],
+     [
+      -0.1511721,
+      51.5141924
+     ],
+     [
+      -0.1512501,
+      51.5141864
+     ],
+     [
+      -0.1512763,
+      51.5141838
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895572,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 37.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1502156,
+      51.5142692
+     ],
+     [
+      -0.1502885,
+      51.5142638
+     ],
+     [
+      -0.1503165,
+      51.5142617
+     ],
+     [
+      -0.1503739,
+      51.5142573
+     ],
+     [
+      -0.1507345,
+      51.5142254
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726887,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 36.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1492915,
+      51.5143768
+     ],
+     [
+      -0.1493271,
+      51.514372
+     ],
+     [
+      -0.1494129,
+      51.5143612
+     ],
+     [
+      -0.1494828,
+      51.5143523
+     ],
+     [
+      -0.1497974,
+      51.5143125
+     ],
+     [
+      -0.1498831,
+      51.5143016
+     ],
+     [
+      -0.1500921,
+      51.5142786
+     ],
+     [
+      -0.1501177,
+      51.5142766
+     ],
+     [
+      -0.1502156,
+      51.5142692
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726687,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 65.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1492915,
+      51.5143768
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356381,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 12.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1490396,
+      51.5144084
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356382,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1490396,
+      51.5144084
+     ],
+     [
+      -0.1490245,
+      51.5144101
+     ],
+     [
+      -0.1489129,
+      51.5144231
+     ],
+     [
+      -0.1488756,
+      51.5144274
+     ],
+     [
+      -0.1488436,
+      51.5144311
+     ],
+     [
+      -0.148478,
+      51.5144735
+     ],
+     [
+      -0.1482433,
+      51.5145007
+     ],
+     [
+      -0.1480606,
+      51.5145219
+     ],
+     [
+      -0.1479746,
+      51.5145319
+     ],
+     [
+      -0.1478987,
+      51.5145407
+     ],
+     [
+      -0.1471184,
+      51.5146323
+     ],
+     [
+      -0.1470404,
+      51.5146411
+     ],
+     [
+      -0.1470012,
+      51.5146456
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895571,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 143.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1470012,
+      51.5146456
+     ],
+     [
+      -0.1469704,
+      51.5146491
+     ],
+     [
+      -0.1468837,
+      51.5146501
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356383,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 8.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1468837,
+      51.5146501
+     ],
+     [
+      -0.146729,
+      51.5146687
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356384,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.146729,
+      51.5146687
+     ],
+     [
+      -0.1466924,
+      51.5146731
+     ],
+     [
+      -0.1465728,
+      51.5146861
+     ],
+     [
+      -0.1464007,
+      51.5147081
+     ],
+     [
+      -0.1461087,
+      51.5147462
+     ],
+     [
+      -0.1458246,
+      51.5147833
+     ],
+     [
+      -0.14572,
+      51.5147978
+     ],
+     [
+      -0.1455819,
+      51.514815
+     ],
+     [
+      -0.1454484,
+      51.5148325
+     ],
+     [
+      -0.1449374,
+      51.5148993
+     ],
+     [
+      -0.1446519,
+      51.5149379
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 46180198,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 146.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1446519,
+      51.5149379
+     ],
+     [
+      -0.1444819,
+      51.5149592
+     ],
+     [
+      -0.1444264,
+      51.5149652
+     ],
+     [
+      -0.1443722,
+      51.5149726
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 468680743,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 19.7,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1443722,
+      51.5149726
+     ],
+     [
+      -0.1443164,
+      51.5149803
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356386,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1443164,
+      51.5149803
+     ],
+     [
+      -0.144229,
+      51.514993
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356385,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.144229,
+      51.514993
+     ],
+     [
+      -0.1442115,
+      51.5149956
+     ],
+     [
+      -0.144136,
+      51.5150039
+     ],
+     [
+      -0.1438797,
+      51.5150484
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007863,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 25,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1438797,
+      51.5150484
+     ],
+     [
+      -0.1435856,
+      51.5150893
+     ],
+     [
+      -0.1435008,
+      51.5151007
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233068399,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 26.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1435008,
+      51.5151007
+     ],
+     [
+      -0.1433426,
+      51.5151219
+     ],
+     [
+      -0.1432573,
+      51.5151333
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743358,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432573,
+      51.5151333
+     ],
+     [
+      -0.143185,
+      51.5151424
+     ],
+     [
+      -0.1429431,
+      51.5151729
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1106516556,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 22.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1429431,
+      51.5151729
+     ],
+     [
+      -0.1427024,
+      51.5152032
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743359,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1427024,
+      51.5152032
+     ],
+     [
+      -0.1425656,
+      51.515219
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590194,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 9.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1425656,
+      51.515219
+     ],
+     [
+      -0.1425157,
+      51.5152431
+     ],
+     [
+      -0.1423001,
+      51.5152688
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233067163,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 19.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1423001,
+      51.5152688
+     ],
+     [
+      -0.1422269,
+      51.5152754
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590195,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1422269,
+      51.5152754
+     ],
+     [
+      -0.142106,
+      51.5152897
+     ],
+     [
+      -0.1420715,
+      51.5152938
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070704,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1420715,
+      51.5152938
+     ],
+     [
+      -0.141966,
+      51.5153055
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007864,
+    "highway": "primary_link",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 7.4,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.141966,
+      51.5153055
+     ],
+     [
+      -0.1419124,
+      51.5153119
+     ],
+     [
+      -0.1418203,
+      51.5153228
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 25469620,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1418203,
+      51.5153228
+     ],
+     [
+      -0.1415402,
+      51.5153695
+     ],
+     [
+      -0.1411899,
+      51.5154143
+     ],
+     [
+      -0.141114,
+      51.5154265
+     ],
+     [
+      -0.1410324,
+      51.5154452
+     ],
+     [
+      -0.1409751,
+      51.5154563
+     ],
+     [
+      -0.1408193,
+      51.5154781
+     ],
+     [
+      -0.1407877,
+      51.5154822
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070705,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 73.7,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1407877,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356388,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1405816,
+      51.5154753
+     ],
+     [
+      -0.140639,
+      51.5154756
+     ],
+     [
+      -0.1406734,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 8.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.140306,
+      51.5155065
+     ],
+     [
+      -0.1404946,
+      51.515485
+     ],
+     [
+      -0.1405816,
+      51.5154753
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.140306,
+      51.5155065
+     ],
+     [
+      -0.1402334,
+      51.515538
+     ],
+     [
+      -0.1393636,
+      51.5156144
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 209691454,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 66.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1393636,
+      51.5156144
+     ],
+     [
+      -0.1387603,
+      51.515669
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 209691454,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 42.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1387603,
+      51.515669
+     ],
+     [
+      -0.1383274,
+      51.5157092
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 955518102,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 30.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1383274,
+      51.5157092
+     ],
+     [
+      -0.1376561,
+      51.5157807
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 955518102,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 47.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1376561,
+      51.5157807
+     ],
+     [
+      -0.1373151,
+      51.5158172
+     ],
+     [
+      -0.1369802,
+      51.5158506
+     ],
+     [
+      -0.1368801,
+      51.515862
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 728793125,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 54.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1368801,
+      51.515862
+     ],
+     [
+      -0.1367866,
+      51.5158703
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1343780844,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 6.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1367866,
+      51.5158703
+     ],
+     [
+      -0.136594,
+      51.515888
+     ],
+     [
+      -0.1361604,
+      51.5159323
+     ],
+     [
+      -0.1360624,
+      51.5159429
+     ],
+     [
+      -0.1358866,
+      51.5159622
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 728793128,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 63.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1358866,
+      51.5159622
+     ],
+     [
+      -0.1351279,
+      51.5160358
+     ],
+     [
+      -0.1349407,
+      51.5160568
+     ],
+     [
+      -0.1348272,
+      51.5160688
+     ],
+     [
+      -0.1347123,
+      51.5160797
+     ],
+     [
+      -0.1346453,
+      51.51607
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977088264,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 87.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1345883,
+      51.5160747
+     ],
+     [
+      -0.1346453,
+      51.51607
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 972210875,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.134048,
+      51.5161312
+     ],
+     [
+      -0.1343959,
+      51.5160973
+     ],
+     [
+      -0.1345045,
+      51.5160843
+     ],
+     [
+      -0.1345883,
+      51.5160747
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 93773949,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 37.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1337237,
+      51.5161653
+     ],
+     [
+      -0.1339242,
+      51.5161442
+     ],
+     [
+      -0.134048,
+      51.5161312
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 33096424,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 22.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1328665,
+      51.5162463
+     ],
+     [
+      -0.1330121,
+      51.5162317
+     ],
+     [
+      -0.1330818,
+      51.5162258
+     ],
+     [
+      -0.1332832,
+      51.5162088
+     ],
+     [
+      -0.1337237,
+      51.5161653
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 33096424,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 60,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1328255,
+      51.516198
+     ],
+     [
+      -0.1328665,
+      51.5162463
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Street",
+    "way_id": 622159392,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/1501-3000/25",
+    "length_m": 6.1,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1324426,
+      51.5156506
+     ],
+     [
+      -0.1324897,
+      51.5157199
+     ],
+     [
+      -0.1327431,
+      51.5160931
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Street",
+    "way_id": 59207650,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/1501-3000/25",
+    "length_m": 53.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1324426,
+      51.5156506
+     ],
+     [
+      -0.1321033,
+      51.5157426
+     ],
+     [
+      -0.1320324,
+      51.5157455
+     ],
+     [
+      -0.13197,
+      51.5157389
+     ],
+     [
+      -0.1319117,
+      51.5157178
+     ],
+     [
+      -0.1318676,
+      51.5156834
+     ],
+     [
+      -0.1316909,
+      51.5154325
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 4082521,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 74.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1324426,
+      51.5156506
+     ],
+     [
+      -0.1321033,
+      51.5157426
+     ],
+     [
+      -0.1320324,
+      51.5157455
+     ],
+     [
+      -0.13197,
+      51.5157389
+     ],
+     [
+      -0.1319117,
+      51.5157178
+     ],
+     [
+      -0.1318676,
+      51.5156834
+     ],
+     [
+      -0.1316909,
+      51.5154325
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 4082521,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 74.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327267,
+      51.5151476
+     ],
+     [
+      -0.1329281,
+      51.5154339
+     ],
+     [
+      -0.1329408,
+      51.5154614
+     ],
+     [
+      -0.1329378,
+      51.5154889
+     ],
+     [
+      -0.1329172,
+      51.5155159
+     ],
+     [
+      -0.1328797,
+      51.5155357
+     ],
+     [
+      -0.1324426,
+      51.5156506
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 66151802,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 80.6,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327958,
+      51.5151291
+     ],
+     [
+      -0.1327267,
+      51.5151476
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311765,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 5.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1328612,
+      51.5151118
+     ],
+     [
+      -0.1328005,
+      51.5151279
+     ],
+     [
+      -0.1327958,
+      51.5151291
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311767,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 4.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1332791,
+      51.5150008
+     ],
+     [
+      -0.1328612,
+      51.5151118
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 4395791,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 31.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333302,
+      51.5149872
+     ],
+     [
+      -0.1333181,
+      51.5149904
+     ],
+     [
+      -0.1332791,
+      51.5150008
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311766,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.8,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333672,
+      51.5149774
+     ],
+     [
+      -0.1333302,
+      51.5149872
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311764,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.8,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.135406,
+      51.5153055
+     ],
+     [
+      -0.1354486,
+      51.5152929
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969659,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354486,
+      51.5152929
+     ],
+     [
+      -0.1354656,
+      51.5152879
+     ],
+     [
+      -0.1354841,
+      51.5152824
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969660,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 2.7,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354841,
+      51.5152824
+     ],
+     [
+      -0.1360728,
+      51.5151082
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4395792,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 45.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1360728,
+      51.5151082
+     ],
+     [
+      -0.1360957,
+      51.5151014
+     ],
+     [
+      -0.1361168,
+      51.5150952
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969658,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1361168,
+      51.5150952
+     ],
+     [
+      -0.1361483,
+      51.5150854
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969657,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1368188,
+      51.5149376
+     ],
+     [
+      -0.1362311,
+      51.5151039
+     ],
+     [
+      -0.1362135,
+      51.5151089
+     ],
+     [
+      -0.1361766,
+      51.5151201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 48.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1371919,
+      51.5148315
+     ],
+     [
+      -0.1368188,
+      51.5149376
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 28.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1376989,
+      51.5146978
+     ],
+     [
+      -0.1371919,
+      51.5148315
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 38.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1378011,
+      51.5146708
+     ],
+     [
+      -0.1376989,
+      51.5146978
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 7.7,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1385631,
+      51.5144698
+     ],
+     [
+      -0.1378011,
+      51.5146708
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 57.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.140306,
+      51.5155065
+     ],
+     [
+      -0.1404946,
+      51.515485
+     ],
+     [
+      -0.1405816,
+      51.5154753
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1405816,
+      51.5154753
+     ],
+     [
+      -0.140639,
+      51.5154756
+     ],
+     [
+      -0.1406734,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 8.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1407877,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356388,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1418203,
+      51.5153228
+     ],
+     [
+      -0.1415402,
+      51.5153695
+     ],
+     [
+      -0.1411899,
+      51.5154143
+     ],
+     [
+      -0.141114,
+      51.5154265
+     ],
+     [
+      -0.1410324,
+      51.5154452
+     ],
+     [
+      -0.1409751,
+      51.5154563
+     ],
+     [
+      -0.1408193,
+      51.5154781
+     ],
+     [
+      -0.1407877,
+      51.5154822
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070705,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 73.7,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.141966,
+      51.5153055
+     ],
+     [
+      -0.1419124,
+      51.5153119
+     ],
+     [
+      -0.1418203,
+      51.5153228
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 25469620,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1420715,
+      51.5152938
+     ],
+     [
+      -0.141966,
+      51.5153055
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007864,
+    "highway": "primary_link",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 7.4,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1422269,
+      51.5152754
+     ],
+     [
+      -0.142106,
+      51.5152897
+     ],
+     [
+      -0.1420715,
+      51.5152938
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070704,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1423001,
+      51.5152688
+     ],
+     [
+      -0.1422269,
+      51.5152754
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590195,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1425656,
+      51.515219
+     ],
+     [
+      -0.1425157,
+      51.5152431
+     ],
+     [
+      -0.1423001,
+      51.5152688
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233067163,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 19.6,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1427024,
+      51.5152032
+     ],
+     [
+      -0.1425656,
+      51.515219
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590194,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 9.6,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1429431,
+      51.5151729
+     ],
+     [
+      -0.1427024,
+      51.5152032
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743359,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432573,
+      51.5151333
+     ],
+     [
+      -0.143185,
+      51.5151424
+     ],
+     [
+      -0.1429431,
+      51.5151729
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1106516556,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 22.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1435008,
+      51.5151007
+     ],
+     [
+      -0.1433426,
+      51.5151219
+     ],
+     [
+      -0.1432573,
+      51.5151333
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743358,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1438797,
+      51.5150484
+     ],
+     [
+      -0.1435856,
+      51.5150893
+     ],
+     [
+      -0.1435008,
+      51.5151007
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233068399,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 26.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.144229,
+      51.514993
+     ],
+     [
+      -0.1442115,
+      51.5149956
+     ],
+     [
+      -0.144136,
+      51.5150039
+     ],
+     [
+      -0.1438797,
+      51.5150484
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007863,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 25,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1443164,
+      51.5149803
+     ],
+     [
+      -0.144229,
+      51.514993
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356385,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1439028,
+      51.5143176
+     ],
+     [
+      -0.1439611,
+      51.5143406
+     ],
+     [
+      -0.1440033,
+      51.5143729
+     ],
+     [
+      -0.144008,
+      51.5143816
+     ],
+     [
+      -0.1440187,
+      51.5144013
+     ],
+     [
+      -0.1440615,
+      51.5144849
+     ],
+     [
+      -0.144266,
+      51.5148842
+     ],
+     [
+      -0.144287,
+      51.5149185
+     ],
+     [
+      -0.1443164,
+      51.5149803
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Harewood Place",
+    "way_id": 325435282,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 80.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1463829,
+      51.5141331
+     ],
+     [
+      -0.1463043,
+      51.5140579
+     ],
+     [
+      -0.1462258,
+      51.5139828
+     ]
+    ]
+   },
+   "properties": {
+    "street": "New Bond Street",
+    "way_id": 4370938,
+    "highway": "secondary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1468837,
+      51.5146501
+     ],
+     [
+      -0.1468565,
+      51.5146067
+     ],
+     [
+      -0.1468326,
+      51.5145669
+     ],
+     [
+      -0.1468141,
+      51.5145358
+     ],
+     [
+      -0.1463829,
+      51.5141331
+     ]
+    ]
+   },
+   "properties": {
+    "street": "New Bond Street",
+    "way_id": 4370938,
+    "highway": "secondary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 67.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1470012,
+      51.5146456
+     ],
+     [
+      -0.1469704,
+      51.5146491
+     ],
+     [
+      -0.1468837,
+      51.5146501
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356383,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 8.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1490396,
+      51.5144084
+     ],
+     [
+      -0.1490245,
+      51.5144101
+     ],
+     [
+      -0.1489129,
+      51.5144231
+     ],
+     [
+      -0.1488756,
+      51.5144274
+     ],
+     [
+      -0.1488436,
+      51.5144311
+     ],
+     [
+      -0.148478,
+      51.5144735
+     ],
+     [
+      -0.1482433,
+      51.5145007
+     ],
+     [
+      -0.1480606,
+      51.5145219
+     ],
+     [
+      -0.1479746,
+      51.5145319
+     ],
+     [
+      -0.1478987,
+      51.5145407
+     ],
+     [
+      -0.1471184,
+      51.5146323
+     ],
+     [
+      -0.1470404,
+      51.5146411
+     ],
+     [
+      -0.1470012,
+      51.5146456
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895571,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 143.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1490396,
+      51.5144084
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356382,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1492915,
+      51.5143768
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356381,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 12.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1492915,
+      51.5143768
+     ],
+     [
+      -0.1493271,
+      51.514372
+     ],
+     [
+      -0.1494129,
+      51.5143612
+     ],
+     [
+      -0.1494828,
+      51.5143523
+     ],
+     [
+      -0.1497974,
+      51.5143125
+     ],
+     [
+      -0.1498831,
+      51.5143016
+     ],
+     [
+      -0.1500921,
+      51.5142786
+     ],
+     [
+      -0.1501177,
+      51.5142766
+     ],
+     [
+      -0.1502156,
+      51.5142692
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726687,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 65.1,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1502156,
+      51.5142692
+     ],
+     [
+      -0.1502885,
+      51.5142638
+     ],
+     [
+      -0.1503165,
+      51.5142617
+     ],
+     [
+      -0.1503739,
+      51.5142573
+     ],
+     [
+      -0.1507345,
+      51.5142254
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726887,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 36.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1507345,
+      51.5142254
+     ],
+     [
+      -0.1511721,
+      51.5141924
+     ],
+     [
+      -0.1512501,
+      51.5141864
+     ],
+     [
+      -0.1512763,
+      51.5141838
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895572,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 37.8,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1512763,
+      51.5141838
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356380,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1513901,
+      51.5141716
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356379,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 3.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1526418,
+      51.5140299
+     ],
+     [
+      -0.1525615,
+      51.5140388
+     ],
+     [
+      -0.152477,
+      51.5140485
+     ],
+     [
+      -0.1524086,
+      51.5140561
+     ],
+     [
+      -0.1520003,
+      51.5141011
+     ],
+     [
+      -0.1519308,
+      51.5141092
+     ],
+     [
+      -0.1516028,
+      51.514147
+     ],
+     [
+      -0.1515143,
+      51.5141573
+     ],
+     [
+      -0.151438,
+      51.5141661
+     ],
+     [
+      -0.1513901,
+      51.5141716
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 232920161,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 88,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1536136,
+      51.5139074
+     ],
+     [
+      -0.1535747,
+      51.5139108
+     ],
+     [
+      -0.1535346,
+      51.5139164
+     ],
+     [
+      -0.1534957,
+      51.5139217
+     ],
+     [
+      -0.1532185,
+      51.5139639
+     ],
+     [
+      -0.1531714,
+      51.5139703
+     ],
+     [
+      -0.1526418,
+      51.5140299
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709094,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 68.6,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1536136,
+      51.5139074
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356378,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 13,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1540137,
+      51.5138725
+     ],
+     [
+      -0.1540942,
+      51.5138662
+     ],
+     [
+      -0.1546909,
+      51.5138185
+     ],
+     [
+      -0.1547716,
+      51.5138127
+     ],
+     [
+      -0.1548523,
+      51.5138069
+     ],
+     [
+      -0.1557052,
+      51.5137456
+     ],
+     [
+      -0.1557167,
+      51.5137445
+     ],
+     [
+      -0.1557323,
+      51.5137431
+     ],
+     [
+      -0.1557875,
+      51.5137379
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709093,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 149.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1565455,
+      51.5136518
+     ],
+     [
+      -0.1562473,
+      51.5136867
+     ],
+     [
+      -0.1561637,
+      51.5136966
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 501287734,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 42,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1568266,
+      51.513615
+     ],
+     [
+      -0.1565455,
+      51.5136518
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571356202,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1574848,
+      51.513543
+     ],
+     [
+      -0.1572456,
+      51.5135671
+     ],
+     [
+      -0.1571608,
+      51.5135756
+     ],
+     [
+      -0.157082,
+      51.5135849
+     ],
+     [
+      -0.1568266,
+      51.513615
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 499705520,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 46.2,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1575604,
+      51.5135354
+     ],
+     [
+      -0.1574848,
+      51.513543
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571322073,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1580244,
+      51.5134887
+     ],
+     [
+      -0.1577428,
+      51.5135151
+     ],
+     [
+      -0.1575604,
+      51.5135354
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 2199751,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 32.5,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1583779,
+      51.5134867
+     ],
+     [
+      -0.1583417,
+      51.5134917
+     ],
+     [
+      -0.1582683,
+      51.5135004
+     ],
+     [
+      -0.1581225,
+      51.5135141
+     ],
+     [
+      -0.1580244,
+      51.5134887
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 41517346,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1324426,
+      51.5156506
+     ],
+     [
+      -0.1321033,
+      51.5157426
+     ],
+     [
+      -0.1320324,
+      51.5157455
+     ],
+     [
+      -0.13197,
+      51.5157389
+     ],
+     [
+      -0.1319117,
+      51.5157178
+     ],
+     [
+      -0.1318676,
+      51.5156834
+     ],
+     [
+      -0.1316909,
+      51.5154325
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 4082521,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 74.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327267,
+      51.5151476
+     ],
+     [
+      -0.1329281,
+      51.5154339
+     ],
+     [
+      -0.1329408,
+      51.5154614
+     ],
+     [
+      -0.1329378,
+      51.5154889
+     ],
+     [
+      -0.1329172,
+      51.5155159
+     ],
+     [
+      -0.1328797,
+      51.5155357
+     ],
+     [
+      -0.1324426,
+      51.5156506
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 66151802,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 80.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327958,
+      51.5151291
+     ],
+     [
+      -0.1327267,
+      51.5151476
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311765,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 5.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1328612,
+      51.5151118
+     ],
+     [
+      -0.1328005,
+      51.5151279
+     ],
+     [
+      -0.1327958,
+      51.5151291
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311767,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 4.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1332791,
+      51.5150008
+     ],
+     [
+      -0.1328612,
+      51.5151118
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 4395791,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 31.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333302,
+      51.5149872
+     ],
+     [
+      -0.1333181,
+      51.5149904
+     ],
+     [
+      -0.1332791,
+      51.5150008
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311766,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333672,
+      51.5149774
+     ],
+     [
+      -0.1333302,
+      51.5149872
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311764,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.135406,
+      51.5153055
+     ],
+     [
+      -0.1354486,
+      51.5152929
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969659,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354486,
+      51.5152929
+     ],
+     [
+      -0.1354656,
+      51.5152879
+     ],
+     [
+      -0.1354841,
+      51.5152824
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969660,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 2.7,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354841,
+      51.5152824
+     ],
+     [
+      -0.1360728,
+      51.5151082
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4395792,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 45.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1360728,
+      51.5151082
+     ],
+     [
+      -0.1360957,
+      51.5151014
+     ],
+     [
+      -0.1361168,
+      51.5150952
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969658,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1361168,
+      51.5150952
+     ],
+     [
+      -0.1361483,
+      51.5150854
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969657,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1368188,
+      51.5149376
+     ],
+     [
+      -0.1362311,
+      51.5151039
+     ],
+     [
+      -0.1362135,
+      51.5151089
+     ],
+     [
+      -0.1361766,
+      51.5151201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 48.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1371919,
+      51.5148315
+     ],
+     [
+      -0.1368188,
+      51.5149376
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 28.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1376989,
+      51.5146978
+     ],
+     [
+      -0.1371919,
+      51.5148315
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 38.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1378011,
+      51.5146708
+     ],
+     [
+      -0.1376989,
+      51.5146978
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 7.7,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1385631,
+      51.5144698
+     ],
+     [
+      -0.1378011,
+      51.5146708
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 57.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.140306,
+      51.5155065
+     ],
+     [
+      -0.1404946,
+      51.515485
+     ],
+     [
+      -0.1405816,
+      51.5154753
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1405816,
+      51.5154753
+     ],
+     [
+      -0.140639,
+      51.5154756
+     ],
+     [
+      -0.1406734,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 8.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1407877,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356388,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1418203,
+      51.5153228
+     ],
+     [
+      -0.1415402,
+      51.5153695
+     ],
+     [
+      -0.1411899,
+      51.5154143
+     ],
+     [
+      -0.141114,
+      51.5154265
+     ],
+     [
+      -0.1410324,
+      51.5154452
+     ],
+     [
+      -0.1409751,
+      51.5154563
+     ],
+     [
+      -0.1408193,
+      51.5154781
+     ],
+     [
+      -0.1407877,
+      51.5154822
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070705,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 73.7,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.141966,
+      51.5153055
+     ],
+     [
+      -0.1419124,
+      51.5153119
+     ],
+     [
+      -0.1418203,
+      51.5153228
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 25469620,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1420715,
+      51.5152938
+     ],
+     [
+      -0.141966,
+      51.5153055
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007864,
+    "highway": "primary_link",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 7.4,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1422269,
+      51.5152754
+     ],
+     [
+      -0.142106,
+      51.5152897
+     ],
+     [
+      -0.1420715,
+      51.5152938
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070704,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1423001,
+      51.5152688
+     ],
+     [
+      -0.1422269,
+      51.5152754
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590195,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1425656,
+      51.515219
+     ],
+     [
+      -0.1425157,
+      51.5152431
+     ],
+     [
+      -0.1423001,
+      51.5152688
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233067163,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 19.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1427024,
+      51.5152032
+     ],
+     [
+      -0.1425656,
+      51.515219
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590194,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 9.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1429431,
+      51.5151729
+     ],
+     [
+      -0.1427024,
+      51.5152032
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743359,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432573,
+      51.5151333
+     ],
+     [
+      -0.143185,
+      51.5151424
+     ],
+     [
+      -0.1429431,
+      51.5151729
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1106516556,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 22.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1435008,
+      51.5151007
+     ],
+     [
+      -0.1433426,
+      51.5151219
+     ],
+     [
+      -0.1432573,
+      51.5151333
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743358,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1438797,
+      51.5150484
+     ],
+     [
+      -0.1435856,
+      51.5150893
+     ],
+     [
+      -0.1435008,
+      51.5151007
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233068399,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 26.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.144229,
+      51.514993
+     ],
+     [
+      -0.1442115,
+      51.5149956
+     ],
+     [
+      -0.144136,
+      51.5150039
+     ],
+     [
+      -0.1438797,
+      51.5150484
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007863,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 25,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1443164,
+      51.5149803
+     ],
+     [
+      -0.144229,
+      51.514993
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356385,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1443722,
+      51.5149726
+     ],
+     [
+      -0.1443164,
+      51.5149803
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356386,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1446519,
+      51.5149379
+     ],
+     [
+      -0.1444819,
+      51.5149592
+     ],
+     [
+      -0.1444264,
+      51.5149652
+     ],
+     [
+      -0.1443722,
+      51.5149726
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 468680743,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 19.7,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.146729,
+      51.5146687
+     ],
+     [
+      -0.1466924,
+      51.5146731
+     ],
+     [
+      -0.1465728,
+      51.5146861
+     ],
+     [
+      -0.1464007,
+      51.5147081
+     ],
+     [
+      -0.1461087,
+      51.5147462
+     ],
+     [
+      -0.1458246,
+      51.5147833
+     ],
+     [
+      -0.14572,
+      51.5147978
+     ],
+     [
+      -0.1455819,
+      51.514815
+     ],
+     [
+      -0.1454484,
+      51.5148325
+     ],
+     [
+      -0.1449374,
+      51.5148993
+     ],
+     [
+      -0.1446519,
+      51.5149379
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 46180198,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 146.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1468837,
+      51.5146501
+     ],
+     [
+      -0.146729,
+      51.5146687
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356384,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1470012,
+      51.5146456
+     ],
+     [
+      -0.1469704,
+      51.5146491
+     ],
+     [
+      -0.1468837,
+      51.5146501
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356383,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 8.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1490396,
+      51.5144084
+     ],
+     [
+      -0.1490245,
+      51.5144101
+     ],
+     [
+      -0.1489129,
+      51.5144231
+     ],
+     [
+      -0.1488756,
+      51.5144274
+     ],
+     [
+      -0.1488436,
+      51.5144311
+     ],
+     [
+      -0.148478,
+      51.5144735
+     ],
+     [
+      -0.1482433,
+      51.5145007
+     ],
+     [
+      -0.1480606,
+      51.5145219
+     ],
+     [
+      -0.1479746,
+      51.5145319
+     ],
+     [
+      -0.1478987,
+      51.5145407
+     ],
+     [
+      -0.1471184,
+      51.5146323
+     ],
+     [
+      -0.1470404,
+      51.5146411
+     ],
+     [
+      -0.1470012,
+      51.5146456
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895571,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 143.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1490396,
+      51.5144084
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356382,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1492915,
+      51.5143768
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356381,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 12.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1492915,
+      51.5143768
+     ],
+     [
+      -0.1493271,
+      51.514372
+     ],
+     [
+      -0.1494129,
+      51.5143612
+     ],
+     [
+      -0.1494828,
+      51.5143523
+     ],
+     [
+      -0.1497974,
+      51.5143125
+     ],
+     [
+      -0.1498831,
+      51.5143016
+     ],
+     [
+      -0.1500921,
+      51.5142786
+     ],
+     [
+      -0.1501177,
+      51.5142766
+     ],
+     [
+      -0.1502156,
+      51.5142692
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726687,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 65.1,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1502156,
+      51.5142692
+     ],
+     [
+      -0.1502885,
+      51.5142638
+     ],
+     [
+      -0.1503165,
+      51.5142617
+     ],
+     [
+      -0.1503739,
+      51.5142573
+     ],
+     [
+      -0.1507345,
+      51.5142254
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726887,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 36.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1507345,
+      51.5142254
+     ],
+     [
+      -0.1511721,
+      51.5141924
+     ],
+     [
+      -0.1512501,
+      51.5141864
+     ],
+     [
+      -0.1512763,
+      51.5141838
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895572,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 37.8,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1512763,
+      51.5141838
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356380,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1513901,
+      51.5141716
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356379,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 3.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1526418,
+      51.5140299
+     ],
+     [
+      -0.1525615,
+      51.5140388
+     ],
+     [
+      -0.152477,
+      51.5140485
+     ],
+     [
+      -0.1524086,
+      51.5140561
+     ],
+     [
+      -0.1520003,
+      51.5141011
+     ],
+     [
+      -0.1519308,
+      51.5141092
+     ],
+     [
+      -0.1516028,
+      51.514147
+     ],
+     [
+      -0.1515143,
+      51.5141573
+     ],
+     [
+      -0.151438,
+      51.5141661
+     ],
+     [
+      -0.1513901,
+      51.5141716
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 232920161,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 88,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1536136,
+      51.5139074
+     ],
+     [
+      -0.1535747,
+      51.5139108
+     ],
+     [
+      -0.1535346,
+      51.5139164
+     ],
+     [
+      -0.1534957,
+      51.5139217
+     ],
+     [
+      -0.1532185,
+      51.5139639
+     ],
+     [
+      -0.1531714,
+      51.5139703
+     ],
+     [
+      -0.1526418,
+      51.5140299
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709094,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 68.6,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1536136,
+      51.5139074
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356378,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 13,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1540137,
+      51.5138725
+     ],
+     [
+      -0.1540942,
+      51.5138662
+     ],
+     [
+      -0.1546909,
+      51.5138185
+     ],
+     [
+      -0.1547716,
+      51.5138127
+     ],
+     [
+      -0.1548523,
+      51.5138069
+     ],
+     [
+      -0.1557052,
+      51.5137456
+     ],
+     [
+      -0.1557167,
+      51.5137445
+     ],
+     [
+      -0.1557323,
+      51.5137431
+     ],
+     [
+      -0.1557875,
+      51.5137379
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709093,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 149.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1565455,
+      51.5136518
+     ],
+     [
+      -0.1562473,
+      51.5136867
+     ],
+     [
+      -0.1561637,
+      51.5136966
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 501287734,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 42,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1568266,
+      51.513615
+     ],
+     [
+      -0.1565455,
+      51.5136518
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571356202,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1574848,
+      51.513543
+     ],
+     [
+      -0.1572456,
+      51.5135671
+     ],
+     [
+      -0.1571608,
+      51.5135756
+     ],
+     [
+      -0.157082,
+      51.5135849
+     ],
+     [
+      -0.1568266,
+      51.513615
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 499705520,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 46.2,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1575604,
+      51.5135354
+     ],
+     [
+      -0.1574848,
+      51.513543
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571322073,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1580244,
+      51.5134887
+     ],
+     [
+      -0.1577428,
+      51.5135151
+     ],
+     [
+      -0.1575604,
+      51.5135354
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 2199751,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 32.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1583779,
+      51.5134867
+     ],
+     [
+      -0.1583417,
+      51.5134917
+     ],
+     [
+      -0.1582683,
+      51.5135004
+     ],
+     [
+      -0.1581225,
+      51.5135141
+     ],
+     [
+      -0.1580244,
+      51.5134887
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 41517346,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1583779,
+      51.5134867
+     ],
+     [
+      -0.1583417,
+      51.5134917
+     ],
+     [
+      -0.1582683,
+      51.5135004
+     ],
+     [
+      -0.1581225,
+      51.5135141
+     ],
+     [
+      -0.1580244,
+      51.5134887
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 41517346,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1580244,
+      51.5134887
+     ],
+     [
+      -0.1577428,
+      51.5135151
+     ],
+     [
+      -0.1575604,
+      51.5135354
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 2199751,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 32.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1575604,
+      51.5135354
+     ],
+     [
+      -0.1574848,
+      51.513543
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571322073,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1574848,
+      51.513543
+     ],
+     [
+      -0.1572456,
+      51.5135671
+     ],
+     [
+      -0.1571608,
+      51.5135756
+     ],
+     [
+      -0.157082,
+      51.5135849
+     ],
+     [
+      -0.1568266,
+      51.513615
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 499705520,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 46.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1568266,
+      51.513615
+     ],
+     [
+      -0.1565455,
+      51.5136518
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1571356202,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1565455,
+      51.5136518
+     ],
+     [
+      -0.1562473,
+      51.5136867
+     ],
+     [
+      -0.1561637,
+      51.5136966
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 501287734,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 42,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1540137,
+      51.5138725
+     ],
+     [
+      -0.1540942,
+      51.5138662
+     ],
+     [
+      -0.1546909,
+      51.5138185
+     ],
+     [
+      -0.1547716,
+      51.5138127
+     ],
+     [
+      -0.1548523,
+      51.5138069
+     ],
+     [
+      -0.1557052,
+      51.5137456
+     ],
+     [
+      -0.1557167,
+      51.5137445
+     ],
+     [
+      -0.1557323,
+      51.5137431
+     ],
+     [
+      -0.1557875,
+      51.5137379
+     ],
+     [
+      -0.1559483,
+      51.5137201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709093,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 149.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1538002,
+      51.5138912
+     ],
+     [
+      -0.1536136,
+      51.5139074
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356378,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 13,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1536136,
+      51.5139074
+     ],
+     [
+      -0.1535747,
+      51.5139108
+     ],
+     [
+      -0.1535346,
+      51.5139164
+     ],
+     [
+      -0.1534957,
+      51.5139217
+     ],
+     [
+      -0.1532185,
+      51.5139639
+     ],
+     [
+      -0.1531714,
+      51.5139703
+     ],
+     [
+      -0.1526418,
+      51.5140299
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 42709094,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 68.6,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1526418,
+      51.5140299
+     ],
+     [
+      -0.1525615,
+      51.5140388
+     ],
+     [
+      -0.152477,
+      51.5140485
+     ],
+     [
+      -0.1524086,
+      51.5140561
+     ],
+     [
+      -0.1520003,
+      51.5141011
+     ],
+     [
+      -0.1519308,
+      51.5141092
+     ],
+     [
+      -0.1516028,
+      51.514147
+     ],
+     [
+      -0.1515143,
+      51.5141573
+     ],
+     [
+      -0.151438,
+      51.5141661
+     ],
+     [
+      -0.1513901,
+      51.5141716
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 232920161,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 88,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1513901,
+      51.5141716
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356379,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 3.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1512763,
+      51.5141838
+     ],
+     [
+      -0.1513404,
+      51.5141773
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356380,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 4.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1507345,
+      51.5142254
+     ],
+     [
+      -0.1511721,
+      51.5141924
+     ],
+     [
+      -0.1512501,
+      51.5141864
+     ],
+     [
+      -0.1512763,
+      51.5141838
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895572,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 37.8,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1502156,
+      51.5142692
+     ],
+     [
+      -0.1502885,
+      51.5142638
+     ],
+     [
+      -0.1503165,
+      51.5142617
+     ],
+     [
+      -0.1503739,
+      51.5142573
+     ],
+     [
+      -0.1507345,
+      51.5142254
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726887,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 36.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1492915,
+      51.5143768
+     ],
+     [
+      -0.1493271,
+      51.514372
+     ],
+     [
+      -0.1494129,
+      51.5143612
+     ],
+     [
+      -0.1494828,
+      51.5143523
+     ],
+     [
+      -0.1497974,
+      51.5143125
+     ],
+     [
+      -0.1498831,
+      51.5143016
+     ],
+     [
+      -0.1500921,
+      51.5142786
+     ],
+     [
+      -0.1501177,
+      51.5142766
+     ],
+     [
+      -0.1502156,
+      51.5142692
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 204726687,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 65.1,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1492915,
+      51.5143768
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356381,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 12.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1491145,
+      51.5144003
+     ],
+     [
+      -0.1490396,
+      51.5144084
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356382,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1490396,
+      51.5144084
+     ],
+     [
+      -0.1490245,
+      51.5144101
+     ],
+     [
+      -0.1489129,
+      51.5144231
+     ],
+     [
+      -0.1488756,
+      51.5144274
+     ],
+     [
+      -0.1488436,
+      51.5144311
+     ],
+     [
+      -0.148478,
+      51.5144735
+     ],
+     [
+      -0.1482433,
+      51.5145007
+     ],
+     [
+      -0.1480606,
+      51.5145219
+     ],
+     [
+      -0.1479746,
+      51.5145319
+     ],
+     [
+      -0.1478987,
+      51.5145407
+     ],
+     [
+      -0.1471184,
+      51.5146323
+     ],
+     [
+      -0.1470404,
+      51.5146411
+     ],
+     [
+      -0.1470012,
+      51.5146456
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 38895571,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 143.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1470012,
+      51.5146456
+     ],
+     [
+      -0.1469704,
+      51.5146491
+     ],
+     [
+      -0.1468837,
+      51.5146501
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356383,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 8.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1468837,
+      51.5146501
+     ],
+     [
+      -0.1468565,
+      51.5146067
+     ],
+     [
+      -0.1468326,
+      51.5145669
+     ],
+     [
+      -0.1468141,
+      51.5145358
+     ],
+     [
+      -0.1463829,
+      51.5141331
+     ]
+    ]
+   },
+   "properties": {
+    "street": "New Bond Street",
+    "way_id": 4370938,
+    "highway": "secondary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 67.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1463829,
+      51.5141331
+     ],
+     [
+      -0.1463043,
+      51.5140579
+     ],
+     [
+      -0.1462258,
+      51.5139828
+     ]
+    ]
+   },
+   "properties": {
+    "street": "New Bond Street",
+    "way_id": 4370938,
+    "highway": "secondary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1439028,
+      51.5143176
+     ],
+     [
+      -0.1439611,
+      51.5143406
+     ],
+     [
+      -0.1440033,
+      51.5143729
+     ],
+     [
+      -0.144008,
+      51.5143816
+     ],
+     [
+      -0.1440187,
+      51.5144013
+     ],
+     [
+      -0.1440615,
+      51.5144849
+     ],
+     [
+      -0.144266,
+      51.5148842
+     ],
+     [
+      -0.144287,
+      51.5149185
+     ],
+     [
+      -0.1443164,
+      51.5149803
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Harewood Place",
+    "way_id": 325435282,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 80.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1443164,
+      51.5149803
+     ],
+     [
+      -0.144229,
+      51.514993
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356385,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.144229,
+      51.514993
+     ],
+     [
+      -0.1442115,
+      51.5149956
+     ],
+     [
+      -0.144136,
+      51.5150039
+     ],
+     [
+      -0.1438797,
+      51.5150484
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007863,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 25,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1438797,
+      51.5150484
+     ],
+     [
+      -0.1435856,
+      51.5150893
+     ],
+     [
+      -0.1435008,
+      51.5151007
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233068399,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 26.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1435008,
+      51.5151007
+     ],
+     [
+      -0.1433426,
+      51.5151219
+     ],
+     [
+      -0.1432573,
+      51.5151333
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743358,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432573,
+      51.5151333
+     ],
+     [
+      -0.143185,
+      51.5151424
+     ],
+     [
+      -0.1429431,
+      51.5151729
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1106516556,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 22.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1429431,
+      51.5151729
+     ],
+     [
+      -0.1427024,
+      51.5152032
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1333743359,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 17,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1427024,
+      51.5152032
+     ],
+     [
+      -0.1425656,
+      51.515219
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590194,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 9.6,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1425656,
+      51.515219
+     ],
+     [
+      -0.1425157,
+      51.5152431
+     ],
+     [
+      -0.1423001,
+      51.5152688
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233067163,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 19.6,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1423001,
+      51.5152688
+     ],
+     [
+      -0.1422269,
+      51.5152754
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 977590195,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 5.1,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1422269,
+      51.5152754
+     ],
+     [
+      -0.142106,
+      51.5152897
+     ],
+     [
+      -0.1420715,
+      51.5152938
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070704,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1420715,
+      51.5152938
+     ],
+     [
+      -0.141966,
+      51.5153055
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 47007864,
+    "highway": "primary_link",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 7.4,
+    "fragment": "crossing",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.141966,
+      51.5153055
+     ],
+     [
+      -0.1419124,
+      51.5153119
+     ],
+     [
+      -0.1418203,
+      51.5153228
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 25469620,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 10.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1418203,
+      51.5153228
+     ],
+     [
+      -0.1415402,
+      51.5153695
+     ],
+     [
+      -0.1411899,
+      51.5154143
+     ],
+     [
+      -0.141114,
+      51.5154265
+     ],
+     [
+      -0.1410324,
+      51.5154452
+     ],
+     [
+      -0.1409751,
+      51.5154563
+     ],
+     [
+      -0.1408193,
+      51.5154781
+     ],
+     [
+      -0.1407877,
+      51.5154822
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 233070705,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 73.7,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1407877,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572356388,
+    "highway": "pedestrian",
+    "lts": 3,
+    "lts_rule": "gap/oxford-counterfactual",
+    "length_m": 6.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1405816,
+      51.5154753
+     ],
+     [
+      -0.140639,
+      51.5154756
+     ],
+     [
+      -0.1406734,
+      51.5154822
+     ],
+     [
+      -0.1406963,
+      51.5154939
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 8.5,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.140306,
+      51.5155065
+     ],
+     [
+      -0.1404946,
+      51.515485
+     ],
+     [
+      -0.1405816,
+      51.5154753
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Oxford Street",
+    "way_id": 1572350294,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 19.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1385631,
+      51.5144698
+     ],
+     [
+      -0.1378011,
+      51.5146708
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 57.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1378011,
+      51.5146708
+     ],
+     [
+      -0.1376989,
+      51.5146978
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 7.7,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1376989,
+      51.5146978
+     ],
+     [
+      -0.1371919,
+      51.5148315
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Great Marlborough Street",
+    "way_id": 240343183,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 38.1,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1371919,
+      51.5148315
+     ],
+     [
+      -0.1368188,
+      51.5149376
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 28.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1368188,
+      51.5149376
+     ],
+     [
+      -0.1362311,
+      51.5151039
+     ],
+     [
+      -0.1362135,
+      51.5151089
+     ],
+     [
+      -0.1361766,
+      51.5151201
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4082604,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 48.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1361168,
+      51.5150952
+     ],
+     [
+      -0.1361483,
+      51.5150854
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969657,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1360728,
+      51.5151082
+     ],
+     [
+      -0.1360957,
+      51.5151014
+     ],
+     [
+      -0.1361168,
+      51.5150952
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969658,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354841,
+      51.5152824
+     ],
+     [
+      -0.1360728,
+      51.5151082
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 4395792,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 45.1,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1354486,
+      51.5152929
+     ],
+     [
+      -0.1354656,
+      51.5152879
+     ],
+     [
+      -0.1354841,
+      51.5152824
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969660,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 2.7,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.135406,
+      51.5153055
+     ],
+     [
+      -0.1354486,
+      51.5152929
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Noel Street",
+    "way_id": 1264969659,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333672,
+      51.5149774
+     ],
+     [
+      -0.1333302,
+      51.5149872
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311764,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 2.8,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333302,
+      51.5149872
+     ],
+     [
+      -0.1333181,
+      51.5149904
+     ],
+     [
+      -0.1332791,
+      51.5150008
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311766,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 3.8,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1332791,
+      51.5150008
+     ],
+     [
+      -0.1328612,
+      51.5151118
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 4395791,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 31.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1328612,
+      51.5151118
+     ],
+     [
+      -0.1328005,
+      51.5151279
+     ],
+     [
+      -0.1327958,
+      51.5151291
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311767,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/1/3000+/25",
+    "length_m": 4.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327958,
+      51.5151291
+     ],
+     [
+      -0.1327267,
+      51.5151476
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Carlisle Street",
+    "way_id": 1263311765,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 5.2,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1327267,
+      51.5151476
+     ],
+     [
+      -0.1329281,
+      51.5154339
+     ],
+     [
+      -0.1329408,
+      51.5154614
+     ],
+     [
+      -0.1329378,
+      51.5154889
+     ],
+     [
+      -0.1329172,
+      51.5155159
+     ],
+     [
+      -0.1328797,
+      51.5155357
+     ],
+     [
+      -0.1324426,
+      51.5156506
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 66151802,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 80.6,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1324426,
+      51.5156506
+     ],
+     [
+      -0.1321033,
+      51.5157426
+     ],
+     [
+      -0.1320324,
+      51.5157455
+     ],
+     [
+      -0.13197,
+      51.5157389
+     ],
+     [
+      -0.1319117,
+      51.5157178
+     ],
+     [
+      -0.1318676,
+      51.5156834
+     ],
+     [
+      -0.1316909,
+      51.5154325
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Soho Square",
+    "way_id": 4082521,
+    "highway": "residential",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/25",
+    "length_m": 74.9,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  }
+ ]
+}

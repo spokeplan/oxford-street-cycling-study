@@ -1,0 +1,118 @@
+way_id,name,ref,highway,class_group,oneway,way_m,count_id,hours,year,estimation_method,count_adt,laei_adt,ratio
+344304,Marylebone Flyover,A40,trunk,major,yes,304,70181,,2024,Counted,56889,35194,0.619
+2199749,Portland Place,A4201,primary,major,yes,141,7672,,2018,Counted,15312,8417,0.550
+3178746,Praed Street,A4205,primary,major,yes,165,37775,,2009,Counted,5919,6322,1.068
+4236993,Vernon Place,A40,primary,major,yes,35,75100,,2025,Estimated,11837,11663,0.985
+4255578,Strand,A4,unclassified,minor,yes,87,94048,,2023,Counted,3612,11883,3.290
+4256876,Procter Street,A40,primary,major,yes,63,75101,,2024,Counted,12831,9325,0.727
+4256991,Theobalds Road,A40,primary,major,yes,39,93123,,2022,Counted,17292,467,0.027
+4288961,Rosebery Avenue,A401,primary,major,no,72,38592,,2018,Counted,10075,9934,0.986
+4370887,Piccadilly,A4,primary,major,no,101,6120,,2025,Counted,46143,34855,0.755
+4370938,New Bond Street,B406,secondary,major,yes,185,942323,,2009,Counted,8496,9770,1.150
+4376581,New Oxford Street,A40,primary,major,no,64,90042,,2019,Counted,11657,5920,0.508
+4486905,Seymour Street,A5204,primary,major,no,144,18169,,2019,Counted,7389,11507,1.557
+8114019,Edgware Road,A5,trunk,major,yes,114,93117,,2023,Counted,27899,13631,0.489
+9346429,High Holborn,A40,primary,major,yes,80,75102,,2025,Estimated,11316,10826,0.957
+18121248,Great Portland Street,B506,secondary,major,yes,122,942321,,2019,Counted,4994,6546,1.311
+24865179,Goodge Street,A5204,primary,major,yes,100,38595,,2021,Counted,2957,4857,1.643
+25803161,Strand Underpass,A4200,primary,major,yes,359,81119,,2018,Counted,10439,7166,0.686
+30279893,Mortimer Street,A5204,primary,major,no,89,70191,,2025,Counted,8139,6471,0.795
+31435325,Portman Square,A41,primary,major,yes,119,74973,,2020,Counted,1519,962,0.633
+31476941,Long Acre,B402,secondary,major,yes,111,811069,,2019,Counted,2950,2480,0.841
+36814927,Gray's Inn Road,A5200,primary,major,yes,38,8381,,2019,Counted,12959,7956,0.614
+38308699,Seymour Place,,tertiary,minor,no,98,804527,,2018,Counted,6801,11804,1.736
+38901195,Aldwych,A4,primary,major,no,41,94050,,2023,Counted,18184,6229,0.343
+41588167,Euston Road,A501,trunk,major,yes,102,47245,,2025,Counted,55240,24927,0.451
+42709093,Oxford Street,A40,primary,major,no,150,36435,,2023,Counted,6552,4379,0.668
+42709095,Baker Street,A41,primary,major,no,66,74978,,2020,Counted,9479,5325,0.562
+43365534,Regent Street,A4201,primary,major,yes,73,17638,,2020,Counted,11636,15692,1.349
+49798167,Charing Cross Road,A400,primary,major,no,47,47874,,2018,Counted,8839,16074,1.819
+49934748,High Holborn,A40,primary,major,yes,100,75099,,2025,Estimated,10651,2991,0.281
+55026151,Mortimer Street,A5204,primary,major,no,77,28121,,2025,Counted,8139,10110,1.242
+61507665,Bishop's Bridge Road,A4206,primary,major,no,240,89355,,2020,Counted,11428,11490,1.005
+61960154,Portman Square,A41,primary,major,no,80,74976,,2020,Counted,9479,9089,0.959
+111571967,Bayswater Road,A402,primary,major,no,388,26432,,2024,Counted,18027,20986,1.164
+116615382,Charing Cross Road,A400,primary,major,no,24,90100,,2024,Counted,3571,12730,3.565
+148305759,Marylebone Road,A501,trunk,major,yes,100,57537,,2024,Counted,52638,31989,0.608
+150695599,Old Marylebone Road,A501,trunk,major,no,33,96225,,2024,Counted,15243,5733,0.376
+154029161,Portman Square,A4380,primary,major,no,110,74975,,2025,Counted,10186,11904,1.169
+199513265,Theobalds Road,A401,primary,major,no,82,37827,,2025,Counted,13433,13489,1.004
+200596450,Strand,A4,primary,major,yes,385,16108,,2023,Counted,12511,7081,0.566
+200596577,Waterloo Bridge,A301,primary,major,yes,291,81118,,2024,Counted,25128,14808,0.589
+201299306,Edgware Road,A5,trunk,major,yes,52,74972,,2024,Counted,26655,18140,0.681
+201725618,Southampton Row,A4200,primary,major,yes,93,37773,,2025,Counted,17745,5764,0.325
+207528495,Marylebone Road,A501,trunk,major,yes,55,18454,,2021,Counted,44749,21193,0.474
+211489809,Pall Mall,A4,primary,major,yes,164,38177,,2019,Counted,17907,16277,0.909
+211489821,Pall Mall,A4,primary,major,yes,101,90168,,2025,Estimated,18177,20731,1.141
+217573432,Northumberland Avenue,A400,primary,major,no,83,93128,,2022,Counted,12858,10314,0.802
+222301969,Marylebone Road,A501,trunk,major,yes,114,26429,,2025,Counted,54412,21924,0.403
+230506730,Strand,A4,primary,major,yes,75,48517,,2018,Counted,18960,9639,0.508
+232914381,Gloucester Place,A4380,primary,major,no,31,74977,,2025,Counted,10186,23215,2.279
+232914382,Gloucester Place,A4380,primary,major,no,56,46469,,2025,Counted,10186,9496,0.932
+232918995,Orchard Street,A41,primary,major,no,38,36471,,2020,Counted,9479,5476,0.578
+234296718,Gray's Inn Road,A501,trunk,major,yes,54,37825,,2023,Counted,18201,19450,1.069
+234575098,Euston Road,A501,trunk,major,yes,14,56815,,2024,Counted,39146,25366,0.648
+236140104,Kingsway,A4200,primary,major,yes,89,73225,,2025,Counted,14676,10536,0.718
+236942748,Marylebone Road,A501,trunk,major,yes,48,48251,,2024,Counted,56889,2684,0.047
+236943605,Old Marylebone Road,A501,trunk,major,no,43,96224,,2025,Counted,13051,9845,0.754
+237710706,Berkeley Street,,tertiary,minor,yes,81,804530,,2025,Counted,6829,6220,0.911
+252614802,Strand,A4,unclassified,minor,yes,88,6119,,2021,Counted,16225,9950,0.613
+259272865,Harrow Road,A404,primary,major,yes,76,58173,,2025,Counted,27281,16017,0.587
+267213537,Trafalgar Square,A400,primary,major,yes,11,46119,,2000,Counted,38767,1548,0.040
+279154267,Euston Road,A501,trunk_link,major,yes,52,76054,,2024,Counted,37784,2285,0.060
+303982842,Bloomsbury Way,A40,primary,major,no,39,27785,,2025,Counted,10114,1169,0.116
+305358746,Wigmore Street,A5204,primary,major,no,61,48010,,2019,Counted,15534,19433,1.251
+306452424,Tavistock Square,A4200,primary,major,no,96,90230,,2020,Counted,18847,16654,0.884
+315631030,Charing Cross Road,A400,primary,major,no,53,75094,,2016,Counted,7017,12730,1.814
+320040501,Victoria Embankment,A3211,primary,major,no,249,48552,,2025,Counted,26537,9999,0.377
+331994955,Chancery Lane,B400,secondary,major,yes,90,805667,,2018,Counted,3245,4543,1.400
+360956356,Edgware Road,A5,trunk,major,no,65,46155,,2021,Counted,16063,17513,1.090
+436945579,Haymarket,A4,primary,major,yes,95,28477,,2021,Counted,11218,7435,0.663
+437877198,Lancaster Place,A301,primary,major,yes,8,48577,,2004,Counted,26204,7307,0.279
+437881811,High Holborn,A40,primary,major,yes,73,57538,,2019,Counted,10004,6492,0.649
+443322182,New Oxford Street,A40,primary,major,no,53,90043,,2023,Counted,7774,6158,0.792
+477215249,Edgware Road,A5,trunk,major,no,65,6152,,2021,Counted,24372,33667,1.381
+498958810,Pall Mall East,A4,primary,major,yes,38,93118,,2022,Counted,8598,3745,0.436
+501063864,Portman Street,A4380,primary,major,no,34,26465,,2025,Counted,10186,12510,1.228
+568343480,Bishop's Bridge,A4206,primary,major,no,55,27735,,2001,Counted,34325,21448,0.625
+628429131,Charing Cross Road,A400,primary,major,no,103,37914,,2016,Counted,7017,10745,1.531
+648564129,Acton Street,A201,primary,major,yes,117,28313,,2025,Counted,8009,7245,0.905
+674823272,Shaftesbury Avenue,A401,primary,major,no,3,75096,,2024,Counted,8662,8417,0.972
+674839809,Baker Street,A41,trunk,major,no,79,26464,,2019,Counted,8885,5970,0.672
+694565504,Bloomsbury Street,A400,primary,major,no,13,48159,,2025,Counted,8058,4687,0.582
+808607456,Park Lane,A4202,trunk,major,yes,132,17639,,2025,Counted,61058,38551,0.631
+817971869,Cockspur Street,A4,primary,major,no,13,93119,,2023,Counted,12137,15588,1.284
+825288051,Euston Road,A501,trunk,major,yes,48,17169,,2025,Counted,43425,26705,0.615
+827537927,Gray's Inn Road,A5200,primary,major,no,72,17688,,2025,Counted,11160,11459,1.027
+827537942,Gray's Inn Road,A5200,primary,major,no,49,47785,,2019,Counted,11813,8540,0.723
+913020667,Tottenham Court Road,,primary,major,no,6,37101,,2018,Counted,12248,9225,0.753
+948695517,Lancaster Place,A301,primary,major,yes,13,93176,,2023,Counted,17071,7307,0.428
+955460953,Great Portland Street,B506,secondary,major,no,63,70190,,2018,Counted,6239,5680,0.910
+974868995,Strand,A4,primary,major,no,37,94049,,2025,Counted,18399,12411,0.675
+975104461,Aldwych,A4,primary,major,no,15,94224,,2023,Counted,25018,5065,0.202
+975429217,Aldwych,A4,primary,major,no,65,48613,,2016,Counted,29634,6229,0.210
+977088264,Oxford Street,A40,primary,major,yes,87,46433,,2025,Counted,10867,6484,0.597
+977669333,Regent Street,A4201,primary,major,no,25,37774,,2025,Counted,9163,9773,1.067
+1018924456,Regent Street St James's,A4,primary,major,yes,34,8448,,2023,Counted,12122,10111,0.834
+1033559490,Shaftesbury Avenue,A401,primary,major,no,62,57828,,2023,Counted,15180,17788,1.172
+1065112874,Kingsway,A4200,primary,major,yes,96,17637,,2024,Counted,19106,9898,0.518
+1065127939,Woburn Place,A4200,primary,major,no,16,7671,,2012,Counted,14336,14716,1.027
+1065127943,Bernard Street,B502,secondary,major,yes,7,942307,,2019,Counted,1919,6104,3.181
+1067121863,Lisson Grove,B507,secondary,major,no,83,990140,,2009,Counted,16970,14691,0.866
+1067635356,Tottenham Court Road,,primary,major,no,35,8469,,2019,Counted,7829,10184,1.301
+1067635375,Portman Square,A5204,primary,major,no,85,28514,,2019,Counted,7389,14687,1.988
+1090640725,Praed Street,A4205,primary,major,yes,64,89351,,2025,Counted,6299,5933,0.942
+1094661232,Shaftesbury Avenue,A401,primary,major,no,104,17691,,2023,Counted,15133,22630,1.495
+1101595330,Edgware Road,A5,trunk,major,no,28,26146,,2024,Counted,26655,29711,1.115
+1101595331,Chapel Street,A501,trunk,major,yes,148,96226,,2024,Counted,5105,10522,2.061
+1119269400,New Oxford Street,A40,primary,major,no,14,75097,,2025,Counted,9643,2456,0.255
+1135566097,Piccadilly,A4,primary,major,yes,89,26114,,2019,Counted,15888,7107,0.447
+1173183649,Gloucester Place,A4380,trunk,major,no,9,16435,,2019,Counted,15451,8888,0.575
+1302050864,St John's Wood Road,A5205,trunk,major,no,110,47788,,2018,Counted,27043,15223,0.563
+1302484581,Park Road,A41,trunk,major,no,138,8083,,2024,Counted,21600,20532,0.951
+1323203209,Baker Street,A41,primary,major,no,45,6459,,2020,Counted,9479,3770,0.398
+1323242106,Marylebone Road,A501,trunk,major,yes,27,27236,,2021,Counted,40997,7237,0.177
+1323247918,York Street,A41,primary,major,yes,19,74974,,2012,Counted,1510,2540,1.682
+1388665356,Sussex Gardens,A4209,primary,major,no,23,47730,,2018,Counted,16678,7907,0.474
+1418610234,High Holborn,A40,primary,major,no,40,6425,,2020,Counted,10047,9401,0.936
+1571356202,Oxford Street,A40,primary,major,no,20,56625,,2018,Counted,9426,11706,1.242

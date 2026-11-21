@@ -1,0 +1,3183 @@
+{
+ "type": "FeatureCollection",
+ "properties": {
+  "table": "furth2017-low-lt20",
+  "scenario": "full-closure-sealed",
+  "trip": "A-B",
+  "rider": "cautious",
+  "mult_lts3": 4,
+  "mult_lts4": 10,
+  "distance_m": 3325,
+  "cost": 4138,
+  "lts1_m": 1121,
+  "lts2_m": 1932,
+  "lts3_m": 271,
+  "lts4_m": 0,
+  "lts34_m": 271,
+  "lts34_streets": "Berkeley Square 153; Bruton Street 23; Charing Cross Road 95",
+  "wigmore_street_m": 0,
+  "oxford_street_m": 0,
+  "snap_from_m": 0,
+  "snap_to_m": 17,
+  "street_sequence_major": "(cycleway) > Park Lane > Deanery Street > Hill Street > Berkeley Square > Bruton Street > New Bond Street > Burlington Gardens > Vigo Street > Glasshouse Street > Brewer Street > Old Compton Street > Greek Street > Manette Street > Charing Cross Road",
+  "street_sequence": "(cycleway) > Park Lane > (cycleway) > (footway) > Park Lane > Deanery Street > South Audley Street > Hill Street > Berkeley Square > Bruton Street > New Bond Street > Burlington Gardens > Vigo Street > Regent Street > Glasshouse Street > Brewer Street > Wardour Street > Old Compton Street > Greek Street > Manette Street > Charing Cross Road",
+  "l4_m": 2389,
+  "l2_m": "no path",
+  "l2_ratio": "no path",
+  "connected_lowstress": "no",
+  "l2_snap_from_m": 0,
+  "l2_snap_to_m": 54
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1587402,
+      51.5132041
+     ],
+     [
+      -0.1587194,
+      51.513146
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 827484926,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 6.6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1587194,
+      51.513146
+     ],
+     [
+      -0.1588503,
+      51.5130513
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 701474481,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 13.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1588503,
+      51.5130513
+     ],
+     [
+      -0.1587674,
+      51.5128111
+     ],
+     [
+      -0.158576,
+      51.5127368
+     ],
+     [
+      -0.1585677,
+      51.5127134
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 258590636,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 45.6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1585677,
+      51.5127134
+     ],
+     [
+      -0.1585549,
+      51.5126711
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 645189339,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 4.8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1585549,
+      51.5126711
+     ],
+     [
+      -0.1585444,
+      51.5126394
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 645189339,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 3.6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1585444,
+      51.5126394
+     ],
+     [
+      -0.1585408,
+      51.5126268
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 645189341,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 1.4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1585408,
+      51.5126268
+     ],
+     [
+      -0.1586037,
+      51.5125799
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 645189341,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 6.8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1586037,
+      51.5125799
+     ],
+     [
+      -0.1586626,
+      51.5125373
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 667506397,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 6.2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1586626,
+      51.5125373
+     ],
+     [
+      -0.1587317,
+      51.5124873
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 667506397,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 7.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1587317,
+      51.5124873
+     ],
+     [
+      -0.1586531,
+      51.5124462
+     ],
+     [
+      -0.1586366,
+      51.5124317
+     ],
+     [
+      -0.1586236,
+      51.5124109
+     ],
+     [
+      -0.1586149,
+      51.5123861
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 808607454,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 14.4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1586149,
+      51.5123861
+     ],
+     [
+      -0.15857,
+      51.5122786
+     ],
+     [
+      -0.1584566,
+      51.5120209
+     ],
+     [
+      -0.158361,
+      51.5117947
+     ],
+     [
+      -0.158218,
+      51.5114737
+     ],
+     [
+      -0.1581445,
+      51.5113259
+     ],
+     [
+      -0.1580735,
+      51.5111977
+     ],
+     [
+      -0.1579927,
+      51.5110703
+     ],
+     [
+      -0.1578844,
+      51.5109159
+     ],
+     [
+      -0.157851,
+      51.5108657
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 808607454,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 177.4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.157851,
+      51.5108657
+     ],
+     [
+      -0.157822,
+      51.5108269
+     ],
+     [
+      -0.1578085,
+      51.5108077
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1001937472,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 7.1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1578085,
+      51.5108077
+     ],
+     [
+      -0.1577166,
+      51.5106785
+     ],
+     [
+      -0.157559,
+      51.5104932
+     ],
+     [
+      -0.1573091,
+      51.5102041
+     ],
+     [
+      -0.1572595,
+      51.510151
+     ],
+     [
+      -0.1572455,
+      51.5101297
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1001937472,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 84.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1572455,
+      51.5101297
+     ],
+     [
+      -0.1572423,
+      51.510104
+     ],
+     [
+      -0.1572534,
+      51.5100561
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1068343774,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 8.2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1572534,
+      51.5100561
+     ],
+     [
+      -0.1572309,
+      51.5100297
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 808607465,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 3.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1572309,
+      51.5100297
+     ],
+     [
+      -0.1571619,
+      51.5099558
+     ],
+     [
+      -0.1570902,
+      51.5098473
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 59273399,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 22.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1570902,
+      51.5098473
+     ],
+     [
+      -0.1570558,
+      51.5098049
+     ],
+     [
+      -0.1570112,
+      51.5097689
+     ],
+     [
+      -0.1567161,
+      51.5095306
+     ],
+     [
+      -0.156602,
+      51.5094236
+     ],
+     [
+      -0.1565387,
+      51.5093664
+     ],
+     [
+      -0.1560947,
+      51.5090915
+     ],
+     [
+      -0.1558307,
+      51.508971
+     ],
+     [
+      -0.1557419,
+      51.508932
+     ],
+     [
+      -0.1556641,
+      51.5089114
+     ],
+     [
+      -0.1556075,
+      51.5089088
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 809387539,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 149.1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1556075,
+      51.5089088
+     ],
+     [
+      -0.1555654,
+      51.5089015
+     ],
+     [
+      -0.1555251,
+      51.5088888
+     ],
+     [
+      -0.155488,
+      51.5088662
+     ],
+     [
+      -0.1554068,
+      51.5088045
+     ],
+     [
+      -0.1551085,
+      51.5085829
+     ],
+     [
+      -0.1548402,
+      51.5083674
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1068343773,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 81.1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1548402,
+      51.5083674
+     ],
+     [
+      -0.1546157,
+      51.5081794
+     ],
+     [
+      -0.1542195,
+      51.507848
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 808607453,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 72
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1542195,
+      51.507848
+     ],
+     [
+      -0.1526633,
+      51.5065752
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1218089330,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 177.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1526633,
+      51.5065752
+     ],
+     [
+      -0.1525607,
+      51.5064871
+     ],
+     [
+      -0.1525103,
+      51.5064438
+     ],
+     [
+      -0.152481,
+      51.5064146
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1015994202,
+    "name": "Park Lane",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 21.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.152481,
+      51.5064146
+     ],
+     [
+      -0.1524629,
+      51.5064214
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1080832438,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 1.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1524629,
+      51.5064214
+     ],
+     [
+      -0.1524438,
+      51.5064281
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1395561367,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 1.5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1524438,
+      51.5064281
+     ],
+     [
+      -0.1523996,
+      51.5064445
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062686,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 3.6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1523996,
+      51.5064445
+     ],
+     [
+      -0.152347,
+      51.5064641
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062686,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 4.2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.152347,
+      51.5064641
+     ],
+     [
+      -0.1522979,
+      51.5064866
+     ],
+     [
+      -0.1522432,
+      51.5065367
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062689,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1522432,
+      51.5065367
+     ],
+     [
+      -0.1521998,
+      51.5065748
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062685,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 5.2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1521998,
+      51.5065748
+     ],
+     [
+      -0.1521359,
+      51.506633
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062685,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 7.8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1521359,
+      51.506633
+     ],
+     [
+      -0.1521064,
+      51.5066522
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 240342336,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1521064,
+      51.5066522
+     ],
+     [
+      -0.152139,
+      51.5066847
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062679,
+    "name": null,
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 4.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.152139,
+      51.5066847
+     ],
+     [
+      -0.1521414,
+      51.5066948
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062681,
+    "name": null,
+    "highway": "footway",
+    "lts": 2,
+    "lts_rule": "m14",
+    "length_m": 1.1
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1521414,
+      51.5066948
+     ],
+     [
+      -0.1521024,
+      51.5067006
+     ],
+     [
+      -0.15205,
+      51.5067094
+     ],
+     [
+      -0.1519952,
+      51.5067272
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062683,
+    "name": "Park Lane",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 10.8,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1519952,
+      51.5067272
+     ],
+     [
+      -0.1519908,
+      51.5067423
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1080832437,
+    "name": "Park Lane",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 1.7,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1519908,
+      51.5067423
+     ],
+     [
+      -0.151923,
+      51.5069776
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 209681859,
+    "name": "Park Lane",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 26.6,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.151923,
+      51.5069776
+     ],
+     [
+      -0.1519072,
+      51.5070324
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 209681859,
+    "name": "Park Lane",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 6.2,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1519072,
+      51.5070324
+     ],
+     [
+      -0.1517365,
+      51.5074485
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 275036972,
+    "name": "Deanery Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 47.8,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1517365,
+      51.5074485
+     ],
+     [
+      -0.151621,
+      51.5077108
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 275036972,
+    "name": "Deanery Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 30.2,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.151621,
+      51.5077108
+     ],
+     [
+      -0.1510883,
+      51.5077995
+     ],
+     [
+      -0.1510365,
+      51.5078072
+     ],
+     [
+      -0.1509923,
+      51.5078138
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 275036974,
+    "name": "Deanery Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 45,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1509923,
+      51.5078138
+     ],
+     [
+      -0.1509862,
+      51.5077988
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253494,
+    "name": "South Audley Street",
+    "highway": "tertiary",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 1.7,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1509862,
+      51.5077988
+     ],
+     [
+      -0.1508911,
+      51.5078086
+     ],
+     [
+      -0.1508489,
+      51.5078121
+     ],
+     [
+      -0.1498117,
+      51.5079649
+     ],
+     [
+      -0.1496987,
+      51.5079832
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253444,
+    "name": "Hill Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 91.5,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1496987,
+      51.5079832
+     ],
+     [
+      -0.1496529,
+      51.508006
+     ],
+     [
+      -0.1496383,
+      51.5080139
+     ],
+     [
+      -0.1495988,
+      51.5080353
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253444,
+    "name": "Hill Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 9,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1495988,
+      51.5080353
+     ],
+     [
+      -0.1495185,
+      51.5081155
+     ],
+     [
+      -0.1490438,
+      51.5083698
+     ],
+     [
+      -0.1488463,
+      51.5084743
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253444,
+    "name": "Hill Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 71.8,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1488463,
+      51.5084743
+     ],
+     [
+      -0.1473252,
+      51.509266
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253444,
+    "name": "Hill Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 137.2,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1473252,
+      51.509266
+     ],
+     [
+      -0.1466438,
+      51.5096011
+     ],
+     [
+      -0.1466427,
+      51.5096025
+     ],
+     [
+      -0.1465888,
+      51.5096327
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253444,
+    "name": "Hill Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 65.3,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1465888,
+      51.5096327
+     ],
+     [
+      -0.1467334,
+      51.5097464
+     ],
+     [
+      -0.1467875,
+      51.5098036
+     ],
+     [
+      -0.146823,
+      51.5098742
+     ],
+     [
+      -0.1468317,
+      51.5099266
+     ],
+     [
+      -0.1468396,
+      51.5099751
+     ],
+     [
+      -0.1468451,
+      51.5100091
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 237708976,
+    "name": "Berkeley Square",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/le20",
+    "length_m": 46.8,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1468451,
+      51.5100091
+     ],
+     [
+      -0.1468158,
+      51.5101077
+     ],
+     [
+      -0.1467693,
+      51.5101642
+     ],
+     [
+      -0.1467064,
+      51.5102338
+     ],
+     [
+      -0.146684,
+      51.5102567
+     ],
+     [
+      -0.1466411,
+      51.5102816
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253804,
+    "name": "Berkeley Square",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 34.1,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1466411,
+      51.5102816
+     ],
+     [
+      -0.1465816,
+      51.5103039
+     ],
+     [
+      -0.1464646,
+      51.5103428
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 282034890,
+    "name": "Berkeley Square",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 14,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1464646,
+      51.5103428
+     ],
+     [
+      -0.1463622,
+      51.5103622
+     ],
+     [
+      -0.1462861,
+      51.5103674
+     ],
+     [
+      -0.1461422,
+      51.510364
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253372,
+    "name": "Berkeley Square",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 22.7,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1461422,
+      51.510364
+     ],
+     [
+      -0.146018,
+      51.5103318
+     ],
+     [
+      -0.14594,
+      51.510299
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253372,
+    "name": "Berkeley Square",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 15.8,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.14594,
+      51.510299
+     ],
+     [
+      -0.1457673,
+      51.5101606
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 282034889,
+    "name": "Berkeley Square",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/le20",
+    "length_m": 19.5,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1457673,
+      51.5101606
+     ],
+     [
+      -0.1457035,
+      51.5101476
+     ],
+     [
+      -0.1456117,
+      51.5101292
+     ],
+     [
+      -0.1455132,
+      51.5101375
+     ],
+     [
+      -0.1454448,
+      51.5101551
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 38433761,
+    "name": "Bruton Street",
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 23.3,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1454448,
+      51.5101551
+     ],
+     [
+      -0.1452762,
+      51.5102355
+     ],
+     [
+      -0.1448756,
+      51.5104265
+     ],
+     [
+      -0.1446711,
+      51.5105247
+     ],
+     [
+      -0.1439145,
+      51.5108852
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 647062687,
+    "name": "Bruton Street",
+    "highway": "tertiary",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 133.4,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1439145,
+      51.5108852
+     ],
+     [
+      -0.143798,
+      51.5109387
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1094011261,
+    "name": "Bruton Street",
+    "highway": "tertiary",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 10,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.143798,
+      51.5109387
+     ],
+     [
+      -0.1434787,
+      51.5110672
+     ],
+     [
+      -0.1434217,
+      51.511092
+     ],
+     [
+      -0.1433736,
+      51.5111115
+     ],
+     [
+      -0.1432806,
+      51.5111534
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253832,
+    "name": "Bruton Street",
+    "highway": "tertiary",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 43,
+    "adt": 3000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1432806,
+      51.5111534
+     ],
+     [
+      -0.1432272,
+      51.5111014
+     ],
+     [
+      -0.1426593,
+      51.5105569
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 196122557,
+    "name": "New Bond Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 79,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1426593,
+      51.5105569
+     ],
+     [
+      -0.1426444,
+      51.5105399
+     ],
+     [
+      -0.1426287,
+      51.5105219
+     ],
+     [
+      -0.1425126,
+      51.5104079
+     ],
+     [
+      -0.1424932,
+      51.5103888
+     ],
+     [
+      -0.1424536,
+      51.5103572
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 542025760,
+    "name": "New Bond Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m17",
+    "length_m": 26.4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1424536,
+      51.5103572
+     ],
+     [
+      -0.1419564,
+      51.5099799
+     ],
+     [
+      -0.141448,
+      51.5095331
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4370942,
+    "name": "New Bond Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 115.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.141448,
+      51.5095331
+     ],
+     [
+      -0.1413747,
+      51.5095607
+     ],
+     [
+      -0.1409327,
+      51.509727
+     ],
+     [
+      -0.140896,
+      51.5097405
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 933075589,
+    "name": "Burlington Gardens",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 44.6,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.140896,
+      51.5097405
+     ],
+     [
+      -0.140415,
+      51.5099254
+     ],
+     [
+      -0.140386,
+      51.5099365
+     ],
+     [
+      -0.1402405,
+      51.5099924
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4370890,
+    "name": "Burlington Gardens",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 53.3,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1402405,
+      51.5099924
+     ],
+     [
+      -0.1398172,
+      51.5101398
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4370890,
+    "name": "Burlington Gardens",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 33.6,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1398172,
+      51.5101398
+     ],
+     [
+      -0.1397522,
+      51.510148
+     ],
+     [
+      -0.1397282,
+      51.510151
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1131262158,
+    "name": "Burlington Gardens",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/751-1500/le20",
+    "length_m": 6.3,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1397282,
+      51.510151
+     ],
+     [
+      -0.1396128,
+      51.5101458
+     ],
+     [
+      -0.1395948,
+      51.5101473
+     ],
+     [
+      -0.1392766,
+      51.5102051
+     ],
+     [
+      -0.1390702,
+      51.5102426
+     ],
+     [
+      -0.1390452,
+      51.5102471
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 933075588,
+    "name": "Vigo Street",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 48.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1390452,
+      51.5102471
+     ],
+     [
+      -0.1389583,
+      51.5102629
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1265032509,
+    "name": "Vigo Street",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 6.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1389583,
+      51.5102629
+     ],
+     [
+      -0.1388741,
+      51.5102791
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1265032510,
+    "name": "Vigo Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/751-1500/le20",
+    "length_m": 6.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1388741,
+      51.5102791
+     ],
+     [
+      -0.1387852,
+      51.5102963
+     ],
+     [
+      -0.1385268,
+      51.5103462
+     ],
+     [
+      -0.1384617,
+      51.5103573
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4370889,
+    "name": "Vigo Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/751-1500/le20",
+    "length_m": 29.8,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1384617,
+      51.5103573
+     ],
+     [
+      -0.138411,
+      51.510366
+     ],
+     [
+      -0.1382899,
+      51.5103749
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1126473307,
+    "name": "Vigo Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/751-1500/le20",
+    "length_m": 12.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1382899,
+      51.5103749
+     ],
+     [
+      -0.1381703,
+      51.5103803
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 436941633,
+    "name": "Regent Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/1501-3000/le20",
+    "length_m": 8.3,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1381703,
+      51.5103803
+     ],
+     [
+      -0.1381015,
+      51.5103894
+     ],
+     [
+      -0.1379398,
+      51.510414
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1131262161,
+    "name": "Glasshouse Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/1501-3000/le20",
+    "length_m": 16.4,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1379398,
+      51.510414
+     ],
+     [
+      -0.1375651,
+      51.5104823
+     ],
+     [
+      -0.137517,
+      51.5104904
+     ],
+     [
+      -0.1374885,
+      51.5104952
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253890,
+    "name": "Glasshouse Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/1501-3000/le20",
+    "length_m": 32.5,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1374885,
+      51.5104952
+     ],
+     [
+      -0.137384,
+      51.5105263
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1131262160,
+    "name": "Glasshouse Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 8,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.137384,
+      51.5105263
+     ],
+     [
+      -0.1373453,
+      51.5105432
+     ],
+     [
+      -0.1373084,
+      51.5105639
+     ],
+     [
+      -0.1369158,
+      51.5107844
+     ],
+     [
+      -0.1368407,
+      51.5108266
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1044356411,
+    "name": "Brewer Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 50.3,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1368407,
+      51.5108266
+     ],
+     [
+      -0.1367582,
+      51.5108698
+     ],
+     [
+      -0.1362141,
+      51.5111549
+     ],
+     [
+      -0.1361479,
+      51.5111896
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253812,
+    "name": "Brewer Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 62.7,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1361479,
+      51.5111896
+     ],
+     [
+      -0.1360795,
+      51.5112276
+     ],
+     [
+      -0.1357615,
+      51.5114043
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253812,
+    "name": "Brewer Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 35.8,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1357615,
+      51.5114043
+     ],
+     [
+      -0.1354469,
+      51.5115756
+     ],
+     [
+      -0.1353984,
+      51.511602
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253812,
+    "name": "Brewer Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 33.4,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1353984,
+      51.511602
+     ],
+     [
+      -0.1353014,
+      51.5116568
+     ],
+     [
+      -0.1349962,
+      51.511829
+     ],
+     [
+      -0.1349627,
+      51.5118479
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253812,
+    "name": "Brewer Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/1501-3000/le20",
+    "length_m": 40.7,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1349627,
+      51.5118479
+     ],
+     [
+      -0.1348938,
+      51.5118826
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 262200663,
+    "name": "Brewer Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 6.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1348938,
+      51.5118826
+     ],
+     [
+      -0.1348297,
+      51.5119148
+     ],
+     [
+      -0.1347919,
+      51.5119338
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 262200663,
+    "name": "Brewer Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 9.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1347919,
+      51.5119338
+     ],
+     [
+      -0.1343134,
+      51.5121592
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 262200663,
+    "name": "Brewer Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 41.5,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1343134,
+      51.5121592
+     ],
+     [
+      -0.1341851,
+      51.512221
+     ],
+     [
+      -0.1338756,
+      51.5123736
+     ],
+     [
+      -0.1338288,
+      51.5123967
+     ],
+     [
+      -0.1333985,
+      51.5125766
+     ],
+     [
+      -0.1333972,
+      51.5125772
+     ],
+     [
+      -0.1333511,
+      51.5125964
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 262200663,
+    "name": "Brewer Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 82.5,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1333511,
+      51.5125964
+     ],
+     [
+      -0.1332971,
+      51.5125982
+     ],
+     [
+      -0.1331333,
+      51.5125006
+     ],
+     [
+      -0.1331364,
+      51.5124696
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 585788252,
+    "name": "Wardour Street",
+    "highway": "cycleway",
+    "lts": 1,
+    "lts_rule": "s3",
+    "length_m": 22.9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1331364,
+      51.5124696
+     ],
+     [
+      -0.133096,
+      51.5124835
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1264573719,
+    "name": "Old Compton Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 3.2,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.133096,
+      51.5124835
+     ],
+     [
+      -0.1330556,
+      51.512499
+     ],
+     [
+      -0.1330218,
+      51.512512
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1264956299,
+    "name": "Old Compton Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/751-1500/le20",
+    "length_m": 6,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1330218,
+      51.512512
+     ],
+     [
+      -0.1327097,
+      51.5126317
+     ],
+     [
+      -0.1320287,
+      51.5128931
+     ],
+     [
+      -0.1319763,
+      51.5129266
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4253984,
+    "name": "Old Compton Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 85.9,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1319763,
+      51.5129266
+     ],
+     [
+      -0.1319294,
+      51.5129462
+     ],
+     [
+      -0.13144,
+      51.5131377
+     ],
+     [
+      -0.1313558,
+      51.5131462
+     ],
+     [
+      -0.1312747,
+      51.5131774
+     ],
+     [
+      -0.1312302,
+      51.5131953
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 616192639,
+    "name": "Old Compton Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 60.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1312302,
+      51.5131953
+     ],
+     [
+      -0.131191,
+      51.5132092
+     ],
+     [
+      -0.1305422,
+      51.5134621
+     ],
+     [
+      -0.1304804,
+      51.5134822
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 616192639,
+    "name": "Old Compton Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 60.9,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1304804,
+      51.5134822
+     ],
+     [
+      -0.1305021,
+      51.5135152
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1499163943,
+    "name": "Greek Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 4,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1305021,
+      51.5135152
+     ],
+     [
+      -0.1305098,
+      51.5135264
+     ],
+     [
+      -0.1305351,
+      51.5135635
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1499163944,
+    "name": "Greek Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17-blocked-lane+f17/1/751-1500/le20",
+    "length_m": 5.8,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1305351,
+      51.5135635
+     ],
+     [
+      -0.1307064,
+      51.5138199
+     ],
+     [
+      -0.130989,
+      51.5142262
+     ],
+     [
+      -0.1310014,
+      51.5142441
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4082563,
+    "name": "Greek Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 82.3,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1310014,
+      51.5142441
+     ],
+     [
+      -0.1312491,
+      51.5145998
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4082563,
+    "name": "Greek Street",
+    "highway": "residential",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 43.1,
+    "adt": 1000,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1312491,
+      51.5145998
+     ],
+     [
+      -0.1311971,
+      51.5146148
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 279088480,
+    "name": "Manette Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m13",
+    "length_m": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1311971,
+      51.5146148
+     ],
+     [
+      -0.1311669,
+      51.5146231
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1272431757,
+    "name": "Manette Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m13",
+    "length_m": 2.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1311669,
+      51.5146231
+     ],
+     [
+      -0.131163,
+      51.5146242
+     ],
+     [
+      -0.1310274,
+      51.5146572
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 241773308,
+    "name": "Manette Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m13",
+    "length_m": 10.4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1310274,
+      51.5146572
+     ],
+     [
+      -0.1308722,
+      51.5146894
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 241773309,
+    "name": "Manette Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m13",
+    "length_m": 11.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1308722,
+      51.5146894
+     ],
+     [
+      -0.1305065,
+      51.5147697
+     ],
+     [
+      -0.1304946,
+      51.5147726
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 527537175,
+    "name": "Manette Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m13",
+    "length_m": 27.7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1304946,
+      51.5147726
+     ],
+     [
+      -0.1304491,
+      51.5147823
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1272431758,
+    "name": "Manette Street",
+    "highway": "pedestrian",
+    "lts": 1,
+    "lts_rule": "m13",
+    "length_m": 3.3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1304491,
+      51.5147823
+     ],
+     [
+      -0.1303796,
+      51.5147969
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1453330979,
+    "name": "Manette Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 5.1,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1303796,
+      51.5147969
+     ],
+     [
+      -0.1299931,
+      51.5148763
+     ],
+     [
+      -0.1299737,
+      51.5148788
+     ],
+     [
+      -0.1299418,
+      51.5148853
+     ],
+     [
+      -0.1298872,
+      51.5148963
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 4082526,
+    "name": "Manette Street",
+    "highway": "unclassified",
+    "lts": 2,
+    "lts_rule": "f17/1/751-1500/le20",
+    "length_m": 35.8,
+    "adt": 1500,
+    "adt_source": "class-default"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1298872,
+      51.5148963
+     ],
+     [
+      -0.1298945,
+      51.5149114
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1049590471,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 1.8,
+    "adt": 7017,
+    "adt_source": "road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1298945,
+      51.5149114
+     ],
+     [
+      -0.1299147,
+      51.514955
+     ],
+     [
+      -0.1299664,
+      51.5150609
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 242166996,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 17.4,
+    "adt": 7017,
+    "adt_source": "road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1299664,
+      51.5150609
+     ],
+     [
+      -0.1299882,
+      51.5151098
+     ],
+     [
+      -0.1300015,
+      51.5151427
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 1049590470,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 9.4,
+    "adt": 3571,
+    "adt_source": "road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1300015,
+      51.5151427
+     ],
+     [
+      -0.1300167,
+      51.5151788
+     ],
+     [
+      -0.1300687,
+      51.5152948
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 116615382,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 17.5,
+    "adt": 3571,
+    "adt_source": "count"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1300687,
+      51.5152948
+     ],
+     [
+      -0.1300888,
+      51.5153474
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 116615382,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 6,
+    "adt": 3571,
+    "adt_source": "count"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1300888,
+      51.5153474
+     ],
+     [
+      -0.1301156,
+      51.5154089
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 233075058,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 7.1,
+    "adt": 3571,
+    "adt_source": "road"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1301156,
+      51.5154089
+     ],
+     [
+      -0.1302225,
+      51.5157005
+     ],
+     [
+      -0.1302307,
+      51.5157227
+     ]
+    ]
+   },
+   "properties": {
+    "way_id": 293637093,
+    "name": "Charing Cross Road",
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/1/3000+/le20",
+    "length_m": 35.8,
+    "adt": 3571,
+    "adt_source": "road"
+   }
+  }
+ ]
+}

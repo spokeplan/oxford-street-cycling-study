@@ -1,0 +1,81 @@
+{
+  "source_pbf": "data/greater-london-latest.osm.pbf",
+  "output_pbf": "data/greater-london-wigmore-track.osm.pbf",
+  "selector": {
+    "name": "Wigmore Street",
+    "highway": "*",
+    "bbox": {
+      "minLon": -0.16,
+      "maxLon": -0.14,
+      "minLat": 51.512,
+      "maxLat": 51.52
+    }
+  },
+  "new_tags": {
+    "cycleway": "track",
+    "cycleway:both": "track"
+  },
+  "ways_retagged": 11,
+  "ways_verified_in_output": 11,
+  "ways": [
+    {
+      "id": "17944923",
+      "highway": "primary",
+      "old_cycleway_tags": {
+        "cycleway:both": "no"
+      }
+    },
+    {
+      "id": "154029169",
+      "highway": "primary",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "154132290",
+      "highway": "primary",
+      "old_cycleway_tags": {
+        "cycleway:right": "lane"
+      }
+    },
+    {
+      "id": "305358746",
+      "highway": "primary",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1065177544",
+      "highway": "primary",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1065177545",
+      "highway": "primary",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1269109714",
+      "highway": "footway",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1302209328",
+      "highway": "footway",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1302209329",
+      "highway": "footway",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1302209331",
+      "highway": "footway",
+      "old_cycleway_tags": {}
+    },
+    {
+      "id": "1513380476",
+      "highway": "footway",
+      "old_cycleway_tags": {}
+    }
+  ]
+}

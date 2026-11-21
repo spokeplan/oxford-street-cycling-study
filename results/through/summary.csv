@@ -1,0 +1,9 @@
+group,ways,over_threshold,under_threshold
+all,86,63,23
+class residential,31,20,11
+class tertiary,19,19,0
+class unclassified,36,24,12
+one-way,42,33,9
+two-way,44,30,14
+in the LAEI network,32,30,2
+not in the LAEI network,54,33,21

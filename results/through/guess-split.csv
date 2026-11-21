@@ -1,0 +1,25 @@
+predictor,parameter,class,km,share
+on a fastest path,,through,23.65,0.173
+on a fastest path,,not through,109.99,0.805
+on a fastest path,,not drivable,2.92,0.021
+on fastest paths of >= k trips,1,through,23.65,0.173
+on fastest paths of >= k trips,1,not through,109.99,0.805
+on fastest paths of >= k trips,1,not drivable,2.92,0.021
+within 1.1 of a fastest path,,through,129.19,0.946
+within 1.1 of a fastest path,,not through,4.45,0.033
+within 1.1 of a fastest path,,not drivable,2.92,0.021
+within 1.2 of a fastest path,,through,132.19,0.968
+within 1.2 of a fastest path,,not through,1.45,0.011
+within 1.2 of a fastest path,,not drivable,2.92,0.021
+within 1.3 of a fastest path,,through,132.25,0.968
+within 1.3 of a fastest path,,not through,1.39,0.010
+within 1.3 of a fastest path,,not drivable,2.92,0.021
+detour ratio <= r,1.035,through,101.55,0.744
+detour ratio <= r,1.035,not through,32.09,0.235
+detour ratio <= r,1.035,not drivable,2.92,0.021
+within tolerance of a fastest path for >= k trips,1.1:100,through,118.32,0.866
+within tolerance of a fastest path for >= k trips,1.1:100,not through,15.32,0.112
+within tolerance of a fastest path for >= k trips,1.1:100,not drivable,2.92,0.021
+structural,,through,116.12,0.850
+structural,,not through,17.53,0.128
+structural,,not drivable,2.92,0.021

@@ -1,0 +1,7 @@
+table,part,metres,count_m,road_m,laei_m,class_default_m,no_volume_m,laei_within_factor_m,laei_within_factor
+furth2017-low,union-converted,1301,306,598,73,324,0,73,Soho Street (1623 vs 1500): 60 m; Soho Street (1623 vs 1000): 13 m
+furth2017-low,A-B-route-calm,1721,0,0,55,1545,121,0,
+furth2017-low,B-A-route-calm,1832,0,0,55,1709,68,0,
+furth2017-high,union-converted,1878,0,97,1594,187,0,81,Carlisle Street (1819 vs 1000): 48 m; Great Marlborough Street (4645 vs 3000): 9 m; Hanover Square (2091 vs 1500): 24 m
+furth2017-high,A-B-route-calm,686,0,4,0,248,434,0,
+furth2017-high,B-A-route-calm,652,0,4,0,248,400,0,

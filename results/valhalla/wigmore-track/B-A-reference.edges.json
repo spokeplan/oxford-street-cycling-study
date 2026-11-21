@@ -1,0 +1,1228 @@
+{
+  "units": "kilometers",
+  "edges": [
+    {
+      "cycle_lane": "shared",
+      "way_id": 315631030,
+      "use": "road",
+      "length": 0.008,
+      "source_percent_along": 0.819,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 315631030,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 293637093,
+      "use": "road",
+      "length": 0.036,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 233075058,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 116615382,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 116615382,
+      "use": "road",
+      "length": 0.018,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1049590470,
+      "use": "road",
+      "length": 0.004,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1049590470,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 242166996,
+      "use": "road",
+      "length": 0.012,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 242166996,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 1049590471,
+      "use": "road",
+      "length": 0.002,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4082526,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4082526,
+      "use": "road",
+      "length": 0.028,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1453330979,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1272431758,
+      "use": "footway",
+      "length": 0.003,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 527537175,
+      "use": "footway",
+      "length": 0.001,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 527537175,
+      "use": "footway",
+      "length": 0.027,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 241773309,
+      "use": "footway",
+      "length": 0.011,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 241773308,
+      "use": "footway",
+      "length": 0.01,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 241773308,
+      "use": "footway",
+      "length": 0.001,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1272431757,
+      "use": "footway",
+      "length": 0.002,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 279088480,
+      "use": "footway",
+      "length": 0.004,
+      "names": [
+        "Manette Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4082563,
+      "use": "road",
+      "length": 0.044,
+      "names": [
+        "Greek Street"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 1499163952,
+      "use": "road",
+      "length": 0.001,
+      "names": [
+        "Greek Street"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 1499163952,
+      "use": "road",
+      "length": 0.003,
+      "names": [
+        "Greek Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1499163951,
+      "use": "road",
+      "length": 0.004,
+      "names": [
+        "Greek Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 66151802,
+      "use": "road",
+      "length": 0.029,
+      "names": [
+        "Soho Square"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 66151802,
+      "use": "road",
+      "length": 0.031,
+      "names": [
+        "Soho Square"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 66151802,
+      "use": "road",
+      "length": 0.048,
+      "names": [
+        "Soho Square"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 66151802,
+      "use": "road",
+      "length": 0.081,
+      "names": [
+        "Soho Square"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 59207650,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Soho Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 59207650,
+      "use": "road",
+      "length": 0.045,
+      "names": [
+        "Soho Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 622159393,
+      "use": "road",
+      "length": 0.013,
+      "names": [
+        "Soho Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 622159392,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Soho Street"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 33096424,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 33096424,
+      "use": "road",
+      "length": 0.05,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 33096424,
+      "use": "road",
+      "length": 0.023,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 93773949,
+      "use": "road",
+      "length": 0.032,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 93773949,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 972210875,
+      "use": "road",
+      "length": 0.004,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 728793122,
+      "use": "road",
+      "length": 0.013,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 728793122,
+      "use": "road",
+      "length": 0.064,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 977088265,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 746024419,
+      "use": "road",
+      "length": 0.013,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 746024419,
+      "use": "road",
+      "length": 0.041,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 977088266,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 194259717,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 194259717,
+      "use": "road",
+      "length": 0.056,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 194259717,
+      "use": "road",
+      "length": 0.115,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 194259717,
+      "use": "road",
+      "length": 0.046,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 733855113,
+      "use": "road",
+      "length": 0.026,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1572350294,
+      "use": "road",
+      "length": 0.028,
+      "names": [
+        "Oxford Street",
+        "A40"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955518103,
+      "use": "road",
+      "length": 0.002,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 33608060,
+      "use": "road",
+      "length": 0.003,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 33608060,
+      "use": "road",
+      "length": 0.019,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955518104,
+      "use": "road",
+      "length": 0.014,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955460952,
+      "use": "road",
+      "length": 0.025,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955460952,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955460953,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955460953,
+      "use": "road",
+      "length": 0.052,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955460953,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692646,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692646,
+      "use": "road",
+      "length": 0.041,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692646,
+      "use": "road",
+      "length": 0.003,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692646,
+      "use": "road",
+      "length": 0.045,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692646,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Great Portland Street",
+        "B506"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 30279893,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 30279893,
+      "use": "road",
+      "length": 0.07,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 30279893,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803960,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803960,
+      "use": "road",
+      "length": 0.041,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 59718434,
+      "use": "road",
+      "length": 0.039,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803961,
+      "use": "road",
+      "length": 0.023,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1283819523,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1283819523,
+      "use": "road",
+      "length": 0.014,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803962,
+      "use": "road",
+      "length": 0.026,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692644,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692644,
+      "use": "road",
+      "length": 0.055,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.046,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.047,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 1065177544,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 1065177544,
+      "use": "road",
+      "length": 0.061,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154132290,
+      "use": "road",
+      "length": 0.015,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 1065177545,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 305358746,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 305358746,
+      "use": "road",
+      "length": 0.046,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 305358746,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.015,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.038,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.021,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.012,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.067,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.1,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.05,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "separated",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635376,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486907,
+      "use": "road",
+      "length": 0.016,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635375,
+      "use": "road",
+      "length": 0.085,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 245170293,
+      "use": "road",
+      "length": 0.031,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 245170293,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.049,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.05,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.021,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 1067635373,
+      "use": "road",
+      "length": 0.036,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635374,
+      "use": "road",
+      "length": 0.02,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635374,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.032,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.08,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.002,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 720628352,
+      "use": "road",
+      "length": 0.02,
+      "names": [
+        "Great Cumberland Place"
+      ],
+      "sign": {}
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1421538039,
+      "use": "road",
+      "length": 0.002,
+      "names": [
+        "A40",
+        "Marble Arch"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 667513317,
+      "use": "road",
+      "length": 0.02,
+      "names": [
+        "A40",
+        "Marble Arch"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 234237262,
+      "use": "cycleway",
+      "length": 0.009
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 667510415,
+      "use": "cycleway",
+      "length": 0.013
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 667510415,
+      "use": "cycleway",
+      "length": 0.005
+    }
+  ],
+  "alternate_paths": []
+}

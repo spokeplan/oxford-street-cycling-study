@@ -1,0 +1,738 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1573057,
+      51.5109515
+     ],
+     [
+      -0.1572314,
+      51.5109724
+     ],
+     [
+      -0.1570569,
+      51.5110143
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Brook Gate",
+    "way_id": 59272672,
+    "highway": "trunk_link",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 18.6,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1412668,
+      51.5136756
+     ],
+     [
+      -0.1413351,
+      51.5137505
+     ],
+     [
+      -0.1414503,
+      51.5138876
+     ],
+     [
+      -0.1415321,
+      51.5139899
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Regent Street",
+    "way_id": 240343066,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 39.5,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "A-B",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1573057,
+      51.5109515
+     ],
+     [
+      -0.1572314,
+      51.5109724
+     ],
+     [
+      -0.1570569,
+      51.5110143
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Brook Gate",
+    "way_id": 59272672,
+    "highway": "trunk_link",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 18.6,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1412668,
+      51.5136756
+     ],
+     [
+      -0.1413351,
+      51.5137505
+     ],
+     [
+      -0.1414503,
+      51.5138876
+     ],
+     [
+      -0.1415321,
+      51.5139899
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Regent Street",
+    "way_id": 240343066,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 39.5,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "A-B",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1444683,
+      51.5123058
+     ],
+     [
+      -0.1445756,
+      51.5122777
+     ],
+     [
+      -0.1449343,
+      51.5121706
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Street",
+    "way_id": 4253713,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 35.6,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1562617,
+      51.5099827
+     ],
+     [
+      -0.1563914,
+      51.5099596
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Gate",
+    "way_id": 1068343777,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 9.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1563914,
+      51.5099596
+     ],
+     [
+      -0.1565318,
+      51.5099376
+     ],
+     [
+      -0.156597,
+      51.5099296
+     ],
+     [
+      -0.1566721,
+      51.5099273
+     ],
+     [
+      -0.1567516,
+      51.5099285
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Gate",
+    "way_id": 14197225,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/2/0-8000/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1567516,
+      51.5099285
+     ],
+     [
+      -0.1568228,
+      51.5099353
+     ],
+     [
+      -0.1568405,
+      51.5099378
+     ],
+     [
+      -0.1569215,
+      51.5099609
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Gate",
+    "way_id": 1068343776,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 12.4,
+    "fragment": "link",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1569215,
+      51.5099609
+     ],
+     [
+      -0.1569801,
+      51.5100187
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Park Lane",
+    "way_id": 232724605,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 7.6,
+    "fragment": "crossing",
+    "solution": "min",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1444683,
+      51.5123058
+     ],
+     [
+      -0.1445756,
+      51.5122777
+     ],
+     [
+      -0.1449343,
+      51.5121706
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Street",
+    "way_id": 4253713,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 35.6,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1533843,
+      51.512968
+     ],
+     [
+      -0.1531827,
+      51.5125454
+     ]
+    ]
+   },
+   "properties": {
+    "street": "North Audley Street",
+    "way_id": 7970640,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 49,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.157748,
+      51.512316
+     ],
+     [
+      -0.1576785,
+      51.5121885
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Park Lane",
+    "way_id": 507778407,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 15,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1579676,
+      51.5127434
+     ],
+     [
+      -0.157748,
+      51.512316
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Park Lane",
+    "way_id": 239011228,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 49.9,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1582,
+      51.5130754
+     ],
+     [
+      -0.1580962,
+      51.5129741
+     ],
+     [
+      -0.1579676,
+      51.5127434
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Park Lane",
+    "way_id": 239011228,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 40.5,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.15831,
+      51.5132895
+     ],
+     [
+      -0.1582,
+      51.5130754
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Park Lane",
+    "way_id": 2898488,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 25,
+    "fragment": "link",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1584426,
+      51.5133367
+     ],
+     [
+      -0.158377,
+      51.5133152
+     ],
+     [
+      -0.15831,
+      51.5132895
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Marble Arch",
+    "way_id": 667513317,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 10.6,
+    "fragment": "crossing",
+    "solution": "knee",
+    "direction": "B-A",
+    "contraflow": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1573057,
+      51.5109515
+     ],
+     [
+      -0.1572314,
+      51.5109724
+     ],
+     [
+      -0.1570569,
+      51.5110143
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Brook Gate",
+    "way_id": 59272672,
+    "highway": "trunk_link",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 18.6,
+    "fragment": "crossing",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1412668,
+      51.5136756
+     ],
+     [
+      -0.1413351,
+      51.5137505
+     ],
+     [
+      -0.1414503,
+      51.5138876
+     ],
+     [
+      -0.1415321,
+      51.5139899
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Regent Street",
+    "way_id": 240343066,
+    "highway": "primary",
+    "lts": 3,
+    "lts_rule": "f17/2/8001+/25",
+    "length_m": 39.5,
+    "fragment": "crossing",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1444683,
+      51.5123058
+     ],
+     [
+      -0.1445756,
+      51.5122777
+     ],
+     [
+      -0.1449343,
+      51.5121706
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Street",
+    "way_id": 4253713,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 35.6,
+    "fragment": "crossing",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1562617,
+      51.5099827
+     ],
+     [
+      -0.1563914,
+      51.5099596
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Gate",
+    "way_id": 1068343777,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 9.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1563914,
+      51.5099596
+     ],
+     [
+      -0.1565318,
+      51.5099376
+     ],
+     [
+      -0.156597,
+      51.5099296
+     ],
+     [
+      -0.1566721,
+      51.5099273
+     ],
+     [
+      -0.1567516,
+      51.5099285
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Gate",
+    "way_id": 14197225,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17-blocked-lane+f17/2/0-8000/25",
+    "length_m": 25.3,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1567516,
+      51.5099285
+     ],
+     [
+      -0.1568228,
+      51.5099353
+     ],
+     [
+      -0.1568405,
+      51.5099378
+     ],
+     [
+      -0.1569215,
+      51.5099609
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Grosvenor Gate",
+    "way_id": 1068343776,
+    "highway": "tertiary",
+    "lts": 3,
+    "lts_rule": "f17/2/0-8000/25",
+    "length_m": 12.4,
+    "fragment": "link",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.1569215,
+      51.5099609
+     ],
+     [
+      -0.1569801,
+      51.5100187
+     ]
+    ]
+   },
+   "properties": {
+    "street": "Park Lane",
+    "way_id": 232724605,
+    "highway": "trunk",
+    "lts": 3,
+    "lts_rule": "f17/3+/any/25",
+    "length_m": 7.6,
+    "fragment": "crossing",
+    "solution": "min-union",
+    "direction": "union"
+   }
+  }
+ ]
+}

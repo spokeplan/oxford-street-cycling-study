@@ -1,0 +1,25 @@
+{
+  "name": "oxford-street-cycling-study",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "packageManager": "bun@1.3.14",
+  "engines": {
+    "bun": ">=1.3.14"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p .",
+    "reproduce:data": "bun scripts/download-extract.ts && bun scripts/retag-scenario.ts wigmore-track && bun scripts/retag-scenario.ts full-closure && bun scripts/retag-scenario.ts full-closure-sealed && bun scripts/dft/download.ts && bun scripts/dft/match-countpoints.ts && bun scripts/published-counts/match.ts && bun run reproduce:laei",
+    "reproduce:inputs": "bun scripts/download-extract.ts --from-inputs && bun scripts/retag-scenario.ts wigmore-track && bun scripts/retag-scenario.ts full-closure && bun scripts/retag-scenario.ts full-closure-sealed && bun scripts/dft/download.ts --from-inputs && bun scripts/dft/match-countpoints.ts && bun scripts/published-counts/match.ts",
+    "reproduce:laei": "bun scripts/laei/download.ts && bun scripts/laei/match-links.ts && bun scripts/laei/validate.ts",
+    "reproduce:lts": "bun scripts/lts/run-all.ts",
+    "reproduce:through": "bun scripts/through/run.ts && bun scripts/through/validate.ts",
+    "reproduce:valhalla": "bun valhalla/run-all.ts",
+    "figures": "bun scripts/figures/render.ts all"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.4",
+    "playwright": "^1.65.0",
+    "typescript": "^7.0.2"
+  }
+}

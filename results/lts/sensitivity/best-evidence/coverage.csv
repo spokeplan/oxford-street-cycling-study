@@ -1,0 +1,17 @@
+table,run,adt_source,ways,km,share
+furth2017-low,main,count,130,10.77,0.041
+furth2017-low,main,road,1597,52.62,0.201
+furth2017-low,main,laei,0,0.00,0.000
+furth2017-low,main,class-default,3757,198.48,0.758
+furth2017-low,best-evidence,count,219,19.82,0.076
+furth2017-low,best-evidence,road,2106,67.67,0.258
+furth2017-low,best-evidence,laei,798,37.82,0.144
+furth2017-low,best-evidence,class-default,2361,136.56,0.521
+furth2017-high,main,count,130,10.77,0.041
+furth2017-high,main,road,1597,52.62,0.201
+furth2017-high,main,laei,0,0.00,0.000
+furth2017-high,main,class-default,3757,198.48,0.758
+furth2017-high,best-evidence,count,219,19.82,0.076
+furth2017-high,best-evidence,road,2106,67.67,0.258
+furth2017-high,best-evidence,laei,798,37.82,0.144
+furth2017-high,best-evidence,class-default,2361,136.56,0.521

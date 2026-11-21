@@ -1,0 +1,158 @@
+table,side,part,way_id,street,metres,highway,oneway,guess_adt,lts,on a fastest path,on fastest paths of >= k trips,within 1.1 of a fastest path,within 1.2 of a fastest path,within 1.3 of a fastest path,detour ratio <= r,within tolerance of a fastest path for >= k trips,structural
+furth2017-low,north-only,converted,1253814622,Riding House Street,7,unclassified,yes,1500,3,not through,not through,through,through,through,not through,through,through
+furth2017-low,north-only,converted,1269138290,Wells Street,46,unclassified,yes,1500,3,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,converted,1269138292,Wells Street,99,unclassified,yes,1500,3,not through,not through,through,through,through,not through,through,through
+furth2017-low,north-only,converted,1382809696,Langham Street,6,residential,yes,1000,3,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,converted,237132504,Riding House Street,96,unclassified,yes,1500,3,not through,not through,through,through,through,not through,through,through
+furth2017-low,north-only,converted,237132505,Riding House Street,20,unclassified,yes,1500,3,not through,not through,through,through,through,not through,through,through
+furth2017-low,north-only,converted,4256302,Eastcastle Street,40,unclassified,yes,1500,3,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,converted,720628351,Marble Arch,11,unclassified,yes,1500,3,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,102308087,Falconberg Mews,8,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route A-B,1064364473,(service),2,service,no,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route A-B,1331267044,Queen Anne Street,73,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,1382809695,Langham Street,37,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,1420730748,Wells Mews,7,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,1420730749,Wells Mews,14,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,1420730750,Wells Mews,16,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,1420730751,Wells Mews,27,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,1420730752,Wells Mews,6,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,147997984,Mansfield Street,74,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,154132277,Bentinck Street,108,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,154340959,Langham Street,5,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,156871862,Duchess Street,95,residential,no,1000,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,241253344,Duchess Street,12,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,241253345,Duchess Street,95,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,26996764,Berkeley Mews,110,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,30279887,Eastcastle Street,84,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,30279888,Wells Mews,68,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,378924364,Wells Mews,6,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,378924366,Wells Mews,11,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,4082521,Soho Square,75,residential,yes,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route A-B,4082523,Sutton Row,54,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route A-B,4255102,Queen Anne Street,91,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,4256487,Booth's Place,51,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,476448484,Manchester Square,51,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,476448486,Queen Anne Street,104,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,476448491,Manchester Square,40,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,532636972,Manchester Square,34,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,607608582,Bryanston Street,85,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route A-B,65502486,Hinde Street,101,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,102308087,Falconberg Mews,8,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route B-A,1064364473,(service),2,service,no,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route B-A,1331267044,Queen Anne Street,73,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,137515283,Gildea Street,55,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,1420730748,Wells Mews,7,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,1420730749,Wells Mews,14,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,1420730750,Wells Mews,16,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,1420730751,Wells Mews,27,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,1420730752,Wells Mews,6,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,147997984,Mansfield Street,74,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,149052139,Manchester Square,53,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,154132277,Bentinck Street,108,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,156871862,Duchess Street,95,residential,no,1000,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,241253344,Duchess Street,12,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,241253345,Duchess Street,95,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,26996764,Berkeley Mews,110,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,30279887,Eastcastle Street,84,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,30279888,Wells Mews,68,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,378924364,Wells Mews,6,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,378924366,Wells Mews,11,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,4082521,Soho Square,48,residential,yes,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route B-A,4082523,Sutton Row,54,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,north-only,route B-A,4255102,Queen Anne Street,91,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,4256487,Booth's Place,51,unclassified,no,1500,1,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,476448486,Queen Anne Street,104,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,532636972,Manchester Square,61,residential,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,607608582,Bryanston Street,85,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,65502486,Hinde Street,101,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,north-only,route B-A,66151802,Soho Square,189,residential,yes,1000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,converted,198190852,Mount Street,18,tertiary,no,3000,3,through,through,through,through,through,through,through,through
+furth2017-low,south-only,converted,236034854,Carlos Place,22,tertiary,no,3000,3,through,through,through,through,through,through,through,through
+furth2017-low,south-only,converted,273139760,Bourdon Street,11,unclassified,yes,1500,3,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,102308087,Falconberg Mews,8,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,1064364473,(service),2,service,no,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,1245985426,Hollen Street,6,unclassified,yes,1500,1,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-low,south-only,route A-B,1339544942,Bourdon Street,47,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route A-B,1414470432,Great Chapel Street,20,unclassified,yes,1500,1,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route A-B,273139758,Bourdon Street,115,unclassified,no,1500,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route A-B,273139759,Bourdon Street,9,service,yes,1000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,33096425,Great Chapel Street,42,unclassified,yes,1500,1,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route A-B,38433219,Bourdon Street,54,unclassified,no,1500,2,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route A-B,4082521,Soho Square,75,residential,yes,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,4082523,Sutton Row,54,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,4082565,Carlisle Street,46,unclassified,no,1500,1,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,4082603,Hollen Street,71,unclassified,no,1500,1,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route A-B,4253679,Mount Street,393,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route A-B,4253777,Carlos Place,45,service,yes,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route A-B,66151802,Soho Square,81,residential,yes,1000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route A-B,7970639,Bourdon Street,42,service,yes,1000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,102308087,Falconberg Mews,8,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,1064364473,(service),2,service,no,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,1245985426,Hollen Street,6,unclassified,yes,1500,1,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-low,south-only,route B-A,1339149157,Carpenter Street,22,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route B-A,1414470432,Great Chapel Street,20,unclassified,yes,1500,1,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route B-A,33096425,Great Chapel Street,42,unclassified,yes,1500,1,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route B-A,4082521,Soho Square,48,residential,yes,1000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,4082523,Sutton Row,54,unclassified,no,1500,1,not through,not through,not through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,4082565,Carlisle Street,46,unclassified,no,1500,1,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,4082603,Hollen Street,71,unclassified,no,1500,1,not through,not through,through,through,through,not through,through,through
+furth2017-low,south-only,route B-A,4253658,Brook's Mews,162,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route B-A,4253679,Mount Street,423,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route B-A,4253801,Carpenter Street,37,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route B-A,4253899,Mount Street Mews,110,residential,no,1000,2,not through,not through,through,through,through,through,through,through
+furth2017-low,south-only,route B-A,66151802,Soho Square,109,residential,yes,1000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-low,south-only,route B-A,667547183,Avery Row,5,residential,no,1000,2,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-high,north-only,converted,1269138290,Wells Street,46,unclassified,yes,3000,3,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,converted,378924364,Wells Mews,6,unclassified,no,3000,3,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,converted,378924366,Wells Mews,11,unclassified,no,3000,3,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,converted,4082521,Soho Square,75,residential,yes,2500,3,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,converted,4256302,Eastcastle Street,40,unclassified,yes,3000,3,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,102308087,Falconberg Mews,8,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,route A-B,1064364473,(service),2,service,no,2500,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,route A-B,1245985425,Great Chapel Street,9,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,north-only,route A-B,1245985426,Hollen Street,6,unclassified,yes,3000,1,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-high,north-only,route A-B,1420730748,Wells Mews,7,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,1420730749,Wells Mews,14,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,1420730750,Wells Mews,16,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,1420730751,Wells Mews,27,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,1420730752,Wells Mews,6,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,30279888,Wells Mews,68,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,4082523,Sutton Row,54,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,route A-B,4082603,Hollen Street,71,unclassified,no,3000,2,not through,not through,through,through,through,not through,through,through
+furth2017-high,north-only,route A-B,4256487,Booth's Place,51,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route A-B,628701125,Great Chapel Street,48,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,north-only,route B-A,102308087,Falconberg Mews,8,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,route B-A,1064364473,(service),2,service,no,2500,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,route B-A,1245985425,Great Chapel Street,9,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,north-only,route B-A,1245985426,Hollen Street,6,unclassified,yes,3000,1,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-high,north-only,route B-A,1420730748,Wells Mews,7,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,1420730749,Wells Mews,14,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,1420730750,Wells Mews,16,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,1420730751,Wells Mews,27,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,1420730752,Wells Mews,6,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,30279888,Wells Mews,68,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,4082523,Sutton Row,54,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,north-only,route B-A,4082603,Hollen Street,71,unclassified,no,3000,2,not through,not through,through,through,through,not through,through,through
+furth2017-high,north-only,route B-A,4256487,Booth's Place,51,unclassified,no,3000,2,not through,not through,through,through,through,through,through,through
+furth2017-high,north-only,route B-A,628701125,Great Chapel Street,48,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,south-only,converted,18791979,Brook Street,4,tertiary,yes,6000,3,not through,not through,through,through,through,through,through,through
+furth2017-high,south-only,converted,4082521,Soho Square,75,residential,yes,2500,3,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,converted,4259238,Brook Street,8,residential,no,2500,3,through,through,through,through,through,through,through,through
+furth2017-high,south-only,converted,66151802,Soho Square,81,residential,yes,2500,3,not through,not through,through,through,through,not through,not through,through
+furth2017-high,south-only,converted,669856888,Hanover Square,20,tertiary,yes,6000,3,not through,not through,through,through,through,through,through,through
+furth2017-high,south-only,route A-B,102308087,Falconberg Mews,8,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,route A-B,1064364473,(service),2,service,no,2500,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,route A-B,1245985426,Hollen Street,6,unclassified,yes,3000,1,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-high,south-only,route A-B,1414470432,Great Chapel Street,20,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,south-only,route A-B,33096425,Great Chapel Street,42,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,south-only,route A-B,4082523,Sutton Row,54,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,route A-B,4082565,Carlisle Street,46,unclassified,no,3000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-high,south-only,route A-B,4082603,Hollen Street,71,unclassified,no,3000,2,not through,not through,through,through,through,not through,through,through
+furth2017-high,south-only,route B-A,102308087,Falconberg Mews,8,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,route B-A,1064364473,(service),2,service,no,2500,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,route B-A,1245985426,Hollen Street,6,unclassified,yes,3000,1,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable,not drivable
+furth2017-high,south-only,route B-A,1414470432,Great Chapel Street,20,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,south-only,route B-A,33096425,Great Chapel Street,42,unclassified,yes,3000,1,not through,not through,through,through,through,not through,through,through
+furth2017-high,south-only,route B-A,4082523,Sutton Row,54,unclassified,no,3000,2,not through,not through,not through,through,through,not through,not through,through
+furth2017-high,south-only,route B-A,4082565,Carlisle Street,46,unclassified,no,3000,2,not through,not through,through,through,through,not through,not through,through
+furth2017-high,south-only,route B-A,4082603,Hollen Street,71,unclassified,no,3000,2,not through,not through,through,through,through,not through,through,through

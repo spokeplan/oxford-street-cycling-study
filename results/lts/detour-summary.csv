@@ -1,0 +1,5 @@
+table,direction,l4_today_m,l4_reconstruction_m,detour_m,detour_pct,valhalla_setting,valhalla_distance_m,valhalla_time_s,valhalla_speed_m_s,valhalla_speed_kmh,detour_time_s
+furth2017-low,A-B,2385,2056,329,16.0,confident,2595,407,6.38,23.0,52
+furth2017-low,B-A,2508,2295,213,9.3,confident,2796,472,5.92,21.3,36
+furth2017-high,A-B,2385,2056,329,16.0,confident,2595,407,6.38,23.0,52
+furth2017-high,B-A,2508,2295,213,9.3,confident,2796,472,5.92,21.3,36

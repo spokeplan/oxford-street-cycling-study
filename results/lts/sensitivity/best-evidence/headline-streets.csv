@@ -1,0 +1,43 @@
+table,street,fragment,adt,adt_source,count_id,count_year,converted_m,way_ids
+furth2017-low,Eastcastle Street,link,1500,class-default,,,40,4256302
+furth2017-low,Fitzhardinge Street,link,3849,count,tfl-ML1464,2017,77,154029150
+furth2017-low,Fitzhardinge Street,link,3849,road,tfl-ML1464,2017,45,1323238693
+furth2017-low,Great Cumberland Place,link,7825,road,tfl-ML0193,2017,102,509181623 720628352
+furth2017-low,Great Portland Street,link,4994,road,942321,2019,91,57007655
+furth2017-low,Hallam Street,link,3516,road,990672,2008,73,137515284 871359426
+furth2017-low,Langham Street,crossing,1000,class-default,,,6,1382809696
+furth2017-low,Marble Arch,crossing,1500,class-default,,,11,720628351
+furth2017-low,Marble Arch,crossing,9426,road,56625,2018,3,667513318
+furth2017-low,Newman Street,link,1505,road,tfl-ML1566,2023,126,728793124 1420723354 1420723355
+furth2017-low,Oxford Street,link,10867,road,46433,2025,125,33096424 93773949 972210875
+furth2017-low,Portman Square,link,1519,road,74973,2020,34,1323236748
+furth2017-low,Portman Square,link,1519,count,74973,2020,119,31435325
+furth2017-low,Riding House Street,link,1500,class-default,,,122,237132504 237132505 1253814622
+furth2017-low,Seymour Street,link,7389,count,18169,2019,67,4486905
+furth2017-low,Soho Street,link,1623,laei,,,73,59207650 622159392 622159393
+furth2017-low,Welbeck Street,link,4579,count,tfl-ML0153,2017,43,476448494
+furth2017-low,Wells Street,link,1500,class-default,,,145,1269138290 1269138292
+furth2017-high,Brook Gate,crossing,61058,road,17639,2025,63,14197182 59272672
+furth2017-high,Brook Street,link,2500,class-default,,,8,4259238
+furth2017-high,Brook Street,link,3794,laei,,,208,38310454
+furth2017-high,Brook Street,link,6000,class-default,,,4,18791979
+furth2017-high,Brook Street,link,7240,laei,,,93,502228874
+furth2017-high,Brook Street,link,7379,laei,,,72,529829559 529829560
+furth2017-high,Brook Street,link,9249,laei,,,76,1266471018
+furth2017-high,Carlisle Street,link,1819,laei,,,48,4395791 1263311764 1263311765 1263311766 1263311767
+furth2017-high,Great Marlborough Street,link,3799,laei,,,254,240343183
+furth2017-high,Great Marlborough Street,link,4645,laei,,,9,4082605
+furth2017-high,Great Marlborough Street,link,6783,laei,,,47,232486356
+furth2017-high,Grosvenor Square,link,13391,laei,,,113,4253437
+furth2017-high,Grosvenor Square,link,15855,laei,,,44,198190778
+furth2017-high,Hanover Square,link,2091,laei,,,24,667554998
+furth2017-high,Hanover Square,link,4892,laei,,,21,232724588 302690915
+furth2017-high,Hanover Square,link,6000,class-default,,,20,669856888
+furth2017-high,Hanover Street,link,2009,laei,,,19,1064391192 1064391193
+furth2017-high,Hanover Street,link,2700,laei,,,38,667552911
+furth2017-high,Maddox Street,link,2506,laei,,,69,4259091
+furth2017-high,Noel Street,link,3078,laei,,,77,4082604
+furth2017-high,Noel Street,link,8088,laei,,,57,4395792 1264969657 1264969658 1264969659 1264969660
+furth2017-high,Park Lane,crossing,61058,road,17639,2025,34,235747882
+furth2017-high,Soho Square,link,2500,class-default,,,156,4082521 66151802
+furth2017-high,Upper Brook Street,link,8742,laei,,,324,4253363

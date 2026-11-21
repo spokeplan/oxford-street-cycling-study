@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this study's code or results, please cite it as below."
+type: software
+title: "Oxford Street cycling study: no calm route after the cycling ban, and how much street one would take"
+authors:
+  - name: "SpokePlan"
+url: "https://github.com/spokeplan/oxford-street-cycling-study"
+license: MIT
+keywords:
+  - cycling
+  - level of traffic stress
+  - OpenStreetMap
+  - London
+preferred-citation:
+  type: software
+  title: "Oxford Street cycling study: no calm route after the cycling ban, and how much street one would take"
+  authors:
+    - name: "SpokePlan"
+  year: 2026
+  url: "https://github.com/spokeplan/oxford-street-cycling-study"

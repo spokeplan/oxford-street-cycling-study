@@ -1,0 +1,87 @@
+way_id,name,highway,oneway,count_id,count_year,hours,adt,threshold,label,marginal,all busy,quiet guess,busy guess,in LAEI network,LAEI flow over threshold,on a fastest path,on fastest paths of >= k trips,within 1.1 of a fastest path,within 1.2 of a fastest path,within 1.3 of a fastest path,detour ratio <= r,within tolerance of a fastest path for >= k trips,structural
+31959,Cleveland Street,residential,yes,tfl-ML1564,2023,16,927,1000,calm,yes,busy,calm,busy,busy,calm,calm,calm,busy,busy,busy,busy,calm,busy
+2876749,Lamb's Conduit Street,unclassified,yes,tfl-ML0156,2021,24,207,1000,calm,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+3241842,Tavistock Square,tertiary,yes,camden-tor-tavistock-sq-south,2018,12,3395,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+3754158,Lloyd Baker Street,unclassified,yes,tfl-ML0169,2017,16,1776,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+4253345,Ridgmount Gardens,residential,yes,camden-wep-21-1,2022,24,623,1000,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+4253462,Wardour Street,tertiary,yes,tfl-ML0141,2018,16,5822,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+4253846,Crawford Street,unclassified,no,tfl-ML1467,2023,16,4100,1500,busy,no,busy,calm,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+4253853,Upper Montagu Street,unclassified,no,tfl-ML1466,2017,16,4339,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4253890,Glasshouse Street,unclassified,yes,wcc-soho-6,2024,24,1035,1000,busy,yes,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4253925,Berwick Street,unclassified,yes,wcc-soho-26,2024,24,2409,1000,busy,no,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy,busy,busy
+4254010,Lexington Street,unclassified,yes,930338,2009,DfT AADF,2234,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+4255578,Strand,unclassified,yes,94048,2023,DfT AADF,3612,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,calm,calm,calm,calm,calm,calm
+4256272,Carburton Street,unclassified,no,tfl-ML1489,2023,16,347,3000,calm,no,busy,calm,calm,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4256982,Lincoln's Inn Fields,unclassified,yes,942312,2008,DfT AADF,855,1000,calm,yes,busy,busy,busy,calm,calm,calm,calm,calm,busy,busy,calm,calm,busy
+4259136,Bruton Lane,unclassified,yes,tfl-ML1473,2017,16,354,1000,calm,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+4259245,D'Arblay Street,unclassified,yes,942336,2017,DfT AADF,391,1000,calm,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4277054,Melbourne Place,unclassified,yes,56117,2014,DfT AADF,32582,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,calm,calm,calm,calm,calm,calm
+4358432,Whitcomb Street,residential,yes,tfl-ML1481,2018,16,1741,1000,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4376573,Dean Street,residential,yes,wcc-soho-12,2024,24,1487,1000,busy,yes,busy,calm,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+4486902,Stanhope Place,residential,no,tfl-ML1567,2021,24,2122,1500,busy,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4700854,Burwood Place,residential,no,tfl-ML1537,2023,16,1622,1500,busy,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+4700941,Somers Crescent,residential,no,951706,2009,DfT AADF,527,1500,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+5090246,Conway Street,residential,no,camden-wep-7-1,2022,24,415,1500,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+7970658,Clarendon Place,residential,no,942338,2018,DfT AADF,2069,1500,busy,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+8032448,Brunswick Square,unclassified,no,tfl-ML1563,2021,24,75,1500,calm,no,busy,calm,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,calm
+8187213,Homer Street,residential,yes,942326,2008,DfT AADF,1186,1000,busy,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+17513383,Gordon Square,residential,no,camden-tor-gordon-sq-east,2018,12,655,1500,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+17926243,Regent Square,tertiary,no,tfl-ML0121,2023,16,3096,1500,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+18771038,Devonshire Street,unclassified,no,tfl-ML0199,2023,16,4313,1500,busy,no,busy,calm,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+25803169,Lamb's Conduit Street,unclassified,no,930344,2009,DfT AADF,3294,3000,busy,yes,busy,calm,calm,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+30273505,Newman Street,unclassified,yes,tfl-ML1566,2023,16,1505,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+30279886,Berners Street,unclassified,yes,tfl-ML0197,2023,16,3101,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+38308699,Seymour Place,tertiary,no,804527,2018,DfT AADF,6801,1500,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+41690602,Porchester Place,residential,no,tfl-ML1568,2021,24,2828,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+49797427,Bow Street,unclassified,no,tfl-ML1562,2021,24,5533,1500,busy,no,busy,calm,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+49932193,Judd Street,tertiary,no,tfl-ML1486,2021,24,2606,1500,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+49934825,Gordon Square,tertiary,yes,tfl-ML1482,2023,16,5567,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+52918816,Grafton Way,unclassified,yes,camden-wep-5-1,2022,24,3064,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+55423672,Fitzroy Street,unclassified,no,camden-wep-2017-4,2017,12,4165,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+68543461,Wardour Street,tertiary,yes,wcc-soho-10,2024,24,2846,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+83225329,Gate Street,unclassified,no,951702,2008,DfT AADF,73,3000,calm,no,busy,calm,calm,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+147997980,Hallam Street,residential,no,990672,2008,DfT AADF,3516,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+150698261,Wyndham Place,unclassified,no,tfl-ML1465,2021,24,608,3000,calm,no,busy,calm,calm,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+150700763,Great Cumberland Place,unclassified,no,tfl-ML0193,2017,16,7825,1500,busy,no,busy,calm,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+154029150,Fitzhardinge Street,residential,no,tfl-ML1464,2017,16,3849,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+157615120,Lodge Road,residential,no,942333,2009,DfT AADF,6714,3000,busy,no,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy,busy,busy
+193374555,Melcombe Place,unclassified,no,811008,2019,DfT AADF,4488,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+233229666,Cornwall Road,unclassified,no,tfl-ML0162,2021,24,454,1500,calm,no,busy,calm,busy,calm,calm,busy,busy,busy,busy,busy,busy,calm,calm
+235991125,New Cavendish Street,tertiary,yes,tfl-ML0138,2017,16,9098,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+236141635,Byng Place,tertiary,yes,camden-tor-byng-place,2018,12,4155,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+237413929,Tavistock Square,residential,no,camden-tor-tavistock-sq-west,2018,12,4012,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+237710706,Berkeley Street,tertiary,yes,804530,2025,DfT AADF,6829,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+252614802,Strand,unclassified,yes,6119,2021,DfT AADF,16225,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,calm,calm,calm,calm,calm,calm
+302026658,Great Russell Street,tertiary,yes,camden-wep-11-1,2022,24,2274,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+303559639,Huntley Street,unclassified,yes,camden-wep-2017-7,2017,12,481,1000,calm,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+306452416,Bedford Way,residential,no,camden-tor-bedford-way,2018,12,5463,1500,busy,no,busy,calm,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+361229624,Penfold Street,residential,no,tfl-ML1459,2021,24,2969,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+476448494,Welbeck Street,residential,yes,tfl-ML0153,2017,16,4579,1000,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+491824700,Harewood Avenue,unclassified,no,tfl-ML1468,2021,24,4744,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+491829108,Hamilton Terrace,residential,yes,tfl-ML0538,2021,24,6135,1000,busy,no,busy,calm,busy,calm,calm,busy,busy,busy,busy,busy,busy,busy,busy
+502228876,Berkeley Street,tertiary,yes,tfl-ML0142,2017,16,5941,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+542471107,Great Windmill Street,residential,yes,wcc-soho-8,2024,24,745,1000,calm,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+545538484,Upper Ground,unclassified,no,tfl-ML0157,2021,24,2910,3000,calm,yes,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy,busy,busy
+570577390,Charlotte Street,residential,no,camden-wep-18-1,2022,24,4549,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+667569297,Howland Street,tertiary,yes,camden-wep-20-1,2022,24,3109,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+672806938,Balcombe Street,residential,no,tfl-ML1469,2017,16,375,1500,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,calm,busy,busy
+681530529,Harrowby Street,residential,yes,tfl-ML1538,2023,16,792,1000,calm,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+681757489,Torrington Place,tertiary,yes,803131,2018,DfT AADF,2140,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+705961799,Star Street,residential,no,tfl-ML1461,2017,16,805,1500,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+770901750,Maple Street,unclassified,yes,tfl-ML1488,2023,16,3511,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+828837334,Savoy Street,residential,no,tfl-ML1570,2023,16,1089,1500,calm,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,calm,busy
+874162032,Fitzroy Street,residential,yes,942311,2009,DfT AADF,2230,1000,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+981181267,Harley Street,tertiary,yes,tfl-ML1471,2017,16,5295,1000,busy,no,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy
+1006641970,Tavistock Place,tertiary,yes,tfl-ML1490,2023,16,3166,1000,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+1067121871,Crawford Street,residential,no,tfl-ML0154,2017,16,4539,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+1140688622,Whitfield Street,residential,yes,camden-wep-2017-5,2017,12,1091,1000,busy,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+1173181601,George Street,tertiary,no,tfl-ML1569,2021,24,5756,1500,busy,no,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+1205188913,Broadley Street,residential,no,804529,2018,DfT AADF,1007,1500,calm,yes,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+1245935660,Torrington Place,tertiary,yes,tfl-ML0126,2018,16,2688,1000,busy,no,busy,busy,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+1301727874,Outer Circle,unclassified,no,tfl-ML0822,2018,16,8797,1500,busy,no,busy,calm,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+1302370440,Outer Circle,unclassified,no,tfl-ML0816,2018,16,11013,1500,busy,no,busy,calm,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+1302738912,Outer Circle,unclassified,no,tfl-ML0820,2018,16,11064,1500,busy,no,busy,calm,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+1303266783,Outer Circle,unclassified,no,tfl-ML0819,2018,16,6798,3000,busy,no,busy,calm,calm,busy,busy,busy,busy,busy,busy,busy,busy,busy,busy
+1374388865,Blomfield Road,residential,no,tfl-ML1520,2019,16,6664,1500,busy,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,busy,busy,busy
+1418616867,Carey Street,unclassified,no,942327,2009,DfT AADF,413,1500,calm,no,busy,calm,busy,calm,calm,calm,calm,busy,busy,busy,calm,calm,busy
+1547787307,Cleveland Street,tertiary,yes,tfl-ML1565,2023,16,1207,1000,busy,yes,busy,busy,busy,busy,busy,calm,calm,busy,busy,busy,busy,busy,busy

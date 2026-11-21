@@ -1,0 +1,238 @@
+{
+  "trip": {
+    "locations": [
+      {
+        "type": "break",
+        "lat": 51.51587,
+        "lon": -0.13027,
+        "original_index": 0
+      },
+      {
+        "type": "break",
+        "lat": 51.5132,
+        "lon": -0.15874,
+        "original_index": 1
+      }
+    ],
+    "legs": [
+      {
+        "maneuvers": [
+          {
+            "type": 1,
+            "instruction": "Bike south on Charing Cross Road/A400.",
+            "verbal_succinct_transition_instruction": "Bike south. Then Stay straight to take the ramp.",
+            "verbal_pre_transition_instruction": "Bike south on Charing Cross Road, A400. Then Stay straight to take the ramp.",
+            "verbal_post_transition_instruction": "Continue for 200 meters.",
+            "street_names": [
+              "Charing Cross Road",
+              "A400"
+            ],
+            "time": 31.127,
+            "length": 0.215,
+            "cost": 61.81,
+            "begin_shape_index": 0,
+            "end_shape_index": 20,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 17,
+            "instruction": "Stay straight to take the ramp.",
+            "verbal_transition_alert_instruction": "Stay straight to take the ramp.",
+            "verbal_pre_transition_instruction": "Stay straight to take the ramp. Then Bear left to stay on Charing Cross Road.",
+            "street_names": [
+              "Charing Cross Road",
+              "A400"
+            ],
+            "time": 5.639,
+            "length": 0.035,
+            "cost": 12.23,
+            "begin_shape_index": 20,
+            "end_shape_index": 25,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 16,
+            "instruction": "Bear left to stay on Charing Cross Road/A400.",
+            "verbal_transition_alert_instruction": "Bear left to stay on Charing Cross Road.",
+            "verbal_succinct_transition_instruction": "Bear left. Then, in 60 meters, Turn right onto Shaftesbury Avenue.",
+            "verbal_pre_transition_instruction": "Bear left to stay on Charing Cross Road, A400. Then, in 60 meters, Turn right onto Shaftesbury Avenue.",
+            "verbal_post_transition_instruction": "Continue for 60 meters.",
+            "street_names": [
+              "Charing Cross Road",
+              "A400"
+            ],
+            "time": 8.119,
+            "length": 0.054,
+            "cost": 16.294,
+            "begin_shape_index": 25,
+            "end_shape_index": 32,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Shaftesbury Avenue/A401.",
+            "verbal_transition_alert_instruction": "Turn right onto Shaftesbury Avenue.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Shaftesbury Avenue, A401.",
+            "verbal_post_transition_instruction": "Continue for 300 meters.",
+            "street_names": [
+              "Shaftesbury Avenue",
+              "A401"
+            ],
+            "time": 43.463,
+            "length": 0.281,
+            "cost": 106.995,
+            "begin_shape_index": 32,
+            "end_shape_index": 55,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Wardour Street.",
+            "verbal_transition_alert_instruction": "Turn right onto Wardour Street.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Wardour Street.",
+            "verbal_post_transition_instruction": "Continue for 800 meters.",
+            "street_names": [
+              "Wardour Street"
+            ],
+            "time": 157.662,
+            "length": 0.848,
+            "cost": 365.245,
+            "begin_shape_index": 55,
+            "end_shape_index": 96,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Mortimer Street/A5204. Continue on A5204.",
+            "verbal_transition_alert_instruction": "Turn left onto Mortimer Street.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Mortimer Street, A5204.",
+            "verbal_post_transition_instruction": "Continue on A5204 for 1.5 kilometers.",
+            "street_names": [
+              "A5204"
+            ],
+            "begin_street_names": [
+              "Mortimer Street",
+              "A5204"
+            ],
+            "time": 241.752,
+            "length": 1.583,
+            "cost": 544.964,
+            "begin_shape_index": 96,
+            "end_shape_index": 207,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Great Cumberland Place.",
+            "verbal_transition_alert_instruction": "Turn left onto Great Cumberland Place.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Great Cumberland Place.",
+            "verbal_post_transition_instruction": "Continue for 100 meters.",
+            "street_names": [
+              "Great Cumberland Place"
+            ],
+            "time": 28.697,
+            "length": 0.142,
+            "cost": 69.77,
+            "begin_shape_index": 207,
+            "end_shape_index": 221,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto A40/Marble Arch.",
+            "verbal_transition_alert_instruction": "Turn left onto A40.",
+            "verbal_succinct_transition_instruction": "Turn left. Then Turn right onto the cycleway.",
+            "verbal_pre_transition_instruction": "Turn left onto A40, Marble Arch. Then Turn right onto the cycleway.",
+            "verbal_post_transition_instruction": "Continue for 20 meters.",
+            "street_names": [
+              "A40",
+              "Marble Arch"
+            ],
+            "time": 5.268,
+            "length": 0.022,
+            "cost": 63.543,
+            "begin_shape_index": 221,
+            "end_shape_index": 226,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto the cycleway.",
+            "verbal_transition_alert_instruction": "Turn right onto the cycleway.",
+            "verbal_succinct_transition_instruction": "Turn right. Then You will arrive at your destination.",
+            "verbal_pre_transition_instruction": "Turn right onto the cycleway. Then You will arrive at your destination.",
+            "verbal_post_transition_instruction": "Continue for 30 meters.",
+            "time": 5.788,
+            "length": 0.027,
+            "cost": 21.27,
+            "begin_shape_index": 226,
+            "end_shape_index": 231,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 4,
+            "instruction": "You have arrived at your destination.",
+            "verbal_transition_alert_instruction": "You will arrive at your destination.",
+            "verbal_pre_transition_instruction": "You have arrived at your destination.",
+            "time": 0,
+            "length": 0,
+            "cost": 0,
+            "begin_shape_index": 231,
+            "end_shape_index": 231,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          }
+        ],
+        "summary": {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 51.51181,
+          "min_lon": -0.159505,
+          "max_lat": 51.518623,
+          "max_lon": -0.129122,
+          "time": 527.519,
+          "length": 3.208,
+          "cost": 1262.126
+        },
+        "shape": "{|ggaBzl}FnCe@tCg@l@OdQuEzBu@fBg@fFgBfA]`A[`Bk@rEeBvAg@\\OvWcIhK}CbBg@t@Uv@W~HeCrAYr@kBfD}AfD}@x@YpB^tIuEnAk@XMvAs@vAk@n@]zFqCzFpIfAlB|@vAdDfGrBfEzBhF|@jC|ArEf@hB|@dDvCvKpBlH|CdLfAhEfInZ`EvP^zAbAlDz@lCv@bCnK~[r@zBvCrJ{C|AgJlK_DjDuItKmH`JMz@If@gDjGEHKRi@^iCnBcBrA]XaOpKYPsOvJyj@t\\}FlEuFfEqc@|[{CxB}@l@yUpQy@n@u@f@k\\tTaAt@aA|@eBz@uAr@cAf@cCzA]T_p@~^aBz@kAhAs_B`~@sAv@_Al@oBxBlAxFj@hBn@rBhLn`@hLrd@x@rCdAhDx@hE`@lDjGzk@J|@l@bGb@|DR~BfJr~@VnCd@tE`@vEHt@J`AjHdp@VxBLrAHj@r@vHp@jHP`BnDn_@vD`a@rAtNVhCD`@\\rDNbBRtBPdBX|CjA`Mn@tGThCrD~_@PjBLnAN~APdEXhGLjAnEzd@vDp`@TvBNdBh@jEl@tFJz@^vC|Fhm@^pDRbCNnBb@~E^rET`CVnCbChWf@nF^zDZdDj@~FZlDrDd`@ZdD|@dJT|BL|ArA`Id@fEr@xH|Elg@R|BV`C^fEh@rFJjAXvCfLznAnCl^ThCd@vF^dFf@tEx@rHZjCdGxl@hDb[lB|PXrCRjCz@hH`@jEh@nFb@dE`Db\\fFhj@`@dEn@xG|AdQ~Cf^l@zGR~BX~Cl@zGpCeAt@[rAi@`IwC~Aq@`e@aRpAi@hA_@^Ot@qBb@}@f@gAr@aBr@iBIcAFeDTkEP_A`@aC`CzCLJlArAX~DPtC"
+      }
+    ],
+    "summary": {
+      "has_time_restrictions": false,
+      "has_toll": false,
+      "has_highway": false,
+      "has_ferry": false,
+      "min_lat": 51.51181,
+      "min_lon": -0.159505,
+      "max_lat": 51.518623,
+      "max_lon": -0.129122,
+      "time": 527.519,
+      "length": 3.208,
+      "cost": 1262.126
+    },
+    "status_message": "Found route between points",
+    "status": 0,
+    "units": "kilometers",
+    "language": "en-US"
+  }
+}

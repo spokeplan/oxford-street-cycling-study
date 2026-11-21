@@ -1,0 +1,23 @@
+{
+  "source": "London Atmospheric Emissions Inventory (LAEI) 2022, Greater London Authority and Transport for London (London Datastore)",
+  "fetchedAt": "2026-11-14T17:22:22.498Z",
+  "licence": "Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)",
+  "attribution": "Contains public sector information licensed under the Open Government Licence v3.0. Source: London Atmospheric Emissions Inventory (LAEI) 2022, Greater London Authority and Transport for London.",
+  "landing": "https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-laei-2022-2lg5g",
+  "methodology": "https://data.london.gov.uk/download/2lg5g/5me/LAEI%202022%20-%20Methodology%20Report.pdf",
+  "files": [
+    {
+      "file": "LAEI2022-Traffic-Flows-and-Speeds-Major-and-Minor-Roads-GIS.zip",
+      "url": "https://data.london.gov.uk/download/2lg5g/95w/LAEI2022-Traffic-Flows-and-Speeds-Major-and-Minor-Roads-GIS.zip",
+      "bytes": 11518052,
+      "sha256": "a9f13b8aad3594123deca60c2d6ec31b59e30b11be4e9066a804ff3b2e3ad78d",
+      "lastModified": "2025-12-17T13:06:38.000Z"
+    },
+    {
+      "file": "LAEI2022-major-roads-flows-and-speeds.gpkg",
+      "extractedFrom": "LAEI2022-Traffic-Flows-and-Speeds-Major-and-Minor-Roads-GIS.zip",
+      "bytes": 24940544,
+      "sha256": "1848690da78ce2163cb06a665ab2647ec71759b7b7c9c813992087b3b9195e63"
+    }
+  ]
+}

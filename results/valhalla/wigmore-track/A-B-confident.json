@@ -1,0 +1,177 @@
+{
+  "trip": {
+    "locations": [
+      {
+        "type": "break",
+        "lat": 51.5132,
+        "lon": -0.15874,
+        "original_index": 0
+      },
+      {
+        "type": "break",
+        "lat": 51.51587,
+        "lon": -0.13027,
+        "original_index": 1
+      }
+    ],
+    "legs": [
+      {
+        "maneuvers": [
+          {
+            "type": 1,
+            "instruction": "Bike east on the cycleway.",
+            "verbal_succinct_transition_instruction": "Bike east. Then Bear left onto the cycleway.",
+            "verbal_pre_transition_instruction": "Bike east on the cycleway. Then Bear left onto the cycleway.",
+            "verbal_post_transition_instruction": "Continue for 40 meters.",
+            "time": 11.783,
+            "length": 0.036,
+            "cost": 28.915,
+            "begin_shape_index": 0,
+            "end_shape_index": 7,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 16,
+            "instruction": "Bear left onto the cycleway.",
+            "verbal_transition_alert_instruction": "Bear left onto the cycleway.",
+            "verbal_succinct_transition_instruction": "Bear left. Then Turn right onto Oxford Street.",
+            "verbal_pre_transition_instruction": "Bear left onto the cycleway. Then Turn right onto Oxford Street.",
+            "verbal_post_transition_instruction": "Continue for less than 10 meters.",
+            "time": 2.345,
+            "length": 0.008,
+            "cost": 5.719,
+            "begin_shape_index": 7,
+            "end_shape_index": 10,
+            "verbal_multi_cue": true,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Oxford Street/A40.",
+            "verbal_transition_alert_instruction": "Turn right onto Oxford Street.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Oxford Street, A40.",
+            "verbal_post_transition_instruction": "Continue for 200 meters.",
+            "street_names": [
+              "Oxford Street",
+              "A40"
+            ],
+            "time": 31.912,
+            "length": 0.173,
+            "cost": 157.196,
+            "begin_shape_index": 10,
+            "end_shape_index": 25,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 15,
+            "instruction": "Turn left onto Portman Street/A4380.",
+            "verbal_transition_alert_instruction": "Turn left onto Portman Street.",
+            "verbal_succinct_transition_instruction": "Turn left.",
+            "verbal_pre_transition_instruction": "Turn left onto Portman Street, A4380.",
+            "verbal_post_transition_instruction": "Continue for 200 meters.",
+            "street_names": [
+              "Portman Street",
+              "A4380"
+            ],
+            "time": 22.331,
+            "length": 0.153,
+            "cost": 52.231,
+            "begin_shape_index": 25,
+            "end_shape_index": 35,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Portman Square/A5204. Continue on A5204.",
+            "verbal_transition_alert_instruction": "Turn right onto Portman Square.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Portman Square, A5204.",
+            "verbal_post_transition_instruction": "Continue on A5204 for 1.5 kilometers.",
+            "street_names": [
+              "A5204"
+            ],
+            "begin_street_names": [
+              "Portman Square",
+              "A5204"
+            ],
+            "time": 255.533,
+            "length": 1.685,
+            "cost": 515.408,
+            "begin_shape_index": 35,
+            "end_shape_index": 159,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 10,
+            "instruction": "Turn right onto Tottenham Court Road.",
+            "verbal_transition_alert_instruction": "Turn right onto Tottenham Court Road.",
+            "verbal_succinct_transition_instruction": "Turn right.",
+            "verbal_pre_transition_instruction": "Turn right onto Tottenham Court Road.",
+            "verbal_post_transition_instruction": "Continue for 500 meters.",
+            "street_names": [
+              "Tottenham Court Road"
+            ],
+            "time": 82.848,
+            "length": 0.538,
+            "cost": 192.076,
+            "begin_shape_index": 159,
+            "end_shape_index": 197,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          },
+          {
+            "type": 4,
+            "instruction": "You have arrived at your destination.",
+            "verbal_transition_alert_instruction": "You will arrive at your destination.",
+            "verbal_pre_transition_instruction": "You have arrived at your destination.",
+            "time": 0,
+            "length": 0,
+            "cost": 0,
+            "begin_shape_index": 197,
+            "end_shape_index": 197,
+            "travel_mode": "bicycle",
+            "travel_type": "road"
+          }
+        ],
+        "summary": {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 51.513204,
+          "min_lon": -0.15874,
+          "max_lat": 51.52012,
+          "max_lon": -0.13027,
+          "time": 406.756,
+          "length": 2.595,
+          "cost": 951.547
+        },
+        "shape": "gvbgaBf`uHQuCY_EmAsAMKaC{CcByBc@a@u@Dw@Hu@HIgAOsC[aHp@eEs@qPg@mJOuCo@}MQiDQ}C{@}NiAqPeAuQSeDm@oLgGvB{CbAkSzHyN~FgA^gJbDsHhCuAf@gC|@wAh@{@iHSkCYsCmB}PiDc[eGyl@[kCy@sHg@uE_@eFe@wFUiCoCm^gL{nAYwCKkAi@sF_@gEWaCS}B}Emg@s@yHe@gEsAaIM}AU}B}@eJ[eDsDe`@[mDk@_G[eD_@{Dg@oFcCiWWoCUaC_@sEc@_FOoBScC_@qD}Fim@_@wCK{@m@uFi@kEOeBUwBwDq`@oE{d@MkAYiGQeEO_BMoAQkBsD_`@UiCo@uGkAaMY}CQeBSuBOcB]sDEa@WiCsAuNwDaa@oDo_@QaBq@kHs@wHIk@MsAWyBkHep@KaAIu@a@wEe@uEWoCgJs~@S_Cc@}Dm@cGK}@kG{k@a@mDy@iEeAiDy@sCiLsd@iLo`@o@sBk@iBmAyFq@yDs@_CkGaU_@uAGUg@kBW}@q@mCWaAwAeF]yAg@mBkIwXiAkDoFyQsAmEqAmE_AuDyHwWkNye@{AyEiGqT_AcDq@}Bu@mCoAsEdAcApA{AlAmA`VeVzKgLbJcJpAqAdLsLdAeAtAyAtHsH`LiLjEcEvOiOfBaBrHuHpR{QlMoMpJuJ|@{@tAuAzDkDvIwGzAy@`DcBvEmClA_AxA{@PEtBq@dB[xB]zHq@\\CzAOzAEnPyB??"
+      }
+    ],
+    "summary": {
+      "has_time_restrictions": false,
+      "has_toll": false,
+      "has_highway": false,
+      "has_ferry": false,
+      "min_lat": 51.513204,
+      "min_lon": -0.15874,
+      "max_lat": 51.52012,
+      "max_lon": -0.13027,
+      "time": 406.756,
+      "length": 2.595,
+      "cost": 951.547
+    },
+    "status_message": "Found route between points",
+    "status": 0,
+    "units": "kilometers",
+    "language": "en-US"
+  }
+}

@@ -1,0 +1,17 @@
+predictor,parameter,evaluation,ways,busy_called_busy,busy_called_calm,calm_called_busy,calm_called_calm,accuracy,calm_called_busy_rate,busy_called_calm_rate
+all busy,,fixed,86,63,0,23,0,0.733,1.000,0.000
+quiet guess,,fixed,86,30,33,5,18,0.558,0.217,0.524
+busy guess,,fixed,86,60,3,19,4,0.744,0.826,0.048
+in LAEI network,,fixed,86,30,33,2,21,0.593,0.087,0.524
+LAEI flow over threshold,,fixed,86,30,33,1,22,0.605,0.043,0.524
+on a fastest path,,fixed,86,20,43,2,21,0.477,0.087,0.683
+on fastest paths of >= k trips,1,in-sample (chosen on all),86,20,43,2,21,0.477,0.087,0.683
+on fastest paths of >= k trips,per fold,leave-one-out,86,20,43,2,21,0.477,0.087,0.683
+within 1.1 of a fastest path,,fixed,86,60,3,22,1,0.709,0.957,0.048
+within 1.2 of a fastest path,,fixed,86,60,3,23,0,0.698,1.000,0.048
+within 1.3 of a fastest path,,fixed,86,60,3,23,0,0.698,1.000,0.048
+detour ratio <= r,1.035,in-sample (chosen on all),86,58,5,16,7,0.756,0.696,0.079
+detour ratio <= r,per fold,leave-one-out,86,49,14,16,7,0.651,0.696,0.222
+within tolerance of a fastest path for >= k trips,1.1:100,in-sample (chosen on all),86,60,3,18,5,0.756,0.783,0.048
+within tolerance of a fastest path for >= k trips,per fold,leave-one-out,86,60,3,19,4,0.744,0.826,0.048
+structural,,fixed,86,60,3,21,2,0.721,0.913,0.048

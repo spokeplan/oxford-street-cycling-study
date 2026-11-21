@@ -1,0 +1,74 @@
+{
+  "source": "Department for Transport, Road Traffic Statistics",
+  "fetchedAt": "2026-11-08T19:08:56.806Z",
+  "licence": "Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)",
+  "attribution": "Contains public sector information licensed under the Open Government Licence v3.0. Source: Department for Transport, Road Traffic Statistics.",
+  "files": [
+    {
+      "localAuthority": "Westminster",
+      "ons": "E09000033",
+      "laId": 109,
+      "dataset": "countpoints",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/downloads/countpoints/local_authority_id/dft_countpoints_local_authority_id_109.csv",
+      "landing": "https://roadtraffic.dft.gov.uk/local-authorities/E09000033",
+      "bytes": 21020,
+      "sha256": "a6609d52c2c35750567af78c47bd195cd17031ca31dac4885d7a631e140bfa92",
+      "lastModified": "Wed, 03 Jun 2026 21:02:29 GMT"
+    },
+    {
+      "localAuthority": "Westminster",
+      "ons": "E09000033",
+      "laId": 109,
+      "dataset": "aadf",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/downloads/aadf/local_authority_id/dft_aadf_local_authority_id_109.csv",
+      "landing": "https://roadtraffic.dft.gov.uk/local-authorities/E09000033",
+      "bytes": 712515,
+      "sha256": "96705648058bcfbd2932cde1ae17e95b92bc0ea9c504dfd77986f2481ae34a40",
+      "lastModified": "Wed, 03 Jun 2026 21:02:31 GMT"
+    },
+    {
+      "localAuthority": "Westminster",
+      "ons": "E09000033",
+      "laId": 109,
+      "dataset": "aadfbydirection",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/downloads/aadfbydirection/local_authority_id/dft_aadfbydirection_local_authority_id_109.csv",
+      "landing": "https://roadtraffic.dft.gov.uk/local-authorities/E09000033",
+      "bytes": 1218746,
+      "sha256": "3b8219a9212d97aba5644003b02ff430b05993a89ed6f89c180f236cef7396fa",
+      "lastModified": "Wed, 03 Jun 2026 20:57:35 GMT"
+    },
+    {
+      "localAuthority": "Camden",
+      "ons": "E09000007",
+      "laId": 145,
+      "dataset": "countpoints",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/downloads/countpoints/local_authority_id/dft_countpoints_local_authority_id_145.csv",
+      "landing": "https://roadtraffic.dft.gov.uk/local-authorities/E09000007",
+      "bytes": 12357,
+      "sha256": "dbf40cd3e980f52c4f61c2cb9dc91eb7c5ab34a21b9e77fc79a925b0b878e5ae",
+      "lastModified": "Wed, 03 Jun 2026 21:00:08 GMT"
+    },
+    {
+      "localAuthority": "Camden",
+      "ons": "E09000007",
+      "laId": 145,
+      "dataset": "aadf",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/downloads/aadf/local_authority_id/dft_aadf_local_authority_id_145.csv",
+      "landing": "https://roadtraffic.dft.gov.uk/local-authorities/E09000007",
+      "bytes": 494716,
+      "sha256": "5d3865a00559a5076af8db58c24087340c006aa646c05663dcf6d97b6cb80d7e",
+      "lastModified": "Wed, 03 Jun 2026 21:02:32 GMT"
+    },
+    {
+      "localAuthority": "Camden",
+      "ons": "E09000007",
+      "laId": 145,
+      "dataset": "aadfbydirection",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/downloads/aadfbydirection/local_authority_id/dft_aadfbydirection_local_authority_id_145.csv",
+      "landing": "https://roadtraffic.dft.gov.uk/local-authorities/E09000007",
+      "bytes": 754607,
+      "sha256": "8d2d3bc0a31f60262f846ba73683bdf3cdd333d17572ffb2dac2cd5b64301aab",
+      "lastModified": "Wed, 03 Jun 2026 20:57:35 GMT"
+    }
+  ]
+}

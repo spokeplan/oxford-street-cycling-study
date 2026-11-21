@@ -1,0 +1,7 @@
+source,class_group,ways,median_ratio,within_factor_1.5,within_factor_2
+dft,all,117,0.755,56,88
+dft,minor,4,1.324,1,3
+dft,major,113,0.754,55,85
+published,all,57,1.060,32,42
+published,minor,29,1.263,15,19
+published,major,28,0.824,17,23

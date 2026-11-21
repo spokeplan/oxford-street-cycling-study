@@ -1,0 +1,12 @@
+# Downloads and intermediates: OSM extracts and change files, DfT CSVs, LTS GeoJSON
+data/
+*.osm
+*.osc
+*.pbf
+node_modules/
+# Valhalla per-scenario build dirs (PBF link + tiles)
+valhalla/tiles/
+valhalla/custom_files*/
+
+# Committed study inputs (see inputs/README.md)
+!inputs/*.osm.pbf

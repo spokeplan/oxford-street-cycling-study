@@ -1,0 +1,54 @@
+table,scenario,street,lts,metres,ways,rules,highway,adt,adt_source
+furth2017-low-lt20,today,Brook Street,2,388,7,f17/1/1501-3000/le20 f17/1/751-1500/le20,residential tertiary,1000-3000,class-default:388
+furth2017-low-lt20,today,Brook Street,3,97,2,f17/1/3000+/le20,tertiary,3000,class-default:97
+furth2017-low-lt20,today,Charlotte Street,2,448,4,f17/1/751-1500/le20,residential,1000,class-default:448
+furth2017-low-lt20,today,George Street,1,400,6,s3,cycleway,,
+furth2017-low-lt20,today,George Street,2,921,32,f17-blocked-lane+f17/unlaned/1501-3000/le20 f17/1/1501-3000/le20 f17/1/751-1500/le20 f17/unlaned/1501-3000/le20,residential tertiary unclassified,1000-3000,class-default:921
+furth2017-low-lt20,today,George Street,X,283,4,p6,construction path proposed,,
+furth2017-low-lt20,today,Great Marlborough Street,2,310,3,f17/1/1501-3000/le20 f17/unlaned/1501-3000/le20,tertiary,3000,class-default:310
+furth2017-low-lt20,today,Great Marlborough Street,X,49,1,uk-p-permission,pedestrian,,
+furth2017-low-lt20,today,Mortimer Street,3,446,6,f17/1/3000+/le20,primary,8139,count:167 road:279
+furth2017-low-lt20,today,New Cavendish Street,3,902,23,f17-blocked-lane+f17/1/3000+/le20 f17-blocked-lane+f17/2/0-8000/le20 f17/1/3000+/le20 f17/2/0-8000/le20,tertiary,3000,class-default:902
+furth2017-low-lt20,today,North Row,2,400,3,f17/1/1501-3000/le20 f17/1/751-1500/le20,residential unclassified,1000-1500,class-default:400
+furth2017-low-lt20,today,Oxford Street (pedestrianised),X,1062,35,p6 uk-p-bicycle uk-p-vehicle,pedestrian primary_link,9914-10867,class-default:15 count:139
+furth2017-low-lt20,today,Oxford Street east (open),3,1124,17,f17/1/3000+/le20,primary,10867-11657,count:87 road:1037
+furth2017-low-lt20,today,Oxford Street east (open),X,6,1,p6,pedestrian,,
+furth2017-low-lt20,today,Oxford Street west (open),3,380,8,f17/1/3000+/le20 f17/2/8001+/le20,primary,6552-9426,count:170 road:210
+furth2017-low-lt20,today,Seymour Street,2,118,3,f17-blocked-lane+f17/1/1501-3000/le20 f17/1/1501-3000/le20,tertiary,3000,class-default:118
+furth2017-low-lt20,today,Seymour Street,3,360,6,f17-blocked-lane+f17/1/3000+/le20 f17/1/3000+/le20,primary,7389,count:144 road:216
+furth2017-low-lt20,today,Wigmore Street,3,609,6,f17-blocked-lane+f17/1/3000+/le20 f17/1/3000+/le20,primary,15534,count:61 road:548
+furth2017-low-lt20,wigmore-track,Wigmore Street,1,609,6,s7,primary,15534,count:61 road:548
+furth2017-low-lt20,full-closure,Brook Street,2,388,7,f17/1/1501-3000/le20 f17/1/751-1500/le20,residential tertiary,1000-3000,class-default:388
+furth2017-low-lt20,full-closure,Brook Street,3,97,2,f17/1/3000+/le20,tertiary,3000,class-default:97
+furth2017-low-lt20,full-closure,Charlotte Street,2,448,4,f17/1/751-1500/le20,residential,1000,class-default:448
+furth2017-low-lt20,full-closure,George Street,1,400,6,s3,cycleway,,
+furth2017-low-lt20,full-closure,George Street,2,921,32,f17-blocked-lane+f17/unlaned/1501-3000/le20 f17/1/1501-3000/le20 f17/1/751-1500/le20 f17/unlaned/1501-3000/le20,residential tertiary unclassified,1000-3000,class-default:921
+furth2017-low-lt20,full-closure,George Street,X,283,4,p6,construction path proposed,,
+furth2017-low-lt20,full-closure,Great Marlborough Street,2,310,3,f17/1/1501-3000/le20 f17/unlaned/1501-3000/le20,tertiary,3000,class-default:310
+furth2017-low-lt20,full-closure,Great Marlborough Street,X,49,1,uk-p-permission,pedestrian,,
+furth2017-low-lt20,full-closure,Mortimer Street,3,446,6,f17/1/3000+/le20,primary,8139,count:167 road:279
+furth2017-low-lt20,full-closure,New Cavendish Street,3,902,23,f17-blocked-lane+f17/1/3000+/le20 f17-blocked-lane+f17/2/0-8000/le20 f17/1/3000+/le20 f17/2/0-8000/le20,tertiary,3000,class-default:902
+furth2017-low-lt20,full-closure,North Row,2,400,3,f17/1/1501-3000/le20 f17/1/751-1500/le20,residential unclassified,1000-1500,class-default:400
+furth2017-low-lt20,full-closure,Oxford Street (pedestrianised),X,1062,35,p6 uk-p-bicycle,pedestrian,9914-10867,count:139
+furth2017-low-lt20,full-closure,Oxford Street east (closed),X,1130,18,p6 uk-p-bicycle,pedestrian,10867,count:87
+furth2017-low-lt20,full-closure,Oxford Street west (closed),X,380,8,uk-p-bicycle,pedestrian,6552-9426,count:170
+furth2017-low-lt20,full-closure,Seymour Street,2,118,3,f17-blocked-lane+f17/1/1501-3000/le20 f17/1/1501-3000/le20,tertiary,3000,class-default:118
+furth2017-low-lt20,full-closure,Seymour Street,3,360,6,f17-blocked-lane+f17/1/3000+/le20 f17/1/3000+/le20,primary,7389,count:144 road:216
+furth2017-low-lt20,full-closure,Wigmore Street,3,609,6,f17-blocked-lane+f17/1/3000+/le20 f17/1/3000+/le20,primary,15534,count:61 road:548
+furth2017-low-lt20,full-closure-sealed,Brook Street,2,388,7,f17/1/1501-3000/le20 f17/1/751-1500/le20,residential tertiary,1000-3000,class-default:388
+furth2017-low-lt20,full-closure-sealed,Brook Street,3,97,2,f17/1/3000+/le20,tertiary,3000,class-default:97
+furth2017-low-lt20,full-closure-sealed,Charlotte Street,2,448,4,f17/1/751-1500/le20,residential,1000,class-default:448
+furth2017-low-lt20,full-closure-sealed,George Street,1,400,6,s3,cycleway,,
+furth2017-low-lt20,full-closure-sealed,George Street,2,921,32,f17-blocked-lane+f17/unlaned/1501-3000/le20 f17/1/1501-3000/le20 f17/1/751-1500/le20 f17/unlaned/1501-3000/le20,residential tertiary unclassified,1000-3000,class-default:921
+furth2017-low-lt20,full-closure-sealed,George Street,X,283,4,p6,construction path proposed,,
+furth2017-low-lt20,full-closure-sealed,Great Marlborough Street,2,310,3,f17/1/1501-3000/le20 f17/unlaned/1501-3000/le20,tertiary,3000,class-default:310
+furth2017-low-lt20,full-closure-sealed,Great Marlborough Street,X,49,1,uk-p-permission,pedestrian,,
+furth2017-low-lt20,full-closure-sealed,Mortimer Street,3,446,6,f17/1/3000+/le20,primary,8139,count:167 road:279
+furth2017-low-lt20,full-closure-sealed,New Cavendish Street,3,902,23,f17-blocked-lane+f17/1/3000+/le20 f17-blocked-lane+f17/2/0-8000/le20 f17/1/3000+/le20 f17/2/0-8000/le20,tertiary,3000,class-default:902
+furth2017-low-lt20,full-closure-sealed,North Row,2,400,3,f17/1/1501-3000/le20 f17/1/751-1500/le20,residential unclassified,1000-1500,class-default:400
+furth2017-low-lt20,full-closure-sealed,Oxford Street (pedestrianised),X,1062,35,p6 uk-p-bicycle,pedestrian,9914-10867,count:139
+furth2017-low-lt20,full-closure-sealed,Oxford Street east (closed),X,1130,18,p6 uk-p-bicycle,pedestrian,10867,count:87
+furth2017-low-lt20,full-closure-sealed,Oxford Street west (closed),X,380,8,uk-p-bicycle,pedestrian,6552-9426,count:170
+furth2017-low-lt20,full-closure-sealed,Seymour Street,2,118,3,f17-blocked-lane+f17/1/1501-3000/le20 f17/1/1501-3000/le20,tertiary,3000,class-default:118
+furth2017-low-lt20,full-closure-sealed,Seymour Street,3,360,6,f17-blocked-lane+f17/1/3000+/le20 f17/1/3000+/le20,primary,7389,count:144 road:216
+furth2017-low-lt20,full-closure-sealed,Wigmore Street,3,609,6,f17-blocked-lane+f17/1/3000+/le20 f17/1/3000+/le20,primary,15534,count:61 road:548

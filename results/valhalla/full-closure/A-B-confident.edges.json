@@ -1,0 +1,1056 @@
+{
+  "units": "kilometers",
+  "edges": [
+    {
+      "cycle_lane": "shared",
+      "way_id": 827484926,
+      "use": "cycleway",
+      "length": 0.007
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 701474481,
+      "use": "cycleway",
+      "length": 0.014
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 667510422,
+      "use": "cycleway",
+      "length": 0.016
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 667510424,
+      "use": "cycleway",
+      "length": 0.015
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 667513316,
+      "use": "cycleway",
+      "length": 0.002
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 667513316,
+      "use": "cycleway",
+      "length": 0.01
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 667513316,
+      "use": "cycleway",
+      "length": 0.009
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 720628351,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Marble Arch"
+      ],
+      "sign": {}
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.002,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.08,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.032,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509181623,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Great Cumberland Place"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635374,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635374,
+      "use": "road",
+      "length": 0.02,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635373,
+      "use": "road",
+      "length": 0.036,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.021,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.05,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.049,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 4486905,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Seymour Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 245170293,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 245170293,
+      "use": "road",
+      "length": 0.031,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635375,
+      "use": "road",
+      "length": 0.085,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 4486907,
+      "use": "road",
+      "length": 0.016,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635376,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Portman Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.05,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.1,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.067,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.012,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.021,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.038,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.015,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154029169,
+      "use": "road",
+      "length": 0.006,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 305358746,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 305358746,
+      "use": "road",
+      "length": 0.046,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 305358746,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1065177545,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 154132290,
+      "use": "road",
+      "length": 0.015,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1065177544,
+      "use": "road",
+      "length": 0.061,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1065177544,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.047,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.046,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 17944923,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Wigmore Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692644,
+      "use": "road",
+      "length": 0.055,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692644,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803962,
+      "use": "road",
+      "length": 0.026,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1283819523,
+      "use": "road",
+      "length": 0.014,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1283819523,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Cavendish Square",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803961,
+      "use": "road",
+      "length": 0.023,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 59718434,
+      "use": "road",
+      "length": 0.039,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803960,
+      "use": "road",
+      "length": 0.041,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1362803960,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Cavendish Place",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 30279893,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 30279893,
+      "use": "road",
+      "length": 0.07,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 30279893,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692645,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692645,
+      "use": "road",
+      "length": 0.083,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 209692645,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 55026151,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 55026151,
+      "use": "road",
+      "length": 0.06,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 55026151,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 615664502,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 615664502,
+      "use": "road",
+      "length": 0.054,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 615664502,
+      "use": "road",
+      "length": 0.053,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 615664502,
+      "use": "road",
+      "length": 0.01,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 509518151,
+      "use": "road",
+      "length": 0.044,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 670578016,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 670578016,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Mortimer Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 955518107,
+      "use": "road",
+      "length": 0.003,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 41660593,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 41660593,
+      "use": "road",
+      "length": 0.042,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 41660593,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 41660591,
+      "use": "road",
+      "length": 0.032,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 41660591,
+      "use": "road",
+      "length": 0.008,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 24865179,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 24865179,
+      "use": "road",
+      "length": 0.083,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 24865179,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 84697110,
+      "use": "road",
+      "length": 0.028,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "dedicated",
+      "way_id": 1040322992,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 699802882,
+      "use": "road",
+      "length": 0.011,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 699802882,
+      "use": "road",
+      "length": 0.009,
+      "names": [
+        "Goodge Street",
+        "A5204"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1271099762,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 299682133,
+      "use": "road",
+      "length": 0.059,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 299682133,
+      "use": "road",
+      "length": 0.027,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 299682133,
+      "use": "road",
+      "length": 0.023,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 912201551,
+      "use": "road",
+      "length": 0.005,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 264965257,
+      "use": "road",
+      "length": 0.032,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 264965257,
+      "use": "road",
+      "length": 0.026,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 264965256,
+      "use": "road",
+      "length": 0.028,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 667745342,
+      "use": "road",
+      "length": 0.013,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1067635356,
+      "use": "road",
+      "length": 0.035,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 299682132,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 685020270,
+      "use": "road",
+      "length": 0.02,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 564099715,
+      "use": "road",
+      "length": 0.041,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 101982008,
+      "use": "road",
+      "length": 0.03,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 101982008,
+      "use": "road",
+      "length": 0.028,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 101982008,
+      "use": "road",
+      "length": 0.018,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1065177553,
+      "use": "road",
+      "length": 0.027,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 31039,
+      "use": "road",
+      "length": 0.034,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 31039,
+      "use": "road",
+      "length": 0.019,
+      "names": [
+        "Tottenham Court Road"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1049590080,
+      "use": "road",
+      "length": 0.018,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "none",
+      "way_id": 1049590080,
+      "use": "road",
+      "length": 0.007,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    },
+    {
+      "cycle_lane": "shared",
+      "way_id": 315631030,
+      "use": "road",
+      "length": 0.036,
+      "target_percent_along": 0.819,
+      "names": [
+        "Charing Cross Road",
+        "A400"
+      ]
+    }
+  ],
+  "alternate_paths": []
+}
