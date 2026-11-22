@@ -18,7 +18,7 @@ Everything runs on published data (an OpenStreetMap extract of 2026-11-07, Depar
 
 | If you want to… | Go to |
 |---|---|
-| Read the article | &lt;link to follow&gt; |
+| Read the article | [Oxford Street cycling ban: no calm way round it yet](https://spokeplan.com/oxford-street-cycling-ban) |
 | Download press-ready maps (3,200 px PNG/WebP, CC BY 4.0) | [figures/README.md](figures/README.md) |
 | Check every sensitivity test, assumption and unrounded figure | [docs/article-notes.md](docs/article-notes.md) |
 | Open the route GeoJSONs or street tables without running code | [Key result files](#key-result-files) |
